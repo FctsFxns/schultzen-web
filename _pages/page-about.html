@@ -8,14 +8,17 @@ layout_class: page-about
 <div id="statement" class="row section">
     <!-- Statement -->
     <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 col-lg-6 col-lg-offset-0">        
-      {{ site.data.about-me.statement }}
+			{% capture inc-about-statement %}{% include about/statement.md %}{% endcapture %}
+			{{ inc-about-statement | markdownify }}
+
     </div>
 
     <div class="clearfix visible-sm-block col-sm-12"><p>&nbsp;</p></div>
 
     <!-- About -->
     <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">       
-      {{ site.data.about-me.about }}          
+			{% capture inc-about-bio %}{% include about/bio.md %}{% endcapture %}
+			{{ inc-about-bio | markdownify }}
     </div>    
 </div> <!-- #statement -->
 
