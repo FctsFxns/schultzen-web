@@ -4,9 +4,8 @@ title:   Christina Schultz
 
 
 description: > # this means to ignore newlines until "baseurl:"
-  line one
-  line two
-  line threeeeee
+  Christina Schultz is a multidisciplinary, project based artist, 
+  working with cinematic, performative and interactive fragmented elements.
 
 tagline:           > # this means to ignore newlines until next key
   Visual artist & performer
@@ -31,12 +30,11 @@ instagram_url: 'https://www.instagram.com/schultz_and_more/'
 
 # Set the url's of the PDF Links
 mailing_list_url: '#'
-pdf_bio:     'media/pdf/christina-schultz-bio.pdf'
-pdf_dossier: 'media/pdf/christina-schultz-dossier.pdf'
+pdf_bio:     'media/pdf/BioLongSchultz.pdf'
+pdf_dossier: 'media/pdf/DossierSchultz2016.pdf'
 
 # The intro text to appear on the Call To Action Block
-cta_text: 
+cta_text:
 
 footer_text:     > # this means to ignore newlines until "baseurl:"
   © 2016 Christina Schultz. All Rights Reserved.
-
