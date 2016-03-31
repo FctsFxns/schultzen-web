@@ -4,6 +4,11 @@ The website for artist and performer Christina Schultz
 
 ## Instalación
 
+### Dependencias
+
+- Ruby y Bundle
+- 
+
 @todo
 
 
