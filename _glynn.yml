@@ -1,0 +1,14 @@
+# Glynn default setup
+# -- once you've download this you may use it 
+# -- set the values and rename it to glynn.yml
+
+ftp_host: 'christinaschultz.com.dedi302.your-server.de'
+ftp_dir: '/public_html'
+ftp_passive: false
+
+# optional
+ftp_port: 21                  # default 21
+ftp_username: 'chrisf'        # default read from stdin
+ftp_password: 'W9R2bV00'      # default read from stdin
+ftp_secure: true              # default false
+
