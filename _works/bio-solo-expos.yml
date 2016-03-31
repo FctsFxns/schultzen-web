@@ -1,0 +1,42 @@
+# B I O
+# -----
+#  - Solo exhibitions -
+#
+# Sample:
+#
+# - title:    'Nom de la expo'
+#   venue:    'Nom del espai'
+#   place:    'Barcelona, ES'
+#   date:     'oct-nov 2015'
+#   year:     2015
+#   url:      'http://www.google.es'
+
+- title:    'EL FER i el no fer'
+  venue:    La Casa Elizalde
+  place:    Barcelona, ES
+  date:     oct-nov 2015
+  year:     2015
+
+- title:    'Say hi to Tom!'
+  venue:    Subarna, auction house
+  place:    Barcelona, ES
+  date:     feb 2015
+  year:     2015
+
+- title:    'You Your Wall and Me'
+  venue:    Different venues
+  place:    Barcelona, ES
+  date:     jan-march 2014
+  year:     2014
+
+- title:    'Say hi to Tom!'
+  venue:    Subarna, auction house
+  place:    Barcelona, ES
+  date:     feb 2015
+  year:     2015
+
+- title:    'Heroes'
+  venue:    Casa Galería Taller
+  place:    Barcelona, ES
+  date:     nov-dec 2012
+  year:     2012
