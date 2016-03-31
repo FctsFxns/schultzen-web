@@ -1,5 +1,5 @@
 ---
-title:           Lorem ipsum
+title:          Sample project
 categories: Projects Cinematic Performatic Video Sound Collage 
 intro: Some intro text to be used on the header and frontpage
 featured_image: /media/images/test/flowergirl.jpg
