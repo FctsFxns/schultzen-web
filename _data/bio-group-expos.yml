@@ -1,0 +1,71 @@
+# B I O
+# -----
+#  - Group exhibitions -
+#
+# Sample:
+#
+# - title:    'Nom de la expo'
+#   venue:    'Nom del espai'
+#   place:    'Barcelona, ES'
+#   date:     'oct-nov 2015'
+#   url:      'http://www.google.es'
+#   year:     2015
+
+- title:    'Lightning Studies: CTCCC, Encura'
+  venue:    Hangar
+  place:    Barcelona, ES
+  date:     feb 2016
+  year:     2016
+
+- title:    'Long Live Labour'
+  venue:    Pogom
+  place:    Zagreb, CR
+  date:     nov 2015
+  year:     2015
+
+- title:    'De Profvndis, Sesiones Polivalentes'
+  venue:    Hangar
+  place:    Barcelona, ES
+  date:     july 2015
+  year:     2015
+
+- title:    'Tallers Oberts Poblenou 2015'
+  venue:    Hangar
+  place:    Barcelona, ES
+  date:     june 2015
+  year:     2015
+
+- title:    'Ciclo de Autoproducción de género y de-generadxs'
+  place:    Barcelona, ES
+  date:     july 2013
+  year:     2013
+
+- title:    'Jugar a tres bandas'
+  venue:    Galería Fidel Balaguer
+  place:    Barcelona, ES
+  date:     feb-may 2013
+  year:     2013
+
+- title:    'Time Again'
+  venue:    The Private Space
+  place:    Barcelona, ES
+  date:     dec 2012
+  year:     2013
+
+- title:    'SIFF Mobile'
+  venue:    Shanghai Filmfestival
+  place:    Shanghai, China
+  date:     july 2012
+  year:     2012
+
+- title:    'YouPorn Categories of Sex'
+  venue:    Blissland
+  place:    Berlin, GER
+  date:     feb 2012
+  year:     2012
+
+- title:    'Open Studios'
+  venue:    GlogauAIR
+  place:    Berlin, GER
+  date:     feb 2011
+  year:     2011 

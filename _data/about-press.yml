@@ -1,0 +1,53 @@
+# A B O U T 
+# ----------
+#  - MORE PRESS -
+# 
+# Sample:
+#  
+# - title:   the article title, required
+#   author:  the author, optional
+#   medium:  the name of the media
+#   country: City and/or country, 2-letter acronym
+#   date:    feb 2016, necessary
+#   year:    2016, required
+#   url:     http://…
+
+- title:   'Post: 886195411444154'
+  author:  'Dandy von Nützen'
+  medium:  'Facebook'
+  country: 'WWW'
+  date:    'feb 2015'
+  year:    2015
+  url:     'https://www.facebook.com/dandyvonnutzen/posts/886195411444154'
+
+- title:   'EL FER i el no fer'
+  author:  'lecool'
+  medium:  'article'
+  country: 'ES'
+  date:    'sept 2015'
+  year:    2015
+  url:
+
+- title:   'Say Hi to Tom'
+  author:  le cool
+  medium:  article
+  country: ES
+  date:    sept 2014
+  year:    2014
+  url:     'http://barcelona.lecool.com/inspirations/say-hi-tom/'
+
+- title:   'You Your Wall and Me'
+  author:  lecool
+  medium:  article
+  country: ES
+  date:    sept 2013
+  year:    2013
+  url:     'http://barcelona.lecool.com/inspirations/say-hi-tom/'
+
+- title:   'Pre-post Actions in YouPorn Categories of Sex'
+  author:  UnDo.net
+  medium:  article
+  country: WWW
+  date:    feb 2011
+  year:    2011
+  url:     'http://1995-2015.undo.net/it/mostra/115293'

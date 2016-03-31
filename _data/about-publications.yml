@@ -1,0 +1,137 @@
+# A B O U T 
+# ----------
+#  - Publications & Catalogs -
+#  
+# Sample:
+#  
+# - title:   the article title, required
+#   author:  the author, optional
+#   medium:  who publishes
+#   country: City and/or country, 2-letter acronym
+#   date:    feb 2016, necessary
+#   year:    2016, required
+#   url:     http://…
+
+
+- title:   'Footnote #1: A Close Reading of Robinson Crusoe'
+  author:  Renan Laru-an
+  medium:  Blog Art Spy - Curator’s Network
+  country: WWW
+  date:    feb 2016
+  year:    2016
+  url:     'http://www.curators-network.eu/blog-entry/footnote-1-a-close-reading-of-robinson-crusoe'
+
+- title:   'Lightning Studies: CTCCCs'
+  author:  Renan Laru-an
+  medium:  Blog Art Spy - Curator’s Network
+  country: WWW
+  date:    jan 2016
+  year:    2016
+  url:     'http://www.curators-network.eu/blog-entry/lightning-studies-ctcccs-part-1-3'
+
+- title:   'EL FER'
+  author:  Christina Schultz
+  medium:  printed score in 5 chapters, self published, limited edition
+  country: ES
+  date:    sept 2015
+  year:    2015
+
+- title:   'EL FER i el no fer'
+  author:  facts&fictions
+  medium:  website
+  country: WWW
+  date:    sept 2015
+  year:    2015
+  url:     'http://www.christinaschultz.com/FERnofer/'
+
+- title:   'General Auction of february 2015'
+  author:  Subarna
+  medium:  website
+  country: WWW
+  date:    feb 2015
+  year:    2015
+  url:     'http://www.subarna.net/buscar?controller=search&orderby=position&orderway=desc&search_query=christina+schultz&submit_search='
+
+- title:   'General Auction of february 2015'
+  author:  Subarna
+  medium:  catalog
+  country: WWW
+  date:    feb 2015
+  year:    2015
+  url:     '/media/pdf/1423861538-CATALOGO-SUBARNA.pdf'
+
+- title:   'Say Hi to Tom'
+  author:  Claudia Giralt Monedero
+  medium:  website
+  country: WWW
+  date:    sept 2014
+  year:    2014
+  url:     'http://www.curators-network.eu/blog-entry/lightning-studies-ctcccs-part-1-3'
+
+- title:   'Tom’s diary'
+  author:  Christina Schultz
+  medium:  tumblr blog
+  country: WWW
+  date:    sept 2014
+  year:    2014
+  url:     'http://tomtomsdiary.tumblr.com/'
+
+- title:   'Tom’s postcards'
+  author:  Christina Schultz
+  medium:  tumblr blog
+  country: WWW
+  date:    sept 2014
+  year:    2014
+  url:     'http://tomsalbum.tumblr.com/'
+
+- title:   'Do nothing II'
+  author:  Christina Schultz
+  medium:  tumblr blog
+  country: WWW
+  date:    sept 2014
+  year:    2014
+  url:     'https://www.tumblr.com/blog/donothingtwo'
+
+- title:   'You Your Wall and Me'
+  author:  Daniel Canet
+  medium:  website
+  country: WWW
+  date:    sept 2013
+  year:    2013
+  url:     'http://christinaschultz.com/wall/'
+
+- title:   'You Your Wall and Me'
+  author:  Christina Schultz
+  medium:  tumblr blog
+  country: WWW
+  date:    sept 2013
+  year:    2013
+  url:     'http://christina-schultz.tumblr.com/'
+
+- title:   'Techno Phantasies'
+  author:  Christina Schultz
+  medium:  Poster, self published
+  country: ES
+  date:    sept 2012
+  year:    2012
+
+- title:   'One day at the Studio'
+  author:  Christina Schultz
+  medium:  artist comic, self published
+  country: ES
+  date:    march 2012
+  year:    2012
+
+- title:   'SIFF Mobile'
+  author:  Shanghai Shortfilm and Documentary Filmfestival
+  medium:  Catalog
+  country: China
+  date:    jan 2016
+  year:    2016
+
+- title:   'Pre-post Actions in YouPorn Categories of Sex'
+  author:  Blissland Issue 3
+  medium:  Catalog
+  country: GER
+  date:    jan 2011
+  year:    2011

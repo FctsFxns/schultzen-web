@@ -1,0 +1,180 @@
+# B I O
+# -----
+#  - PERFORMATIC TALKS, PRESENTATIONS and CONFERENCES -
+#
+# Sample:
+#
+# - title:    'Nom de la expo'ç
+#   type:     'Talk/Presentation /conference'
+#   venue:    'Nom del espai'
+#   place:    'Barcelona, ES'
+#   date:     'oct-nov 2015'
+#   year:     2015
+#   url:      'http://www.google.es'
+
+- title:    'Paratext_Encura#2'
+  type:     'Cinematic Talk'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     'feb 2016'
+  year:     2016
+
+
+- title:    'Footnote #1: A Close Reading of Robinson Crusoe'
+  type:     'Round Table'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     'jan 2016'
+  year:     2016
+  url:      'http://www.curators-network.eu//blog-entry/footnote-1-a-close-reading-of-robinson-crusoe'
+
+- title:    'EL FER i el no fer'
+  type:     'Presentation'
+  venue:    'Casa Elizalde'
+  place:    'Barcelona, ES'
+  date:     'oct 2015'
+  year:     2015
+
+- title:    'Manuales de autoayuda'
+  type:     'Performatic Talk'
+  venue:    'Liminal GR'
+  place:    'Barcelona, ES'
+  date:     'nov 2015'
+  year:     2015
+  url:      'http://www.liminalgr.org/category/programacio-2015/tutorials-i-manuals-dauto-ajuda/'
+
+- title:    'Worksongs'
+  type:     'Radio Session'
+  venue:    'Ultra Local record Store'
+  place:    'Barcelona, ES'
+  date:     'oct 2015'
+  year:     2015
+  url:      'https://soundcloud.com/mssschultz/fer'
+
+- title:    'Paratext nº6'
+  type:     'Cinematic Presentation'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     'oct 2015'
+  year:     2015
+
+- title:    'Cel·AV|vídeo'
+  type:     'Cinematic Presentation'
+  venue:    'Konvent Zero'
+  place:    'Barcelona, ES'
+  date:     'oct 2015'
+  year:     2015
+  url:      'https://celav.wordpress.com/'
+
+
+- title:    'Residencia creativa'
+  type:     'Presentation'
+  venue:    'Bólit'
+  place:    'Girona, ES'
+  date:     'july 2014'
+  year:     2014
+
+- title:    'BreadthCoding'
+  type:     'Performatic Presentation'
+  venue:    'La Poderosa'
+  place:    'Barcelona, ES'
+  date:     'oct 2014'
+  year:     2014
+
+- title:    'You Your Wall and Me'
+  type:     'Guided Tour'
+  place:    'Barcelona, ES'
+  date:     'feb 2014'
+  year:     2014
+  url:      'http://christinaschultz.com/wall/la-exposicion'
+
+
+- title:    'Un cuadro en el salón'
+  type:     'Performatic Presentation'
+  venue:    'Liminal GR'
+  place:    'Barcelona, ES'
+  date:     'nov 2013'
+  year:     2013
+  url:      'http://www.liminalgr.org/category/edicions-anteriors/programacio-2013/un-quadre-al-salo-menjador/'
+
+- title:    'Festival Escena Poble Nou'
+  type:     'Cinematic Presentation'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     '2013'
+  year:     2013
+
+- title:    'Jugar a tres bandas'
+  type:     'Cinematic Presentation'
+  venue:    'Galeria Fidel Balaguer'
+  place:    'Barcelona, ES'
+  date:     'may 2013'
+  year:     2013
+  url:      'http://www.tea-tron.com/paolamarugan/blog/2013/05/14/where-does-love-come-from-christina-schultz/'
+
+- title:    'Re-act feminism'
+  type:     'Cinematic Presentation'
+  venue:    'Fundació Tàpies'
+  place:    'Barcelona, ES'
+  date:     'june 2013'
+  year:     2013
+  url:      'http://editorialconcreta.org/Re-act-feminism-2-a-performing'
+
+- title:    'Time Again'
+  type:     'Cinematic Presentation'
+  venue:    'The Private Space'
+  place:    'Barcelona, ES'
+  date:     'oct 2012'
+  year:     2012
+  url:      'http://www.tea-tron.com/paolamarugan/blog/time-again/'
+
+- title:    'IKEA Dance'
+  type:     'Action Dance'
+  venue:    'IKEA'
+  place:    'Barcelona, ES'
+  date:     '2012'
+  year:     2012
+
+- title:    'Festival d’arts Escènics'
+  type:     'Cinematic Presentation'
+  venue:    'Teatre Estruch'
+  place:    'Sabadell, ES'
+  date:     'sept 2012'
+  year:     2012
+
+- title:    'Limit'
+  type:     'Cinematic Presentation'
+  venue:    'El Graner'
+  place:    'Barcelona, ES'
+  date:     'june 2012'
+  year:     2012
+
+- title:    'En contra del esport'
+  type:     'Performatic Presentation'
+  venue:    'Liminal GR'
+  place:    'Barcelona, ES'
+  date:     'dec 2011'
+  year:     2011
+  url:      'http://www.liminalgr.org/category/edicions-anteriors/programacio-2011/en-contra-esport/'
+
+- title:    'Comida Basura'
+  type:     'Cinematic Presentation'
+  venue:    'Liminal GR'
+  place:    'Barcelona, ES'
+  date:     'sept 2011'
+  year:     2011
+  url:      'http://www.liminalgr.org/category/edicions-anteriors/programacio-2011/cuina-escombraria/'
+
+- title:    'TrashfoodPorn'
+  type:     'Cinematic Presentation'
+  venue:    'Alice Gryphius Art Space'
+  place:    'Berlin, GER'
+  date:     'aug 2011'
+  year:     2011
+
+- title:    'Conferencias performativas'
+  type:     'Cinematic Presentation'
+  venue:    'Nau Estruch'
+  place:    'Barcelona, ES'
+  date:     'june 2011'
+  year:     2011

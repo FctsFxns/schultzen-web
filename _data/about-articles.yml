@@ -1,0 +1,67 @@
+# A B O U T 
+# ----------
+#  - Interviews & Articles -
+# 
+# Sample:
+#  
+# - title:   the article title, required
+#   author:  the author, optional
+#   medium:  the name of the media, required
+#   country: City and/or country, 2-letter acronym
+#   date:    feb 2016, necessary
+#   year:    2016, required
+#   url:     http://…, optional
+
+- title:   'I wish I was Warhol'
+  author:  Juan Antonio Cerezuela
+  medium:  Fabra i Coats, interview
+  country: Barcelona, ES
+  date:    feb 2016
+  year:    2016
+
+- title:   'EL FER i el no fer '
+  author:  Alicia García Núñez
+  medium:  lecool
+  country: ES
+  date:    oct 2015
+  year:    2015
+  url:     'http://barcelona.lecool.com/inspirations/del-29-de-octubre-al-4-de-noviembre/'
+
+- title:   'Fábricas de creación'
+  author:  BTV
+  medium:  TV interview
+  country: ES
+  date:    april 2015
+  year:    2015
+
+- title:   "El Bòlit promou les residències d'artistes"
+  author:  
+  medium:  El Punt d'avui
+  country: ES
+  date:    aug 2014
+  year:    2014
+  url:     'http://www.elpuntavui.cat/noticia/article/5-cultura/19-cultura/762145-el-bolit-promou-les-residencies-dartistes.html?tmpl=component&print=1&page='
+
+- title:   'Say hi to Tom – Artista'
+  author:  RenovaCreaIntegra
+  medium:  online magazine
+  country: ES
+  date:    nov 2014
+  year:    2014
+  url:     'http://renovacreaintegra.com/christina-schultz-say-hi-tom/'
+
+- title:   'El arte se refugia en casa'
+  author:  Anna Garbus
+  medium:  El País
+  country: ES
+  date:    oct 2013
+  year:    2013
+  url:     'http://ccaa.elpais.com/ccaa/2013/10/12/catalunya/1381606831_564141.html'
+
+- title:   'Globosonda'
+  author:  Marc Martínez
+  medium:  Nau Estruch, video interview
+  country: ES
+  date:    jan 2012
+  year:    2012
+  url:     'https://www.youtube.com/watch?v=K1IQK-uEJrU'

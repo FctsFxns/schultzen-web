@@ -1,0 +1,62 @@
+# B I O
+# -----
+#  - Professional Education -
+#
+# Sample:
+#
+# - institution:  'Nombre de la empresa/org'
+#   description:  'descripción compañia'
+#   rol:          'rol empeñado'
+#   place:        'Barcelona, ES'
+#   date:         '2011-2015'
+#   year:         2015
+#   url:          'http://www.google.es'
+
+
+- institution:  'facts & fictions'
+  description:  'Creative digital strategy studio'
+  rol:          'Communication & social media'
+  place:        'Barcelona, ES'
+  date:         '2015-…'
+  year:         2015
+  url:          'http://www.factsandfictions.net'
+
+- institution:  '4Cantons'
+  description:  'Institut de secundaria'
+  rol:          'Art workshop'
+  place:        'Barcelona, ES'
+  date:         '2015'
+  year:         2015
+  url:          'http://tgpe.4cantons.cat/?p=2604'
+
+- institution:  'WASABI produccions'
+  description:  'Production of audiovisuals for museums'
+  rol:          'Video Editing & Film Production'
+  place:        'Barcelona, ES'
+  date:         '2004-2012'
+  year:         2013
+  url:          'http://wasabiproduccions.com/'
+
+- institution:  'VELVET Mediendesign'
+  description:  'Graphic design and postproduction'
+  rol:          'Video Editing & Film Production'
+  place:        'Munich, GER'
+  date:         '2001-2004'
+  year:         2004
+  url:          'http://www.velvet.de/'
+
+- institution:  'DENKmal Film'
+  description:  'Documentary film Production'
+  rol:          'Video Editing & Film Production'
+  place:        'Munich, GER'
+  date:         '1995-1999'
+  year:         1999
+  url:          'http://www.denkmal-film.com/index2_e.html'
+
+- institution:  'The Internet'
+  rol:          'Content strategist for the web'
+  description:  'http'
+  place:        'world wide'
+  date:         '1995-...'
+  year:         1995
+  url:          'http://christinaschultz.com/content-strategy/'

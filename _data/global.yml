@@ -1,0 +1,33 @@
+# Site settings
+title:   Christina Schultz
+
+description: > # this means to ignore newlines until "baseurl:"
+  line one
+  line two
+  line threeeeee
+
+tagline:           > # this means to ignore newlines until next key
+  Visual artist & performer
+
+home_intro:        > # this means to ignore newlines until next key
+  These are my latest works
+
+email:            'contact@christinaschultz.com'
+
+twitter_username: 'schultzentweet'
+
+facebook_name: 'Christina Schultz'
+facebook_url:  'https://www.facebook.com/christina.schultz.73'
+
+instagram_name: 'Schultz and more'
+instagram_url: 'https://www.instagram.com/schultz_and_more/'
+
+
+mailing_list_url: '#'
+
+pdf_bio:     'media/pdf/christina-schultz-bio.pdf'
+pdf_dossier: 'media/pdf/christina-schultz-dossier.pdf'
+
+footer_text:     > # this means to ignore newlines until "baseurl:"
+  © 2016 Christina Schultz. All Rights Reserved.
+

@@ -1,0 +1,21 @@
+# B I O
+# -----
+#  - WORKSHOPS and directed ACTIVITIES -
+# 
+# Sample:
+#  # - title:    'Nom de la expo'
+#   type:     'Workshop / Activity'
+#   venue:    'Nom del espai'
+#   place:    'Barcelona, ES'
+#   date:     'oct-nov 2015'
+#   year:     2015
+#   url:      'http://www.google.es'
+
+- title:    'Nom de la expo'
+  type:     'Workshop / Activity'
+  venue:    'Nom del espai'
+  place:    'Barcelona, ES'
+  date:     'oct-nov 2015'
+  year:     2015
+  url:      'http://www.google.es'
+

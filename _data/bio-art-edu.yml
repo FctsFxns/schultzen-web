@@ -1,0 +1,69 @@
+# B I O
+# -----
+#  - Art Education -
+#
+# Sample:
+#
+# - title:    'Nombre del curso'
+#   teacher:  'Teacher name'
+#   venue:    'Nom del espai'
+#   place:    'Barcelona, ES'
+#   date:     '2015', necessary
+#   year:     2015, required
+#   url:      'http://www.google.es'
+
+- title:    'Distribuición Perturbadora'
+  teacher:  'Francesc Ruíz'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     '2015'
+  year:     2015
+
+- title:    'Network as Material'
+  teacher:  'Julian Oliver'
+  venue:    'The Influencers'
+  place:    'Barcelona, ES'
+  date:     '2014'
+  year:     2014  
+
+- title:    'Action Art'
+  teacher:  'Joan Casellas'
+  venue:    'NauEstruch'
+  place:    'Sabadell, ES'
+  date:     '2013'
+  year:     2013
+
+- title:    'Playing the Stage'
+  teacher:  'Jan Mech'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     '2013'
+  year:     2013
+
+- title:    'Limit'
+  teacher:  'Marc Vives and David Bestué'
+  venue:    'Graner'
+  place:    'Barcelona, ES'
+  date:     '2012'
+  year:     2012
+
+- title:    'How to write a statement'
+  teacher:  'Pilar Cruz and Mery Cuesta'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     '2012'
+  year:     2012
+
+- title:    'Conferència com a pràctica performàtica'
+  teacher:  'Antonio Ortega and Oscar Abril Ascaso'
+  venue:    'Nau Estruch'
+  place:    'Sabadell, ES'
+  date:     '2011'
+  year:     2011
+
+- title:    'The professional artist'
+  teacher:  'Joan Morey'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     '2011'
+  year:     2011
