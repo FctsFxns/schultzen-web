@@ -7,7 +7,18 @@ The website for artist and performer Christina Schultz
 ### Dependencias
 
 - Ruby y Bundle
-- 
+- Bower
+- Grunt
+
+
+sh bin/setup
+
+Then 
+
+> grunt build
+> 
+> grunt theming
+
 
 @todo
 

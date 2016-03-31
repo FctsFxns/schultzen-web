@@ -13,3 +13,5 @@ bundle check || bundle install
 # Set up JS dependencies via Bower.
 bower --version > /dev/null || npm install -g bower
 bower install
+
+npm install
