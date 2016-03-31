@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# Set up the Jekyll site. 
+# Set up the Jekyll site.
 # Run this script immediately after cloning the codebase.
 
 # Exit if any subcommand fails
