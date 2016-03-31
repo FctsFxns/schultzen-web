@@ -48,13 +48,16 @@ Encontrarás una serie de ficheros para gestionar los contenidos de la [sección
 - Interviews & Articles
 - More Press
 
+
+### 03. Carpeta '_includes'
+
 ##### ¿Cómo cambiamos el texto del statement y de la bio?
 
 Estos dos textos se encuentran en un sitio un poco especial.
 
 Concretamente en la carpeta _includes/
 
-### 01. Carpeta '_data'
+Puedes usar un editor de Markdown para cambiar el contenido de estos textos.
 
 
 
