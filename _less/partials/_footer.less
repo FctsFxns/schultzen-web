@@ -1,0 +1,38 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  // margin-bottom: 75px;
+}
+.footer {
+  // position: absolute;
+  // bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 75px;
+}
+
+body.page-404 {
+	#cta {
+		position: absolute;
+		width: 100%;
+		bottom: 75px;
+	}
+	
+}
+
+footer.footer {
+	background-color: @footer-color;
+	.row {
+		padding-top: 1em;
+	}
+	small {
+		font-size: 66%;
+		line-height: 21px;
+		font-style: italic;
+	}
+}

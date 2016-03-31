@@ -1,0 +1,20 @@
+
+<div id="press-kit" class="row section">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <h1 class="title text-center">Press & media</h1>
+        <ul class="inline-links">
+          <li>
+            <a class="link" href="/{{ site.data.global.pdf_bio | prepend: site.data.global.url }}">Download CV <span>PDF</span></a>
+          </li>
+          <li>
+            <a class="link" href="/{{ site.data.global.pdf_dossier | prepend: site.data.global.url }}">Download Dossier <span>PDF</span></a>                
+          </li>
+        </ul>  
+        {% if site.data.global.mailing_list_url %}                  
+          <ul class="inline-links">
+              <li><a href="{{ site.data.global.mailing_list_url }}">Mailing list</a></li>
+          </ul>              
+        {% endif %}
+    </div>
+
+</div> <!-- #press-kit -->

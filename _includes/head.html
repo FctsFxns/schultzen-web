@@ -1,0 +1,81 @@
+<!DOCTYPE html lang="en">
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="Shortcut Icon" href="{{ site.data.global.url }}/favicon.ico" type="image/x-icon" /> 
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.data.global.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.data.global.title }}" href="{{ "/atom.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- Page metas -->
+    <title>{% if page.title %}{{ page.title | truncate: 120 }} | {{ site.data.global.title }}{% else %}{{ site.data.global.title }}{% endif %}</title>
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="description" content="{% if page.intro %}{{ page.intro | strip_html | strip_newlines | truncate: 160 | replace:'"',''}}{% else %}{% if work.intro %}{{ work.intro | strip_html | strip_newlines | truncate: 160 | replace:'"','' }}{% else %}{{ site.data.global.description }}{% endif %}{% endif %}">
+
+    <!-- OGP Shite -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% elsif post.title %}{{ post.title }}{% else %}{{ site.data.global.title }} {% endif %}" />
+    <meta property="og:site_name" content="{{ site.data.global.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:description" content="{% if page.intro %}{{ page.intro | strip_html | strip_newlines | truncate: 160 | replace:'"',''}}{% else %}{% if work.intro %}{{ work.intro | strip_html | strip_newlines | truncate: 160 | replace:'"','' }}{% else %}{{ site.data.global.description }}{% endif %}{% endif %}" />
+   
+    {% if page.featured_image %}
+        <meta property="og:image" content="{{ page.featured_image  | prepend: site.baseurl | prepend: site.url }}" />
+    {% endif %}
+
+    {% if site.data.global.twitter_username %}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@{{ site.data.global.twitter_username }}" />
+    <meta name="twitter:creator" content="@{{ site.data.global.twitter_username }}" />
+    <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% elsif post.title %}{{ post.title }}{% else %}{{ site.data.global.title }} {% endif %}" />
+    <meta name="twitter:description" content="{% if page.intro %}{{ page.intro | strip_html | strip_newlines | truncate: 200 | replace:'"',''}}{% else %}{% if work.intro %}{{ work.intro | strip_html | strip_newlines | truncate: 160 | replace:'"','' }}{% else %}{{ site.data.global.description }}{% endif %}{% endif %}" />
+        {% if page.featured_image %}
+            <meta property="twitter:image" content="{{ page.featured_image  | prepend: site.baseurl | prepend: site.url }}" />
+        {% endif %}
+    {% endif %}
+
+    <!-- Les styles from jekyll :: sass -->
+    {% stylesheet default %}
+    <!-- Third party styles from bower using jekyll-assets-->
+    {% stylesheet bootstrap/dist/css/bootstrap %}
+
+    <!-- Our custom styles with less using less via grunt-node -->
+    <link rel="stylesheet" href="{{ "/css/main.min.css" | prepend: site.baseurl }}">
+
+    <!-- Les scripts from third parties  -->
+    {% javascript modernizr-2.8.3-respond-1.4.2.min %}
+
+    {% javascript vendor %}
+    <!-- Les scripts for my app -->
+    {% javascript application %}
+
+    <!-- Only in development mode -->
+    <script src="//localhost:35729/livereload.js"></script>
+
+    <!-- Legacy browsers support -->
+    <!--[if lt IE 9]>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Les google analytics @todo -->
+    <script>
+          (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+          function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+          e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+          e.src='//www.google-analytics.com/analytics.js';
+          r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+          ga('create','{{ site.ga_analytics }}', 'auto');ga('send','pageview');
+    </script>
+
+</head>
+<body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout_class %} {{ page.layout_class }}{% endif %} {{ work.title | downcase | replace:' ','-' | replace:',','' | strip_html }}">
+
+

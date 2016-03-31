@@ -1,0 +1,21 @@
+---
+layout: default
+layout_class: page-home
+---
+<article class="container">
+	<!-- slideshow -->
+	<div id="index-slideshow" class="row">
+	  <div class="col-xs-12 text-center">
+	    <h1 class="super-title">
+	      {{ site.data.global.title }}
+	    </h1>
+	    <a class="btn btn-big" href="./about">{{ site.data.global.tagline }}</a>
+	  </div>
+	</div>
+
+	<!-- Projectes destacats -->
+	<div id="index-content" class="row">
+	  <h2 class="title">{{ site.data.global.home_intro }}</h2>
+	  {% include components/works-homepage.html %}
+	</div>
+</article>

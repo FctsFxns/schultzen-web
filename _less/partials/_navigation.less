@@ -1,0 +1,310 @@
+nav.navbar {
+	border-bottom: 1px solid @nav-border-color;
+	background-image: none;
+	box-shadow: none;
+	background-color: @nav-color;
+	border-color: @nav-border-color;
+	padding: 1.75em 0;
+	padding: 1.75em 0 2.5em;
+
+	.navbar-brand {
+
+	  margin-top: 0;
+	  margin-left: 0;
+	  display: inline-block;
+	  vertical-align: middle;
+	  font-size: 27px;
+	  font-style: italic;
+
+	  font-family: @headlines-font;
+	  text-decoration: none;
+	  text-shadow: none;
+	  color: @link-color;
+
+	  -webkit-transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -moz-transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -ms-transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -o-transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+
+
+		span {
+
+		  -webkit-transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+		  -moz-transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+		  -ms-transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+		  -o-transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+		  transition: color 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+
+		    font-size: 11px;
+		    font-family: @subheadlines-font;
+		    font-family: "Helvetica Neue", Helvetica, Arial, Sans-serif;
+			font-style: normal;
+
+		    font-weight: normal;
+		    display: inline-block;
+		    padding-left: .5em;
+		    padding-top: 2px;
+		    vertical-align: middle;
+		    color: @link-color-hover;
+		    display: inline;
+		    margin-top: 0;
+		}
+
+		&:hover {
+			color: @link-color-hover;
+			span {
+				color: @link-color;
+			}
+		}
+	}
+
+	.navbar-collapse, 
+	.navbar-form {
+	    border-color: @nav-border-color;
+	    box-shadow: none;
+	    border-top: medium none;
+	    padding-top: 5px;
+	}
+
+	.navbar-toggle {
+		border: none;      
+          -webkit-transition: all 0.4s;
+		  -moz-transition: all 0.4s;
+		  -ms-transition: all 0.4s;
+		  -o-transition: all 0.4s;
+		  transition: all 0.4s;
+
+
+		&:focus, 
+		&:hover {
+			background-color: @nav-color;
+			.icon-bar {
+				background-color: @link-color-hover;
+			}
+		}
+
+		.icon-bar {
+			height: 3px;
+			background-color: @link-color;
+			& + .icon-bar {
+				margin-top: 4px;
+			}
+
+		}
+
+	}
+
+	.dropdown-menu {
+
+	  -webkit-transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -moz-transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -ms-transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -o-transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+
+	  background-color: @nav-color; 
+
+		box-shadow: none;
+		border-color: @nav-border-color;
+		border-radius: 0;
+		font-size: 100%;
+		margin-top: 54px;
+		text-align: right;
+		& > li > a:focus, 
+		& > li > a:hover {
+				color: @link-color-hover;
+				background-color: @nav-color;
+				background-image: none;
+				box-shadow: none;
+		}
+	}
+
+	.navbar-nav {
+
+	  -webkit-transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -moz-transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -ms-transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  -o-transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+	  transition: all 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+
+		& > .active > a, 
+		& > .open > a {
+			box-shadow: none;
+			background-image: none;
+			background-color: @nav-color;
+			&:hover,
+			&:focus {
+				color: @link-color-hover;
+				background-color: @nav-color;
+				background-image: none;
+				box-shadow: none;
+			}
+		}
+
+		li {
+			a {
+
+				font-family: @subheadlines-font;
+				line-height: 24px;
+				color: @link-color;
+				text-decoration: none;
+				text-shadow: none;
+				text-transform: capitalize;
+
+				  -webkit-transition: color 0.3s;
+				  -moz-transition: color 0.3s;
+				  -ms-transition: color 0.3s;
+				  -o-transition: color 0.3s;
+				  transition: color 0.3s;
+
+				padding: 10px 20px;  
+
+
+				&:hover {
+					color: @link-color-hover;
+				}
+				&:active {					
+					color: @link-color-hover;
+				}
+			}
+			&.active {
+				a {
+					color: @link-color-hover;
+				}
+			}
+			&.languages {
+				& > a {
+					text-transform: uppercase;
+					font-size: 75%;
+				}
+				a {
+					font-size: 66.6666%;
+					color: @text-color;
+					&:hover,
+					&:focus {
+						color: @link-color-hover;
+					}
+				}
+			}
+		}
+	}
+}
+
+body {
+	padding-top: 136px !important;
+	// Since the navigation is a <nav> element
+	// the first div comes at hand
+	& > div {
+		margin-top: 4em;
+	}
+
+}
+
+/** Homepage **/
+body.page-home {
+	nav.navbar {
+		// border-bottom: 1px solid @link-color-hover;
+		.navbar-brand {
+
+			-webkit-transition: margin-top 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+			-moz-transition: margin-top 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+			-ms-transition: margin-top 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+			-o-transition: margin-top 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+			transition: margin-top 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+
+			margin-top: -85px;
+			&.show {
+			  margin-top: 0;
+			} 
+		}
+	}
+}
+
+
+@media (max-width: @screen-lg) {
+	nav.navbar {
+		// padding: 1.75em 0 2.75em;
+
+		.navbar-brand {
+			font-size: 27px;
+			span {	
+				font-size: 11px;
+				padding-left: 2px;
+				display: block;
+				margin-top: 0;
+			}
+		}
+		.dropdown-menu {}
+
+		.navbar-nav	{
+		}
+	}
+}
+
+@media (max-width: @screen-md) {
+	body {
+		padding-top: 140px !important;
+
+		& > div {
+			margin-top: 3em;
+		}	
+	}
+
+	nav.navbar {
+		.navbar-brand { 
+			font-size: 28px;
+
+			span {	
+				font-size: 11px;
+				display: block;
+				margin-top: -2px;
+			}
+		}
+
+		.dropdown-menu {	
+			margin-top: 41px;
+		}
+		.navbar-nav {
+
+			li  a {
+				padding: 10px 15px;  
+			}
+		}
+	}
+}
+
+@media (max-width: @screen-xs) {
+	body {
+		padding-top: 86px !important;
+
+		& > div {
+			margin-top: 2.5em;
+		}		
+	}
+
+	nav.navbar {
+		padding: .75em 0;
+		.navbar-brand { 
+			// margin-left: 0;
+			margin-top: -2px;
+			font-size: 18px;
+			span {	
+				font-size: 9px;
+				display: block;
+				margin-top: -8px;
+			}
+		}
+
+		.navbar-nav {
+
+			li  a {
+				padding: 10px 12px;  
+			}
+		}
+		.dropdown-menu {	
+			margin-top: 0;
+		}
+
+	}
+}

@@ -1,0 +1,26 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+So glad to have the chance to make this great website
+for such a great artist and person. 
+
+# TEAM
+
+    Christina Schultz -- Author -- @schultzentweet
+    Daniel Canet -- Digital Production -- @dcanetma
+
+# THANKS to
+
+    Life, family and friends.
+
+# TECHNOLOGY COLOPHON 
+
+    HTML5, CSS3, 
+    Less, Sass,
+    jQuery, Modernizr,
+    "Bootstrap",
+    "jQuery Appear" from github.com/morr/jquery.appear,
+    "Bower",
+    "Glynn",
+    "Jekyll", 
+    "Jekyll compress" from Anatol Broder

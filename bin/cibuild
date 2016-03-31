@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -e # halt script on error
+
+# Set up Ruby dependencies via Bundler.
+gem install bundler --conservative
+bundle check || bundle install
+
+# Set up JS dependencies via Bower.
+# bower --version > /dev/null || npm install -g bower
+# bower install
+
+bundle exec jekyll build
+#bundle exec htmlproofer ./_site --disable-external
+#bundle exec htmlproofer ./_site --only-4xx --url-ignore "#"
+bundle exec htmlproofer ./_site

@@ -1,0 +1,30 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>{{ site.data.global.title | xml_escape }}</title>
+ <link href="{{ site.data.global.url }}/atom.xml" rel="self"/>
+ <link href="{{ site.data.global.url }}/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url }}</id>
+ <author>
+   <name>{{ site.data.global.admin_name }}</name>
+   <email>{{ site.data.global.admin_email }}</email>
+ </author>
+
+ {% assign sorted_works = (site.works | sort: 'date' | reverse ) %}
+ {% for post in sorted_works limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="{{ site.url }}{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ post.id }}</id>
+   {% if post.intro %}
+	   <content type="html">{{ post.intro | xml_escape  }}</content>
+   {% endif %}
+ </entry>
+ {% endfor %}
+
+</feed>

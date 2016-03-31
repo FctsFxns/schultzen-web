@@ -1,0 +1,20 @@
+{% comment %}
+<!--
+# B I O
+#  - 'People I owe a lot' -
+# - name:   'Daniel Canet'
+#   url:     'http://www.danielca.net'
+
+	<h4><a href="url">name</a></h4>
+-->
+{% endcomment %}
+
+<ul class="inline-links">
+{% for item in site.data.bio-people %}
+  {% if item.url %}
+    <li><h4><a href="{{ item.url }}">{{ item.name }}</a></h4></li>
+  {% else %}
+    <li><h4>{{ item.name }}</h4></li>
+  {% endif %}
+{% endfor %}
+</ul>

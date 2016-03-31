@@ -1,0 +1,35 @@
+{% comment %}
+<!--
+	# B I O
+	# =====
+	# - Awards, grants & residencies -
+	#
+	# - title:        Residency at
+	#   organization: Hangar.org
+	#   place:        Barcelona, ES
+	#   date:         2015-2017
+	#   year:         2015
+	#   url:          https://hangar.org/en/residents/artistes-residents/
+
+	<h3>Grouped by 'year'</h3> 
+	<h4><a href="url">title organization</a></h2>
+	<p><em >place</em> (date)</p>
+-->
+{% endcomment %}
+
+{% assign items_grouped = site.data.bio-awards | group_by:"year" %}
+{% for group in items_grouped %}
+  <h3>{{ group.name }}</h3>  
+  {% assign items = site.data.bio-awards | where : 'year' , group.name %}
+  {% for item in items  %}
+  
+	  {% if item.url %}
+	    <h4><a href="{{ item.url }}">{{ item.title | append: " "}}{{ item.organization }}</a></h4>
+	  {% else %}
+	    <h4>{{ item.title | append: " "}}{{ item.organization }}</h4>
+	  {% endif %}
+
+	  <p><em>{{ item.place }}</em> ({{ item.date }})</p>
+
+  {% endfor %}
+{% endfor %}

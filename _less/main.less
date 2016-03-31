@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+@color-primary:       #ed1c24;
+
+// Color variables 
+@body-color:          #f9f9f9; 
+@text-color:          #3e3e3e; 
+@link-color:          #000000; 
+@link-color-hover:    @color-primary; 
+@link-color-visited:  #dedede; 
+
+@nav-color:        #ffffff; 
+@nav-border-color: @link-color-visited; // #dedede
+ 
+@footer-color:     #ffffff;
+
+// Font variables
+@body-font:           Georgia, Times, "Times New Roman", serif;
+@headlines-font:      "volkhov", Georgia, Times, "Times New Roman", serif;
+@subheadlines-font:   "montserrat", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+@helvetica-font:      "Helvetica Neue",Helvetica,Arial,Sans-serif;
+@button-font:         @subheadlines-font;
+
+@screen-xs: 480px;
+@screen-sm: 768px;
+@screen-md: 992px;
+@screen-lg: 1200px;
+
+// Add main less styles here
+// This is shite with the curren less compiler we're using
+@import 'partials/_fonts.less';
+@import 'partials/_base.less';
+@import 'partials/_layout.less';
+@import 'partials/_footer.less';
+@import 'partials/_navigation.less';
+@import 'partials/_buttons.less';
+@import 'partials/_home.less';
+@import 'partials/_works.less';
+
+
+
+// @import "ferinofer-main.less";

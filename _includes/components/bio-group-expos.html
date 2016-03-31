@@ -1,0 +1,30 @@
+{% comment %}
+<!-- 
+# B I O
+# - Group exhibitions -
+-->
+{% endcomment %}
+
+
+{% assign items_grouped = site.data.bio-group-expos | group_by:"year" %}
+{% for group in items_grouped %}
+  <h3>{{ group.name }}</h3>  
+  {% assign items = site.data.bio-group-expos | where : 'year' , group.name %}
+  {% for item in items  %}
+  
+	  {% if item.url %}
+	    <h4><a href="{{ item.url }}">{{ item.title }}</a></h4>
+	  {% else %}
+	    <h4>{{ item.title }}</h4>
+	  {% endif %}
+
+	  {% if item.venue %}
+		  <p>{{ item.venue | append: ", "}} <em>{{ item.place }}</em> ({{ item.date }})</p>
+
+	  {% else %}
+		  <p><em>{{ item.place }}</em> ({{ item.date }})</p>
+	  {% endif %}
+
+	 
+  {% endfor %}
+{% endfor %}

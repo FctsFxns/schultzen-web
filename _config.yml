@@ -1,0 +1,128 @@
+# Christina Schultz website, jekyll configuration file
+
+# Important info for editors!
+
+# - Settings related to content are stored in /_data/global.yml
+# - Main navigation is stored in /_data/nav.yml
+# - Contact & CTA links are stored in /_data/contact.yml
+
+
+# Where things are
+plugins_dir:      ./_plugins
+layouts_dir:      ./_layouts
+data_dir:         ./_data
+source:           .
+destination:      ./_site
+
+# Server
+host:             127.0.0.1
+port:             9009
+encoding:         UTF-8
+url:              'http://www.christinaschult.com'
+baseurl:          "" # does not include hostname
+#detach:          false
+
+# Gems var
+gems:
+  - jekyll-paginate
+  - jekyll-assets
+
+# Custom var
+ga_analytics: UA-43853933-3
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Assets
+assets:
+  compress:
+    css: less
+    js: true
+  digest: true
+  prefix: "/assets"
+  sources:
+    - _assets/bower
+    - _assets/js
+    - _assets/stylesheets
+    - _assets/css
+
+
+# Handling Reading
+# safe:             false
+
+# Outputting
+permalink:       /:title.html
+paginate_path:   /page:num
+#paginate:        3
+timezone:        'ES'
+future:          true
+
+# Collections
+collections:
+  works:
+    path:      works
+    output:    true
+    permalink: /works/:title/
+
+# Default values per collectionsdefaults:
+defaults:
+  - scope:
+      type: works
+    values:
+      layout:         work
+      featured_image: http://placehold.it/905x390
+
+# include:        [".htaccess,images"]
+exclude:          [
+  'node_modules'
+  , 'bin'
+  , '_glynn.default.yml'
+  , '_glynn.yml'
+  , 'Gemfile'
+  , 'Gemfile.lock'
+  , 'Gruntfile.js'
+  , 'circle.yml'
+  , 'bower.json'
+  , 'node_modules'  
+  # , '_assets/vendor'           # necessary for travis integration
+  ]
+
+include:          
+  -  '.htaccess'
+  -  '_pages'
+  -  '_works'
+  -  'feed.xml' 
+  -  'atom.xml' 
+  -  'sitemap.xml' 
+  -  'humans.txt' 
+  -  'robots.txt'
+  -  'favicon.ico'
+
+# keep_files:     [".git", ".svn"]
+markdown_ext:     'markdown,mkdown,mkdn,mkd,md'
+
+# Outputting
+permalink:       /:title.html
+#paginate_path:   /page:num
+#paginate:        3
+timezone:        'ES'
+
+# Compress html
+# @see: http://jch.penibelst.de/
+compress_html:
+  clippings: [div, p, ul, td, h1, h2, h3, h4, h5]
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
+
+# Custom vars
+current_version:  1.0.0
+repo:             https://bitbucket.org/schultzen/christina-schultz-site

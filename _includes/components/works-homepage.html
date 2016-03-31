@@ -1,0 +1,12 @@
+{% assign sorted_works = (site.works | sort: 'date' | reverse | where: "home_show" , "true") %}
+
+{% for work in sorted_works limit:3 %}
+
+	<div class="work col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-4">  
+	  {% include components/works-teaser.html %}
+
+	</div>
+	<div class="clearfix visible-xs-block col-sm-1"><p>&nbsp;</p></div>
+
+
+{% endfor %}

@@ -1,0 +1,27 @@
+<!-- 
+	<h3>Grouped by 'year'</h3> 
+	<h4><a href="url">title</a></h2>
+	<p>author, <em >medium</em> (country, date)</p>
+ -->
+
+{% assign items_grouped = site.data.about-articles | group_by:"year" %}
+{% for group in items_grouped %}
+  <h3>{{ group.name }}</h3>  
+  {% assign items = site.data.about-articles | where : 'year' , group.name %}
+  {% for item in items  %}
+  
+	  {% if item.url %}
+	    <h4><a href="{{ item.url }}">{{ item.title  }}</a></h4>
+	  {% else %}
+	    <h4>{{ item.title }}</h4>
+	  {% endif %}
+
+	  {% if item.author %}
+		  <p>{{ item.author | append: ", "}} <em>{{ item.medium }}</em> ({{ item.country | append: ", " }}{{ item.date }})</p>
+	  {% else %}
+		  <p><em>{{ item.medium }}</em> ({{ item.country | append: ", " }}{{ item.date }})</p>
+	  {% endif %}
+
+  {% endfor %}
+{% endfor %}
+

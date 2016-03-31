@@ -1,0 +1,304 @@
+// Fer el paragraph text més petit?
+// Ajustar tamanys a tots els viewports
+.work {
+
+	padding-left: 30px;
+	padding-right: 30px;
+
+	a.more {
+		font-size: 75%;
+	}
+
+	p {
+		text-align: left;
+		font-size: 16px;
+		line-height: 32px;
+		a {				
+		}
+	}
+
+	em {
+		font-style: italic;
+	}
+
+	.thumb {
+		display: block;
+		position: relative;
+		&:hover {
+			img.original {
+				opacity: 1;
+			}
+			img.duotone {
+				opacity: 0;
+			}
+
+		}
+	}
+
+	img {
+		position: relative;
+		margin: 0 auto;
+		width: 100%;
+		opacity: 1;
+			  -webkit-transition: opacity 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+		  -moz-transition: opacity 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+		  -ms-transition: opacity 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+		  -o-transition: opacity 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+		  transition: opacity 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
+
+		&.original {
+			opacity: 0;
+			position: absolute;
+			top: 0;
+		}
+		&.duotone {
+		  width: 100%;
+		  opacity: 0;
+		  &.processed {
+		  	 opacity: 1;
+		  }
+		  &:hover {
+		  	 opacity: 0;
+		  }
+		}
+
+	}
+	h3 {
+		font-family: @subheadlines-font;
+		font-size: 20px;
+		line-height: 32px;
+		text-align: center;
+		color: @text-color;
+		a {
+			text-decoration: none;
+			color: @link-color;
+		}
+	}
+}
+
+// Fallback for no-js 
+.no-js {
+	.work {
+		.thumb {
+			img.original {
+				opacity: 1;
+			}
+			img.duotone {
+				opacity: 0;
+			}
+		}
+
+	}
+}
+
+header.work-page {
+	margin-bottom: 2em;
+	margin-top: 1em;
+	position: relative;
+	h1 {
+
+		font-family: @headlines-font;
+		font-family: @subheadlines-font;
+
+		font-size: 38px;
+		line-height: 48px;
+
+		color: @link-color;
+		margin: .5em 0;
+		text-align: center;
+
+		// // Tablets
+		// margin-top: -2.75em;
+		// margin-bottom: .75em;
+
+		// // Default
+		// margin-top: -1.5em;
+		// margin-bottom: .5em;
+
+		// color: #fff;
+		// text-shadow: 2px 2px 1px #000;
+	}
+	p {
+		font-size: 20px;
+		line-height: 38px;
+		text-align: center;
+		margin-bottom: 1em;
+		color: @link-color;
+		padding: 0 90px; 
+	}
+
+	ul.inline-links {
+		li {
+			margin-left: 0;
+		}
+	}
+
+	img {
+		margin: 0 auto;
+		width: 100%;
+	}
+
+	iframe {
+    width: 100%;
+    height: auto;
+    display: block;
+    min-height: 500px;
+	}
+}
+
+div.work-page {
+	h1 {
+		font-size: 40px;
+		line-height: 52px;
+	}
+	img {
+		display: block;
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+.work-page-bottom {
+	padding-bottom: 4.5em;
+}
+
+// @screen-lg: 1200px;
+// @screen-md: 992px;
+// @screen-sm: 768px;
+// @screen-xs: 480px;
+
+@media (max-width: @screen-lg) {
+
+	.work {
+		img {
+			width: 100%;
+		}			
+	}
+	header.work-page {
+
+		iframe {
+	    min-height: 375px;
+		}
+
+	}
+
+
+	div.work-page {
+	}
+
+}
+
+@media (max-width: @screen-md) {
+
+	.work {
+		padding-left: 15px; // from bs4
+		padding-right: 15px; // from bs4
+
+		margin-bottom: 2.5em;
+		h2 {
+
+		}
+		h3 {
+			font-size: 20px;
+			line-height: 32px;
+		}
+
+		p {
+			text-align: left;
+			font-size: 16px;
+			line-height: 32px;
+		}
+
+		img {
+			// width: 80%;
+		}
+
+	}	
+
+	header.work-page {
+		p {
+			padding: 0; 
+		}
+		iframe {
+	    min-height: 375px;
+		}
+
+
+	}
+
+	div.work-page {
+	}
+
+}
+
+@media (max-width: @screen-sm) {
+
+	.work {
+		margin-bottom: 1.5em;
+		h3 {
+			font-size: 16px;
+			text-align: left;
+			line-height: 24px;
+		}
+		p {
+			text-align: left;
+			font-size: 14px;
+			line-height: 26px;
+		}
+
+	}	
+
+	header.work-page {
+		iframe {
+			 min-height: 275px;
+		}
+
+
+	}
+
+}
+	
+@media (max-width: @screen-xs) {
+	.work {
+		margin-bottom: .5em;
+		h3 {
+			font-size: 16px;
+			line-height: 24px;
+		}
+		p {
+			text-align: left;
+			font-size: 12px;
+			line-height: 18px;
+		}
+
+	}	
+	div.work-page {
+	}
+
+	header.work-page {
+		margin-bottom: 0;
+		h1 {
+			font-size: 18px;
+			line-height: 24px;	
+		}
+		p {
+			font-size: 14px;
+			line-height: 22px;
+			text-align: left;
+		}
+		iframe {
+	    min-height: 180px;
+		}		
+		ul.inline-links {
+			li {
+				font-size: 10px;
+			}
+		}
+	}
+	div.work-page {
+		p {
+			font-size: 13px;
+			line-height: 21px;
+		}
+	}
+}

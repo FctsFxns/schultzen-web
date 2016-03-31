@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="container">
+
+	 <header class="row header" hidden >
+	    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+	        <h2 class="title">{{ page.title }}</h2>
+			{% if page.intro %}
+				{{ page.intro | markdownify }}
+			{% endif %}
+	    </div>
+	</header>
+
+	{{ content }}
+</article>

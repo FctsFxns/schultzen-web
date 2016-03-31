@@ -1,0 +1,38 @@
+{% comment %}
+<!-- 
+# B I O
+#  - PERFORMATIC TALKS, PRESENTATIONS and CONFERENCES -
+#
+# Sample:
+#
+# - title:    'Nom de la expo'ç
+#   type:     'Talk/Presentation /conference'
+#   venue:    'Nom del espai'
+#   place:    'Barcelona, ES'
+#   date:     'oct-nov 2015'
+#   year:     2015
+#   url:      'http://www.google.es'
+-->
+{% endcomment %}
+
+{% assign items_grouped = site.data.bio-talks | group_by:"year" %}
+{% for group in items_grouped %}
+  <h3>{{ group.name }}</h3>  
+  {% assign items = site.data.bio-talks | where : 'year' , group.name %}
+  {% for item in items  %}
+  
+	  {% if item.url %}
+	    <h4><a href="{{ item.url }}">{{ item.title }}</a></h4>
+	  {% else %}
+	    <h4>{{ item.title }}</h4>
+	  {% endif %}
+	 
+  	  {% if item.venue %}
+		  <p>{{ item.type | append: " - " }} {{ item.venue | append: ", "}} <em>{{ item.place }}</em> ({{ item.date }})</p>
+
+	  {% else %}
+		  <p>{{ item.type | append: " - "}} <em>{{ item.place }}</em> ({{ item.date }})</p>
+	  {% endif %}
+
+  {% endfor %}
+{% endfor %}

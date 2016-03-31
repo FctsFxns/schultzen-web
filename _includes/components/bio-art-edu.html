@@ -1,0 +1,38 @@
+{% comment %}
+<!-- 
+# B I O
+#  - Art Education -
+#
+# Sample:
+#
+# - title:    'Nombre del curso'
+#   teacher:  'Teacher name'
+#   venue:    'Nom del espai'
+#   place:    'Barcelona, ES'
+#   date:     '2015', necessary
+#   year:     2015, required
+#   url:      'http://www.google.es'
+-->
+{% endcomment %}
+
+{% assign items_grouped = site.data.bio-art-edu | group_by:"year" %}
+{% for group in items_grouped %}
+  <h3>{{ group.name }}</h3>  
+  {% assign items = site.data.bio-art-edu | where : 'year' , group.name %}
+  {% for item in items  %}
+  
+	  {% if item.url %}
+	    <h4><a href="{{ item.url }}">{{ item.title }}</a></h4>
+	  {% else %}
+	    <h4>{{ item.title }}</h4>
+	  {% endif %}
+	 
+  	  {% if item.venue %}
+		  <p>{{ item.teacher | append: " - " }} {{ item.venue | append: ", "}} <em>{{ item.place }}</em> ({{ item.date }})</p>
+
+	  {% else %}
+		  <p>{{ item.teacher | append: " - "}} <em>{{ item.place }}</em> ({{ item.date }})</p>
+	  {% endif %}
+
+  {% endfor %}
+{% endfor %}

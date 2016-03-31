@@ -1,0 +1,32 @@
+{% comment %}
+<!-- 
+# B I O
+# =====
+#  - Professional Education -
+#
+# Sample:
+#
+# - institution:  'Nombre de la empresa/org'
+#   description:  'Rol'
+#   place:        'Barcelona, ES'
+#   date:         '2011-2015'
+#   year:         2015
+#   url:          'http://www.google.es'
+-->
+{% endcomment %}
+
+{% assign items_grouped = site.data.bio-pro-edu | group_by:"year" %}
+{% for group in items_grouped %}
+  <h3>{{ group.name }}</h3>  
+  {% assign items = site.data.bio-pro-edu | where : 'year' , group.name %}
+  {% for item in items  %}
+  
+	  {% if item.url %}
+	    <h4><a href="{{ item.url }}">{{ item.institution }}</a></h4>
+	  {% else %}
+	    <h4>{{ item.institution }}</h4>
+	  {% endif %}
+	  <p>{{ item.description}}<br/><em>{{ item.rol }}</em>, ({{ item.place | append: ", " }}{{ item.date }})</p>
+
+  {% endfor %}
+{% endfor %}
