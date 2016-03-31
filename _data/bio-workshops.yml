@@ -11,7 +11,7 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
-- title:    'no fer amb l'Artista'
+- title:    "no fer amb l'Artista"
   type:     'Non - Activity'
   venue:    'Casa Elizalde'
   place:    'Barcelona, ES'
@@ -19,7 +19,7 @@
   year:     2015
   url:      'http://www.christinaschultz.com/FERnofer/registro'
 
-- title:    '¿Que vols ser de gran?'
+- title:    "¿Que vols ser de gran?"
   type:     'directed activity'
   venue:    'Institut 4 Cantons'
   place:    'Barcelona, ES'
