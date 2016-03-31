@@ -1,7 +1,7 @@
 # B I O
 # -----
 #  - WORKSHOPS and directed ACTIVITIES -
-# 
+#
 # Sample:
 #  # - title:    'Nom de la expo'
 #   type:     'Workshop / Activity'
@@ -11,11 +11,47 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
-- title:    'Nom de la expo'
-  type:     'Workshop / Activity'
-  venue:    'Nom del espai'
+- title:    'no fer amb l'Artista'
+  type:     'Non - Activity'
+  venue:    'Casa Elizalde'
   place:    'Barcelona, ES'
   date:     'oct-nov 2015'
   year:     2015
-  url:      'http://www.google.es'
+  url:      'http://www.christinaschultz.com/FERnofer/registro'
 
+- title:    '¿Que vols ser de gran?'
+  type:     'directed activity'
+  venue:    'Institut 4 Cantons'
+  place:    'Barcelona, ES'
+  date:     'oct-nov 2015'
+  year:     2015
+  url:      'http://tgpe.4cantons.cat/?p=2582'
+
+- title:    'Live Stop Motion'
+  type:     'directed activity'
+  venue:    'Institut 4 Cantons'
+  place:    'Barcelona, ES'
+  date:     'may-june 2015'
+  year:     2015
+
+- title:    'Communication Strategies for Artists'
+  type:     'Workshop'
+  venue:    'KIREI'
+  place:    'Barcelona, ES'
+  date:     'dec 2014'
+  year:     2014
+
+- title:    'Live Stop Motion'
+  type:     'Workshop'
+  venue:    'Editorial Gustavo Gili'
+  place:    'Barcelona, ES'
+  date:     'dec 2013'
+  year:     2013
+  url:      'http://ggili.com/es/posts?lang=es&month=12&year=2013'
+
+- title:    'Collage Monsters'
+  type:     'Workshop for kids'
+  venue:    'MACBA'
+  place:    'Barcelona, ES'
+  date:     '2012'
+  year:     2012
