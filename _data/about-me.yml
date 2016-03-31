@@ -1,17 +1,19 @@
 statement: > # this means to ignore newlines until "baseurl:"
   <h1 class="title text-center">The Artist Says</h1>
-  <p>"You are an artist? So what do you do?".
+  <p>"I’m an artist.".
   <br/>
-  I always respond differently, depends on who is asking. I'd say I do projects for YOU.
+  I’m an artist because I give it all.
   </p>
 
-  <p>YOU, if you are a potential audience.
+  <p>I’m a professional artist because my income is sustained by my projects.
 
-  <br/>If you work for an audience, it's not enough that everybody listens to you. It's the ONE I care for. </p>
+  <br/>"I am an artist because that’s what I do best" </p>
 
-  <p>I tear down barriers between audience and artist, between the work and the observer. I question authorities.
+  <p>I always respond differently, depends on who is asking. My work is made for the one and for all. I aim to approximate the gap between you and me, between invention and intervention, between difficulties and playfulness.
+  <br/>Always digging for subversive ground and willing to keep on learning. More radical than I look like. Smile.
   <br/>Ask a lot. Listen. </p>
-  <p >So far my formats are online calls, blogs, performances, collages, talks, stop motion, audio and video.<br/>It depends on the project.</p>
+  <p >I work with cinematic and performative elements, interviews, online calls, collages, talks, stop motion, audio and video.
+  <br/>It depends on the project, the content and what in my means transports itself better to YOU.</p>
 
   <p>If you'd like to know more, please don't hesitate to write me a card, a letter, a <a href="mailto:contact@christinaschultz.com">mail</a>.
   <br/>Or come and see me at my residency at <a href="http://hangar.org" title="Hangar, Centre de producció i recerca d'arts visuals">Hangar</a>, centre de producció artística en Barcelona.</p>
@@ -21,4 +23,4 @@ about:           > # this means to ignore newlines until next key
   <p>Born on february the 5th, in Munich, Germany 1972. A decade ago I came to Barcelona and stayed.</p>
   <p>I am a so called autodidact, which means that I learned everything in collaborations with talented people, organizations and companies such as: <br/>
   Daniel Canet, software engineer, Claudia Giralt Monedero, digital design student, Les Salonnières, art colective, Clara Garí, curator at  “Nau Côclea”, Editorial Gustavo Gili, Loring Art Library and everybody who took part in my actions.</p>
-  <p>This was made possible by Hangar, centre de producció artística, Clara Garí, Nau Côclea and Oscar Abril Ascaso, the workshops of “Nau Estruch”, the events of “Liminal GR”, Fundació Tàpies, Festival de Poble Nou, Paola Marugán, “Jugar a tres bandas “, Galería Fidel Balaguer, AAVC workshops and Espacio Práctico.</p> 
+  <p>This was made possible by Hangar, centre de producció artística, Clara Garí, Nau Côclea and Oscar Abril Ascaso, the workshops of “Nau Estruch”, the events of “Liminal GR”, Fundació Tàpies, Festival de Poble Nou, Paola Marugán, “Jugar a tres bandas “, Galería Fidel Balaguer, AAVC workshops and Espacio Práctico.</p>
