@@ -2,7 +2,6 @@
 title: PornoLoops
 categories: Cinematic Collage
 intro: 9 stop motion videoloops with 9 soundsamples. Made to combine randomly. Hard porn made soft.
-frontpage
 featured_image: /media/images/pornLoop.jpg
 
 
