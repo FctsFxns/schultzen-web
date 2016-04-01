@@ -5,7 +5,7 @@ categories: Projects Cinematic Performatic Collage
 
 intro: 4 site specific collage pieces have influenced transcendentally the vital moments of 4 participants of this project
 
-featured_image: /media/images/sample.jpg
+featured_image: /media/images/Wall.jpg
 
 published: true
 
