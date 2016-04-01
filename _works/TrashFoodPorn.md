@@ -2,7 +2,7 @@
 title: TrashFoodPorn
 categories: Project Performatic Cinematic Collage
 intro: TrashfoodPorn is questioning our concept on food and emotional nurture. Sugar is Love.
-featured_image: /media/images/sample.jpg
+featured_image: /media/images/trashfood1a.jpg
 
 
 published: true
