@@ -5,11 +5,11 @@ intro: A youtubing performance on the artist mental power capacities and the ver
 
 featured_image: '/media/images/WashingMachine905.jpg'
 
-date:   2016-01-18 15:31:21 +0100
+date:   2015-11-18 15:31:21 +0100
 
 home_show: true
 published: true
 ---
 
-This performance uses autobiographical elements and youtube to prove the artists mental power abilities abd experiment a viral tutorial and determine the veracity of both.
+This performance uses autobiographical elements and the youtube channel to prove the artists mental power abilities and put in practice a viral tutorial and determine the veracity of both.
 

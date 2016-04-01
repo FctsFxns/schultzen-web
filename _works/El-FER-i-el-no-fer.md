@@ -5,7 +5,7 @@ intro: A multidiciplinary puzzle of reflections on the phenomenon of time, labor
 
 featured_image: /media/images/Fernofer905.jpg
 
-date:   2016-02-18 15:31:21 +0100
+date:   2015-10-18 15:31:21 +0100
 
 published: true
 home_show: true
@@ -23,10 +23,13 @@ The “do nothing with others”.
 
 **El FER:** 
 
-5 work spaces and 5 polifonic audiocollages made of interviews with people related to the art worls tell us about their work experience, the professional world and anything what means for them the so called activity WORK.  
+5 work spaces and 5 polifonic audiocollages made of interviews with people related to the art worls tell us about their work experience, the professional world and anything what means for them the so called activity WORK.
+
+[This is the project's website!](http://www.christinaschultz.com/FERnofer/)  
  
 **El no fer:** 
 
 A white room, a carpet, some plants and a sofa. A one to one experience of doing nothing together with the artist. What does it mean to you and what can we not do?
 
-[This is the project's website!](http://www.christinaschultz.com/FERnofer/)
+
+If you want to see what we did not do you can visit [the blog](http://elfernofer.tumblr.com/).
