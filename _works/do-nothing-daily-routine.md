@@ -2,7 +2,7 @@
 title: Do Nothing Two
 categories: Projects Performatic Video Sound
 intro: a daily routine of doing nothing between Clara Garí and me, blogspace
-featured_image: /media/images/sample.jpg
+featured_image: /media/images/PsdOnPsd.jpg
 
 published: false
 date:  2014-09-31 00:00:00 +0100
