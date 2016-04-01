@@ -2,7 +2,7 @@
 title: Deseos Monstruosos
 categories: Performatic Cinematic Collage 
 intro:  “Monstrous Desires” is a cinematic talk about hidden desires. Part 1 of a trilogy with graphic violence on gore subjects.
-featured_image: /media/images/sample.jpg
+featured_image: /media/images/DeseosMonstruosos.jpg
 
 published: true
 date:  2013-12-31 00:00:00 +0100
