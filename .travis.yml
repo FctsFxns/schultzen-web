@@ -24,7 +24,7 @@ branches:
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
 
 deploy:
   skip_cleanup: true
