@@ -63,6 +63,10 @@ module.exports = function(grunt) {
         }
       }
     },
+    clean: {
+      contents: ['./_site'],
+      subfolders: ['./_site']
+    },
     watch: {
       options: {
         livereload: true,
@@ -119,6 +123,8 @@ module.exports = function(grunt) {
   require('load-grunt-tasks')(grunt);
 
 
+  grunt.loadNpmTasks('grunt-contrib-clean');
+
   // grunt.registerTask('default', ['less', 'concat:css', 'cssmin:css', 'jekyll']);
   // grunt.registerTask('css', ['less', 'concat:css', 'cssmin:css']);
 
@@ -129,17 +135,17 @@ module.exports = function(grunt) {
   
   // Build the full site
   // Less -> sass + js -> jekyll -> _dist
-  grunt.registerTask('build', ['less', 'cssmin:css', 'jekyll:dist']);
+  grunt.registerTask('build', ['clean','less','cssmin:css','jekyll:dist']);
 
   // Watch for content creation serving from jekyll
   // "_assets" asset pipeline will work: js + sass
   // "_less"   asset pipeline will NOT work: less
-  grunt.registerTask('content', ['jekyll:devel']);
+  grunt.registerTask('content', ['clean','less','cssmin:css','jekyll:devel']);
 
   // Server option: tails connect + watch
   // "_assets" + "_less" asset pipeline will both work: 
   // [js + sass] + [less]
-  grunt.registerTask('theming', ['less','cssmin:css','jekyll:dist','connect', 'watch']);
+  grunt.registerTask('theming', ['build','connect', 'watch']);
 
   // Watch for content and forget about the rest
   grunt.registerTask('default', ['theming']);
