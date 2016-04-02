@@ -14,4 +14,4 @@ bundle check || bundle install
 bower --version > /dev/null || npm install -g bower
 bower install
 
-npm install
+# npm install
