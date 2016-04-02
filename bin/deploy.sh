@@ -11,7 +11,7 @@ if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
 
   # We redirect any output to
   # /dev/null to hide any sensitive credential data that might otherwise be exposed.
-  git push --force --quiet "https://${git_user}:${git_password}@${git_target}" master:master > /dev/null 2>&1
+  git push --force "https://${git_user}:${git_password}@${git_target}" master:master > /dev/null 2>&1
 else
   echo 'Invalid branch. You can only deploy from gh-pages.'
   exit 1
