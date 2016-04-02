@@ -1,22 +1,16 @@
-# Based on Felix Rieseberg
-# https://github.com/felixrieseberg/travis-jekyll-git
-# Or …?
+# Based on kickster
 # https://github.com/nielsenramon/kickster/tree/master/snippets/travis
-
 language: ruby
-
 rvm:
 - 2.2.3
-
 install:
 - ./bin/setup
-
 script:
 - bundle exec jekyll build --trace
 - bundle exec htmlproofer ./_site --only-4xx
 
-#after_success:
-#- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/automated"
+after_success:
+- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/automated"
 
 env:
   global:
