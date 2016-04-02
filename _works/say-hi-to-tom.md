@@ -35,8 +35,12 @@ Apart from the projects website you can also visit the blog with [the collection
 
 or [the diary](http://tomtomsdiary.tumblr.com/) of everything that happened during the process.
 
-You can also find the project on [Facebook](https://www.facebook.com/callforpostcards/) and on [Twitter](https://twitter.com/SayHiTothom).
+You can also find the project on [Facebook](https://www.facebook.com/callforpostcards/) and on [Twitter](https://twitter.com/SayHiTothom).  
+  
+
 
 ![image](/media/images/SayHi2.jpg)
 
 ![image](/media/images/SayHi3.jpg)
+
+![image](/media/images/SayHi4.jpg)
