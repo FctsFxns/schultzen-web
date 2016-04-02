@@ -20,7 +20,7 @@ for such a great artist and person.
     jQuery, Modernizr,
     "Bootstrap",
     "jQuery Appear" from github.com/morr/jquery.appear,
+    "Grunt",
     "Bower",
     "Glynn",
     "Jekyll", 
-    "Jekyll compress" from Anatol Broder
