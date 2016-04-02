@@ -7,8 +7,8 @@ if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
   git config user.name "Travis CI"
   git config user.email "dcanetma@gmail.com"
 
-  git add .
-  git commit -m "Deploy"
+  git add -fA
+  git commit --allow-empty -m "$COMMIT_MESSAGE [ci skip]"
 
   # We redirect any output to
   # /dev/null to hide any sensitive credential data that might otherwise be exposed.

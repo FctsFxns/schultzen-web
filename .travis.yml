@@ -1,5 +1,8 @@
 # Based on Felix Rieseberg
 # https://github.com/felixrieseberg/travis-jekyll-git
+# Or …?
+# https://github.com/nielsenramon/kickster/tree/master/snippets/travis
+
 language: ruby
 rvm:
 - 2.2.3
