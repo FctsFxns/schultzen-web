@@ -80,15 +80,13 @@ defaults:
 exclude:          [
   'node_modules'
   , 'bin'
-  , '_glynn.default.yml'
   , '_glynn.yml'
-  , 'Gemfile'
   , 'Gemfile.lock'
   , 'Gruntfile.js'
-  , 'circle.yml'
   , 'bower.json'
   , 'node_modules'  
-  # , '_assets/vendor'           # necessary for travis integration
+  , 'README.md'  
+  , '_assets/vendor'           # necessary for travis integration
   ]
 
 include:          
@@ -97,6 +95,7 @@ include:
   -  '_works'
   -  'feed.xml' 
   -  'atom.xml' 
+  -  'crossdomain.xml' 
   -  'sitemap.xml' 
   -  'humans.txt' 
   -  'robots.txt'

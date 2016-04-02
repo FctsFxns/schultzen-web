@@ -24,3 +24,4 @@ for such a great artist and person.
     "Bower",
     "Glynn",
     "Jekyll", 
+    Travis Jekyll by Felix Rieseberg
