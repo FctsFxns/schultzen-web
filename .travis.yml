@@ -1,8 +1,6 @@
 # Based on Felix Rieseberg
 # https://github.com/felixrieseberg/travis-jekyll-git
-
 language: ruby
-
 rvm:
 - 2.2.3
 
@@ -24,11 +22,12 @@ branches:
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-  
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true  # speeds up installation of html-proofer
+
 deploy:
   skip_cleanup: true
   provider: script
   script: bin/deploy.sh
   on:
     branch: gh-pages
+
