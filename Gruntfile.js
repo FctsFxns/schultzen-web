@@ -94,6 +94,8 @@ module.exports = function(grunt) {
           '_works/*', 
           '_pages/*',
           'media/*',
+          'media/images/*',
+          'media/pdf/*',
           '_data/*'
           ],
         tasks: ['jekyll:dist'],
@@ -137,7 +139,7 @@ module.exports = function(grunt) {
   // Server option: tails connect + watch
   // "_assets" + "_less" asset pipeline will both work: 
   // [js + sass] + [less]
-  grunt.registerTask('theming', ['connect', 'watch']);
+  grunt.registerTask('theming', ['less','cssmin:css','jekyll:dist','connect', 'watch']);
 
   // Watch for content and forget about the rest
   grunt.registerTask('default', ['theming']);
