@@ -1,6 +1,11 @@
 #!/bin/bash
 
 if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
+
+
+	gem install bundler --conservative
+	bundle check || bundle install
+
 	# Add credentials
 	echo 'ftp_username: ${ftp_username}' >> _glynn.yml
 	echo 'ftp_password: ${ftp_password}' >> _glynn.yml
