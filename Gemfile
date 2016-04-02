@@ -1,7 +1,8 @@
 source "https://rubygems.org"
-# taken from kickster
+# Dependencies
 gem "jekyll"
 gem "sass"
+gem 'jekyll-paginate'
 
 # To compile sass + .js files while don't use grunt or similar
 gem "jekyll-assets"
@@ -10,8 +11,6 @@ gem "jekyll-assets"
 # à la 'kickster'
 gem "html-proofer"
 
-# Not used yet, though
-# gem 'jekyll-paginate'
 
 # We can let the user upload the site with glynn
 # They will need to clone the project and execute
