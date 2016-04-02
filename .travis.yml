@@ -9,15 +9,15 @@ script:
 - bundle exec jekyll build --trace
 - bundle exec htmlproofer ./_site --only-4xx --url-ignore "#,/https:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.christinaschultz\.com\/.*/"
 
-#after_success:
-#- "./bin/deploy"
+after_success:
+- "./bin/deploy"
 
-deploy:
- skip_cleanup: true
- provider: script
- script: bin/deploy
- on:
-   branch: deploy
+# deploy:
+#  skip_cleanup: true
+#  provider: script
+#  script: bin/deploy
+#  on:
+#    branch: deploy
 
 env:
   global:
