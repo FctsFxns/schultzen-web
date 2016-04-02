@@ -18,7 +18,7 @@ destination:      ./_site
 host:             127.0.0.1
 port:             9009
 encoding:         UTF-8
-url:              'http://www.christinaschult.com'
+url:              'http://www.christinaschultz.com'
 baseurl:          "" # does not include hostname
 #detach:          false
 
