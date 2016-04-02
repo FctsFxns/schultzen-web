@@ -2,10 +2,10 @@
 
 ftp_host: 'christinaschultz.com.dedi302.your-server.de'
 ftp_dir: '/public_html'
-ftp_passive: false
+ftp_passive: true
 
 # optional
 ftp_port: 21                  # default 21
-ftp_secure: false              # default false
+ftp_secure: true              # default false
 
-# credential
+# credentials
