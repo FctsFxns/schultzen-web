@@ -3,10 +3,10 @@ rvm:
 - 2.2.3
 
 # branch whitelist, cal?
-branches:
-  only:
-  - gh-pages     # test the gh-pages branch
-  - /pages-(.*)/ # test every branch which starts with "pages-"
+#branches:
+#  only:
+#  - gh-pages     # test the gh-pages branch
+#  - /pages-(.*)/ # test every branch which starts with "pages-"
 
 install:
 - "./bin/setup"

@@ -1,9 +1,12 @@
 #!/bin/bash
 
-# Add credentials
-
-echo 'ftp_username: ${ftp_username}' >> _glynn.yml
-
-echo 'ftp_password: ${ftp_password}' >> _glynn.yml
-
-bundle exec glynn
+if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
+	# Add credentials
+	echo 'ftp_username: ${ftp_username}' >> _glynn.yml
+	echo 'ftp_password: ${ftp_password}' >> _glynn.yml
+	bundle exec glynn
+ 
+else
+  echo 'Invalid branch. You can only deploy from gh-pages.'
+  exit 1
+fi
