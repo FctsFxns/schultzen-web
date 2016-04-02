@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Add credentials
+
+echo 'ftp_username: ${ftp_username}' >> _glynn.yml
+
+echo 'ftp_password: ${ftp_password}' >> _glynn.yml
+
+bundle exec glynn

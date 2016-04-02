@@ -8,4 +8,4 @@ ftp_passive: false
 ftp_port: 21                  # default 21
 ftp_secure: true              # default false
 
-# credentials
+# credential

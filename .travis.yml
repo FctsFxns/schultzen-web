@@ -1,11 +1,13 @@
 language: ruby
 rvm:
 - 2.2.3
+
 # branch whitelist, cal?
-#branches:
-#  only:
-#  - gh-pages     # test the gh-pages branch
-#  - /pages-(.*)/ # test every branch which starts with "pages-"
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
 install:
 - "./bin/setup"
 
@@ -14,8 +16,8 @@ script:
 - bundle exec htmlproofer ./_site --only-4xx
 
 after_success:
-- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/automated"
-
+#- test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && "./bin/automated"
+- "./bin/deploy"
 
 env:
   global:
