@@ -1,6 +1,8 @@
 # schultzen-web
 The website for artist and performer Christina Schultz
 
+[![Build Status](https://travis-ci.org/FctsFxns/schultzen-web.png)](https://travis-ci.org/FctsFxns/schultzen-web)
+
 
 ## ¿Cómo gestionar el contenido del sitio web?
 
