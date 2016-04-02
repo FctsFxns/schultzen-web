@@ -1,4 +1,5 @@
 #!/bin/bash
+
 if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
   cd _site
   git init
@@ -6,12 +7,14 @@ if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
   git config user.name "Travis CI"
   git config user.email "dcanetma@gmail.com"
 
-  git add .
-  git commit -m "Deploy"
+  git add -fA
+  git commit --allow-empty -m "$COMMIT_MESSAGE [ci skip]"
 
   # We redirect any output to
   # /dev/null to hide any sensitive credential data that might otherwise be exposed.
-  git push --force --quiet "https://${git_user}:${git_password}@${git_target}" master:master > /dev/null 2>&1
+  # git push --force --quiet "https://${git_user}:${git_password}@${git_target}" master:master > /dev/null 2>&1
+  git push --force "https://${git_user}:${git_password}@${git_target}" master:master 
+
 else
   echo 'Invalid branch. You can only deploy from gh-pages.'
   exit 1
