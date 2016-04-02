@@ -5,7 +5,7 @@ if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
   git init
 
   git config user.name "Travis CI"
-  git config user.email "dcanetma@gmail..com"
+  git config user.email "dcanetma@gmail.com"
 
   git add .
   git commit -m "Deploy"
