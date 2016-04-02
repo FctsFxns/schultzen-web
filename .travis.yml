@@ -29,6 +29,6 @@ env:
 notifications:
   flowdock: a3ab675b8495f55b53e6c3c6cf565d1e
 
-#  email:
-#    - true@factsandfictions.net
+email:
+  - true@factsandfictions.net
 #    - schultzen101@yahoo.de

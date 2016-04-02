@@ -81,6 +81,7 @@ exclude:          [
   'node_modules'
   , 'bin'
   , '_glynn.yml'
+  , 'Gemfile'
   , 'Gemfile.lock'
   , 'Gruntfile.js'
   , 'bower.json'
