@@ -25,7 +25,6 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-  - secure: 5b9cc86d577e52abd58f109be9fa211dc880990d
   
 deploy:
   skip_cleanup: true
