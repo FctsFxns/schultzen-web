@@ -13,3 +13,4 @@ _site/
 /_site/*
 /_assets/bower/*
 /node_modules
+assets/
