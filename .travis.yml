@@ -1,3 +1,6 @@
+# Based on Felix Rieseberg
+# https://github.com/felixrieseberg/travis-jekyll-git
+
 language: ruby
 rvm:
 - 2.2.3
