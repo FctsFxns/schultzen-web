@@ -7,6 +7,6 @@ if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
 	bundle exec glynn
  
 else
-  echo 'Invalid branch. You can only deploy from gh-pages.'
+  echo 'This branch will not be deployed, though. The site is deployed from gh-pages branch, only.'
   exit 1
 fi
