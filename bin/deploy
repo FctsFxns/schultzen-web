@@ -1,12 +1,12 @@
 #!/bin/bash
 
-if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
+#if [[ $TRAVIS_BRANCH == 'gh-pages' ]] ; then
 	# Add credentials
 	echo 'ftp_username: ${ftp_username}' >> _glynn.yml
 	echo 'ftp_password: ${ftp_password}' >> _glynn.yml
 	bundle exec glynn
  
-else
-  echo 'This branch will not be deployed, though. The site is deployed from gh-pages branch, only.'
-  exit 1
-fi
+#else
+#  echo 'This branch will not be deployed, though. The site is deployed from gh-pages branch, only.'
+#  exit 1
+#fi
