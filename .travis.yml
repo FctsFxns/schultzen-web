@@ -19,7 +19,6 @@ after_success:
 #  on:
 #    branch: gh-pages
 
-
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
@@ -29,7 +28,6 @@ env:
 
 notifications:
   flowdock: a3ab675b8495f55b53e6c3c6cf565d1e
-
 
 #  email:
 #    - true@factsandfictions.net
