@@ -5,7 +5,7 @@ categories: Projects Cinematic Performatic Collage
 
 intro: 4 site specific collage pieces have influenced transcendentally the vital moments of 4 participants of this project
 
-featured_image: /media/images/Wall.jpg
+featured_image: /media/images/wall1a.jpg
 
 published: true
 
@@ -27,3 +27,9 @@ The final exhibition was realized through a bicycle tour, a blog, the web site a
 The whole project is represented [on this website](http://www.christinaschultz.com/wall/).
 
 A [Facebook profile](https://www.facebook.com/youyourwallandme/) and [a blog](http://christina-schultz.tumblr.com/) comunicated the progressing process.
+
+![image](/media/images/Wall.jpg)
+
+![image](/media/images/wall2.jpg)
+
+![image](/media/images/wall3.jpg)
