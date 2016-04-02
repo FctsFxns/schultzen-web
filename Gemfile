@@ -17,7 +17,6 @@ gem "html-proofer"
 # set the credential values on _glynn.yml file
 gem 'glynn'
 
-
 # and not used from kickster
 # gem "jekyll-sitemap", "~> 0.10.0"
 
