@@ -20,3 +20,9 @@ My contribution is a poetic discurse on post - colonialism, institution and inst
 The outcome was a video-collage of scenes from castaways throughout movie history and a live Remix version of "oops, oh my" by Tweet, produced by Timberland
 
 [HERE’s the audioperformance](https://soundcloud.com/mssschultz/oooops-i-have-a-plan)
+
+![image](/media/images/oops3.jpg)
+  
+![image](/media/images/ooops4.jpg)
+  
+![image](/media/images/oooops2.jpg)
