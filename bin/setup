@@ -14,5 +14,8 @@ bundle check || bundle install
 bower --version > /dev/null || npm install -g bower
 bower install
 
+# Set variable
+export JEKYLL_ENV=development
+
 # Not necessary to build the Less files since they're in the repo already
 # npm install
