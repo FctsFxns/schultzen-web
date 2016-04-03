@@ -13,3 +13,7 @@ published: true
 
 This performance uses autobiographical elements and the youtube channel to prove the artists mental power abilities and put in practice a viral tutorial and determine the veracity of both.
 
+![image](/media/images/Waschmachine3.jpg)
+![image](/media/images/Waschmachine4.jpg)
+![image](/media/images/Waschmachine5.jpg)
+![image](/media/images/Waschmachine1.jpg)
