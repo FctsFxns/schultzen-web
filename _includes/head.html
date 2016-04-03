@@ -58,7 +58,9 @@
     {% javascript application %}
 
     <!-- Only in development mode -->
-    <!-- <script src="//localhost:35729/livereload.js"></script> -->
+    {% if site.env == 'development' %}
+      <script src="//localhost:35729/livereload.js"></script>
+    {% endif %}
 
     <!-- Legacy browsers support -->
     <!--[if lt IE 9]>
