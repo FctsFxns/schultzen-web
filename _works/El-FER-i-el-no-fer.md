@@ -17,7 +17,7 @@ EL FER i no fer (The doing and the not doing in catalan language) is a research 
 
 A puzzle of reflections on the phenomenon of time, labor and a society addicted to production.  
 
-The framework of the project consists in a website with 5 chapters of a polyphonic audio collage, a printed score, transcription of the  sound collage in a limited edition, a fetish 3D object, 5 videos of empty work spaces and a blog that documents a daily performative activity during 3 weeks.   
+The framework of the project consists in a website with 5 chapters of a polyphonic audio collage, a printed score, transcription of the sound collage in a limited edition, a fetish 3D object, 5 videos of empty work spaces and a blog that documents a daily performative activity during 3 weeks.   
   
 The “do nothing with others”.  
 

@@ -1,9 +1,9 @@
-# A B O U T 
+# A B O U T
 # ----------
 #  - Interviews & Articles -
-# 
+#
 # Sample:
-#  
+#
 # - title:   the article title, required
 #   author:  the author, optional
 #   medium:  the name of the media, required
@@ -35,7 +35,7 @@
   year:    2015
 
 - title:   "El Bòlit promou les residències d'artistes"
-  author:  
+  author:
   medium:  El Punt d'avui
   country: ES
   date:    aug 2014
