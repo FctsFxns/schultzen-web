@@ -1,7 +1,7 @@
 ---
 title: Who is she?
 categories: Performatic Cinematic Collage
-intro: “Who is she” is a live cinema presentation in colaboration with the performer Carme Vinyas. Part 2 of a trilogy of graphic violence on gore subjects.
+intro: “Who is she” is a live cinema performance about blood in colaboration with the performer Carme Vinyas. It was presented during re-act feminism at Fundació Tàpies.
 featured_image: /media/images/WhoIsShe.jpg
 
 published: true

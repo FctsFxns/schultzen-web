@@ -1,5 +1,5 @@
 ---
-title: “Say hi to Tom”, a call for postcards.
+title: “Say hi to Tom”
 categories: Projects Performatic Collage
 intro: A crowdsourced action, an invitation to participate in an online call for analog postcards.
 featured_image: /media/images/SayHi.jpg
