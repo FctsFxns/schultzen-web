@@ -1,8 +1,20 @@
-# schultzen-web
-The website for artist and performer Christina Schultz
+# Christina Schultz
+
+The website for artist and performer Christina Schultz using 
 
 [![Build Status](https://travis-ci.org/FctsFxns/schultzen-web.png)](https://travis-ci.org/FctsFxns/schultzen-web)
 
+
+
+## Tech stack
+
+The application backend is [Jekyll](http://jekyllrb.com/), an application written in the Ruby language using the Ruby on Rails framework. I've added Bundle to manage the dependencies if you need a development environment.
+
+Frontend tools used include LESS over Bootstrap for the styles, [Bower](http://bower.io/) for the javascript dependencies and [Grunt](http://gruntjs.com/) for the tasks.
+
+The testing and deployment of changes is made throught [Travis](http://travis-ci.org/) with our own recipe.
+
+The site is currently hosted in [Hetzner](https://www.hetzner.de/) and their datacenter are located in Nuremberg and in Falkenstein/Vogtland.
 
 ## ¿Cómo gestionar el contenido del sitio web?
 
@@ -76,11 +88,17 @@ sh bin/setup
 
 Then 
 
+> grunt --help
+> 
 > grunt build
 > 
 > grunt theming
 
 
-@todo
+## Development varibles
+
+Use this variables to take advantadge of livereload.
+
+> export JEKYLL_ENV=development
 
 
