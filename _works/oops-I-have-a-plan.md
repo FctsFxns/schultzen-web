@@ -17,7 +17,7 @@ The HANGAR resident artists that have been selected for this curatorial experien
 
 My contribution is a poetic discurse on post - colonialism, institution and institutionalization through the confrontation of 2 popular tools: The Cover and the Remix.
 
-The outcome was a video-collage of scenes from castaways throughout movie history and a live Remix version of "oops, oh my" by Tweet, produced by Timberland
+The outcome was a video-collage of scenes from castaways throughout movie history and a live Remix version of "oops, oh my" by Tweet, produced by Timberland.
 
 [HERE’s the audioperformance](https://soundcloud.com/mssschultz/oooops-i-have-a-plan)  
   

@@ -1,7 +1,7 @@
 ---
 title: EL FER i el no fer
 categories: Projects Performatic Video Sound  
-intro: A multidiciplinary puzzle of reflections on the phenomenon of time, labor and a society addicted to production. A project sponsored by Nau Côclea and La Casa Elizalde, curated by Clara Garí.
+intro: A multidiciplinary puzzle of reflections on the phenomenon of time and a labor addicted society. Sponsored by Nau Côclea and La Casa Elizalde, curated by Clara Garí.
 
 featured_image: /media/images/QRcube.jpg
 
@@ -10,6 +10,7 @@ date:   2015-10-18 15:31:21 +0100
 published: true
 home_show: true
 home_call: go to the project website
+home_url:  http://www.christinaschultz.com/FERnofer/
 
 ---
 
@@ -38,8 +39,12 @@ If you want to see what we not did, please visit [the blog](http://elfernofer.tu
 
 The 5 participants empty work spaces were filmed during a time they were not there. A healing registration of what is there when they are not.
 
-![image](/media/images/ClaraDust.jpg)
-![image](/media/images/FitSpace.jpg)
-![image](/media/images/Katapult.jpg)
-![image](/media/images/PlacaTurcaRooms.jpg)
-![image](/media/images/AlbertWater.jpg)
+![image](/media/images/ClaraDust.jpg)  
+
+![image](/media/images/FitSpace.jpg)  
+
+![image](/media/images/Katapult.jpg)  
+
+![image](/media/images/PlacaTurcaRooms.jpg)  
+
+![image](/media/images/AlbertWater.jpg)  
