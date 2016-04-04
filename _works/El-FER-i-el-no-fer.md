@@ -39,12 +39,22 @@ If you want to see what we not did, please visit [the blog](http://elfernofer.tu
 
 The 5 participants empty work spaces were filmed during a time they were not there. A healing registration of what is there when they are not.
 
-![image](/media/images/ClaraDust.jpg)  
+Clara Garí
 
-![image](/media/images/FitSpace.jpg)  
+![image](/media/images/ClaraDust.jpg)   
+  
+Fito Conesa
 
-![image](/media/images/Katapult.jpg)  
+![image](/media/images/FitSpace.jpg)   
+  
+Die Katapult 
 
-![image](/media/images/PlacaTurcaRooms.jpg)  
+![image](/media/images/Katapult.jpg)   
+  
+Placa Turca 
+
+![image](/media/images/PlacaTurcaRooms.jpg)   
+  
+Albert Vidal 
 
 ![image](/media/images/AlbertWater.jpg)  
