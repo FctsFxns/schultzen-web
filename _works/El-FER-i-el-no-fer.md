@@ -23,13 +23,13 @@ The “do nothing with others”.
 
 **El FER:** 
 
-5 polifonic audiocollages made of interviews with people related to the art world, sound, music and historical documents, remix personal work experiences, wisdom, interpretations of the professional world and all the trouble on the so called activity WORK.
+5 polyphonic audiocollages, made of interviews with people related to the art world, sound, music and historical documents, remix personal work experiences, wisdom, interpretations of the professional world and all the trouble on the so called activity WORK.
 
 [This is the project's website!](http://www.christinaschultz.com/FERnofer/)  
  
 **El no fer:** 
 
-A white room, a carpet, some plants and a sofa. A one to one experience of doing nothing together with the artist. What does it mean to you and what can we not do?
+A white room, a carpet, some plants and a sofa. A one-to-one experience of doing nothing together with the artist. What does it mean to you and what can we not do?
 It certainly is a denial.
 
 If you want to see what we not did, please visit [the blog](http://elfernofer.tumblr.com/).
