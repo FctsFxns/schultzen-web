@@ -24,7 +24,7 @@ The “do nothing with others”.
 
 **El FER:** 
 
-5 polifonic audiocollages made of interviews with people related to the art world, sound, music and historical documents, remix personal work experiences, wisdom, interpretations of the professional world and all the trouble on the so called activity WORK.
+5 polyphonic audiocollages made of interviews with people related to the art world, sound, music and historical documents, remix personal work experiences, wisdom, interpretations of the professional world and all the trouble on the so called activity WORK.
 
 [This is the project's website!](http://www.christinaschultz.com/FERnofer/)  
  
