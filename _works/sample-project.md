@@ -2,7 +2,7 @@
 title:          Sample project
 categories: Projects Cinematic Performatic Video Sound Collage 
 intro: Some intro text to be used on the header and frontpage
-featured_image: /media/images/test/flowergirl.jpg
+featured_image: /media/images/flowergirl.jpg
 featured_video: 
 
 home_show: true
