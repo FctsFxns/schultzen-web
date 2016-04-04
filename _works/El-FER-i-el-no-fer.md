@@ -18,7 +18,7 @@ EL FER i no fer (The doing and the not doing in catalan language) is a research 
 
 A puzzle of reflections on the phenomenon of time, labor and a society addicted to production.  
 
-The framework of the project consists in a website with 5 chapters of a polyphonic audio collage, a printed score, transcription of the sound collage in a limited edition, a 3D object, 5 videos of empty work spaces and a blog that documented a daily performative activity during 3 weeks.   
+The framework of the project consists in a website with [5 chapters of a polyphonic audio collage](http://www.christinaschultz.com/FERnofer/El-Fer-Nr1-ElConceptoDeTrabajo), a printed score, transcription of the sound collage in a limited edition, a 3D QRcode, 5 videos of empty work spaces and [a blog](http://elfernofer.tumblr.com/) that documented a daily performative activity during 3 weeks.   
   
 The “do nothing with others”.  
 
