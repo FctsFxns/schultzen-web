@@ -1,7 +1,7 @@
 {% if work.featured_image %}
   <a href="{{ work.url | prepend: site.baseurl }}" class="thumb">
-    <img class="img-responsive duotone" data-gradient-map="#ed1c24, #f9f9f9 60%" src="{{ work.featured_image | prepend: site.baseurl }}" alt="{{ work.title }}" title="{{ work.title }}" />
-    <img class="img-responsive original" src="{{ work.featured_image | prepend: site.baseurl }}" alt="{{ work.title }}" title="{{ work.title }}" />
+    <img class="img-responsive duotone" data-gradient-map="#ed1c24, #f9f9f9 60%" src="{{ work.featured_image | replace: 'media/images', 'media/images/thumbnail' | prepend: site.baseurl }}" alt="{{ work.title }}" title="{{ work.title }}" />
+    <img class="img-responsive original" src="{{ work.featured_image | replace: 'media/images', 'media/images/thumbnail' | prepend: site.baseurl }}" alt="{{ work.title }}" title="{{ work.title }}" />
   </a>
 {% endif %}
 

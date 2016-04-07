@@ -20,3 +20,5 @@ gem 'glynn'
 # and not used from kickster
 # gem "jekyll-sitemap", "~> 0.10.0"
 
+# Resize images
+gem "jekyll-minimagick"
