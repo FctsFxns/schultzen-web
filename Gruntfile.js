@@ -87,6 +87,7 @@ module.exports = function(grunt) {
           '*.xml', 
           '*.html', 
           '*.md', 
+          '_config.yml',
           '_assets/js/*',
           '_assets/stylesheets/*',
           'css/*.css',
