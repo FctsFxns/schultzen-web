@@ -1,17 +1,14 @@
 {% if work.featured_image %}
   <a href="{{ work.url | prepend: site.baseurl }}" class="thumb">
-    <img class="img-responsive duotone" data-gradient-map="#ed1c24, #f9f9f9 60%" src="{{ work.featured_image | replace: 'media/images', 'media/images/thumbnail' | prepend: site.baseurl }}" alt="{{ work.title }}" title="{{ work.title }}" />
+    <img class="img-responsive duotone" data-gradient-map="#B7C3D1, #f9f9f9 60%" src="{{ work.featured_image | replace: 'media/images', 'media/images/thumbnail' | prepend: site.baseurl }}" alt="{{ work.title }}" title="{{ work.title }}" />
     <img class="img-responsive original" src="{{ work.featured_image | replace: 'media/images', 'media/images/thumbnail' | prepend: site.baseurl }}" alt="{{ work.title }}" title="{{ work.title }}" />
   </a>
 {% endif %}
 
-<h3><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></h3>        
+<h3><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></h3>
 {{ work.intro | markdownify }}
 
-{% if work.home_call %}                  
+{% if work.home_call %}
   <p><a class="more" href="{{ work.home_url }}">{{ work.home_call }}</a></p>
 
-{% endif %}   
-
-
-
+{% endif %}
