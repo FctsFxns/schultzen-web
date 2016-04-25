@@ -73,6 +73,7 @@ defaults:
   - scope:
       type: works
     values:
+      sitemap:        1
       layout:         work
       featured_image: http://placehold.it/905x390
 
@@ -93,7 +94,6 @@ exclude:          [
 include:          
   -  '.htaccess'
   -  '_pages'
-  -  '_works'
   -  'feed.xml' 
   -  'atom.xml' 
   -  'crossdomain.xml' 

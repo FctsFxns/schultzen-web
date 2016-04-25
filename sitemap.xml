@@ -10,7 +10,7 @@ layout: null
     <priority>1.0</priority>
   </url>
   {% for page in site.html_pages %}
-  {% if page.layout_class != "page-home" %}
+  {% if page.layout_class != "page-home" and  page.sitemap != 0 %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
