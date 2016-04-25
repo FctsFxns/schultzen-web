@@ -11,9 +11,9 @@ home_show: true
 
 ---
 
-“Lightning Studies - Centre for the Translation of Constraints, Conflicts and Contaminations” curated by Renan Laru-an for the Encura Grant by Hangar.org and Curator’s Network concentrates on discursive architecture generated from horizontal scenes of knowledge.  
+“Lightning Studies - Centre for the Translation of Constraints, Conflicts and Contaminations” curated by [Renan Laru-an](http://www.curators-network.eu/database/db_item/id/renan-laru-an) for the **Encura Grant** by Hangar.org and Curator’s Network concentrates on discursive architecture generated from horizontal scenes of knowledge.  
 
-The HANGAR resident artists that have been selected for this curatorial experience by Renan Laru-an, Lightning Studies: CTCCCs are Megan Michalak, the artists duo Giuliana Racco/Matteo Guidi, Mario Santamaría y Christina Schultz.
+The Hangar resident artists that have been selected for this curatorial experience by Renan Laru-an, **Lightning Studies: CTCCCs** are Megan Michalak, the artists duo Giuliana Racco/Matteo Guidi, [Mario Santamaría](http://mariosantamaria.net/) y Christina Schultz.
 
 My contribution is a poetic discurse on post - colonialism, institution and institutionalization through the confrontation of 2 popular tools: The Cover and the Remix.
 
@@ -28,3 +28,7 @@ The outcome was a video-collage of scenes from castaways throughout movie histor
   
 ![image](/media/images/oooops2.jpg)
 
+<<<<<<< HEAD
+=======
+^© Hangar, Barcelona 2016. Photos by Marzia Matarese, cc-share-alike.^
+>>>>>>> Added link to Mario Santamaria and Renan + copyright for photos
