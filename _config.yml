@@ -93,7 +93,6 @@ exclude:          [
 include:          
   -  '.htaccess'
   -  '_pages'
-  -  '_works'
   -  'feed.xml' 
   -  'atom.xml' 
   -  'crossdomain.xml' 
