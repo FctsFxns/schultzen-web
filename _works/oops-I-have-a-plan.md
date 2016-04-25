@@ -13,11 +13,11 @@ home_show: true
 
 “Lightning Studies - Centre for the Translation of Constraints, Conflicts and Contaminations” curated by [Renan Laru-an](http://www.curators-network.eu/database/db_item/id/renan-laru-an) for the **Encura Grant** by Hangar.org and Curator’s Network concentrates on discursive architecture generated from horizontal scenes of knowledge.  
 
-The Hangar resident artists that have been selected for this curatorial experience by Renan Laru-an, **Lightning Studies: CTCCCs** are Megan Michalak, the artists duo Giuliana Racco/Matteo Guidi, [Mario Santamaría](http://mariosantamaria.net/) y Christina Schultz.
+The Hangar resident artists that were selected for this curatorial experience by Renan Laru-an, **Lightning Studies: CTCCCs** are Megan Michalak, the artists duo Giuliana Racco/Matteo Guidi, [Mario Santamaría](http://mariosantamaria.net/) and me.
 
 My contribution is a poetic discurse on post - colonialism, institution and institutionalization through the confrontation of 2 popular tools: The Cover and the Remix.
 
-The outcome was a video-collage of scenes from castaways throughout movie history and a live Remix version of "oops, oh my" by Tweet, produced by Timberland
+The outcome was a video-collage of scenes from castaways throughout movie history and a live Remix version of "Oops, oh my" by Tweet, produced by Timbaland.
 
 [HERE’s the audioperformance](https://soundcloud.com/mssschultz/oooops-i-have-a-plan)
 
@@ -27,4 +27,4 @@ The outcome was a video-collage of scenes from castaways throughout movie histor
   
 ![image](/media/images/oooops2.jpg)
 
-^© Hangar, Barcelona 2016. Photos by Marzia Matarese, cc-share-alike.^
+<small>© [Hangar](https://hangar.org), Barcelona 2016. Photos by Marzia Matarese, cc-share-alike.</small>
