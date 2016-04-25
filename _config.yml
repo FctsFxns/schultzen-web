@@ -73,6 +73,7 @@ defaults:
   - scope:
       type: works
     values:
+      sitemap:        1
       layout:         work
       featured_image: http://placehold.it/905x390
 
