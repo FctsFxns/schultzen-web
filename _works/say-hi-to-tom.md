@@ -1,19 +1,21 @@
 ---
-title: “Say hi to Tom”
+title: “Say hi to Tom!”
 categories: Projects Performatic Collage
-intro: A crowdsourced action, an invitation to participate in an online call for analog postcards.
+intro: A crowdsourced action, an invitation to participate in an online call for analog postcards. A distributive reply to mass tourism and the art world.
 featured_image: /media/images/SayHi.jpg
 featured_video: 
 
 home_show: false
 
-
 published: true
+
+home_call: go to the project website
+home_url:  http://christinaschultz.com/postcards/
+
 date:  2015-02-00 00:00:00 +0100
 ---
 
-This is [the platform](http://www.christinaschultz.com/postcards/) of the project.  
-
+ 
 Say hi to Tom! is a parodic response to all the countries that are about to turn into "Souvenirlandia" invading public space with a multicultural population on vacation.  
 
 A crowdsourced action, an invitation to participate in an online call for analog postcards.  
@@ -24,7 +26,9 @@ The outcomes of the project were:
 
 * A live auction at Subarna, Auction House in Barcelona. 3 editions of a series of 36 printed digital collages were auctioned. 25 were sold. Here's [the catalog](/media/pdf/1423861538-CATALOGO-SUBARNA.pdf).  
 
-* A website with an open call was published and in 2 months, 36 postcards were received and turned into personalized collages.  
+* A website with an open call was published and in 2 months, 36 postcards were received and turned into personalized collages.
+
+This is [the platform](http://www.christinaschultz.com/postcards/) of the project.   
 
 * A selected collage by the audience was projected in huge format on an open wall in Barcelona. Another printed in a limited edition, signed and sent to all the participants via postal mail.  
 
