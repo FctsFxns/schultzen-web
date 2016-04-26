@@ -5,7 +5,7 @@ intro: “Limbic Love” was a multidisciplinary investigation on love in the fr
 featured_image: /media/images/LimbicLovePerformance.jpg
 
 published: true
-date:  2013-04-01 00:00:00 +0100
+date:  2014-04-01 00:00:00 +0100
 ---
 Limbic Love had many different outcomes.  
   
