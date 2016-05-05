@@ -1,6 +1,6 @@
 # About
 
-Born on february the 5th, in Munich, Germany 1972. A decade ago I came to Barcelona and stayed.
+Born on february the 5th, in Munich, Germany 1972. At this moment I am a long term resident for 2 years at hangar.org in Barcelona, Spain.
 
 I am a so called autodidact, which means that I learned everything in collaborations with talented people, organizations and companies such as:
 Daniel Canet, software engineer, Claudia Giralt Monedero, digital design student, Les Salonnières, art colective, Clara Garí, curator at “Nau Côclea”, Editorial Gustavo Gili, Loring Art Library and everybody who took part in my actions.
