@@ -1,7 +1,7 @@
 ---
 title: Do Nothing II
 categories: Projects Performatic Video Sound
-intro: a daily routine of doing nothing between Clara Garí and me, blogspace
+intro: A daily non-action of doing nothing during 30 days. Documented simultanously with Clara Garí in a online diary.
 featured_image: /media/images/PsdOnPsd.jpg
 
 published: true
@@ -20,7 +20,7 @@ The piece was first exhibited in november 2015 at Pogom, Zagreb in the group exh
 
 The participating artists were Zeljko Badurina, Sinisa Labrovic, Vlado Martek, Antonio Paucar, Julien Prévieux, Oliver Ressler, Christina Schultz, Mladen Stilinovic, Péter Szabó, David Thorne, Marko Vojnic Gin, Damir Zizic/ Kristian Kozul, Fokus group + design by Rafaela Drazic
 
-[HERE’s the blog](http://donothingtwo.tumblr.com/)
+[HERE’s the online diary](http://donothingtwo.tumblr.com/)
 
 ![image](/media/images/DNpsdOnpsd.jpg)
 Photoshop effect over Photoshop effect during one hour.
