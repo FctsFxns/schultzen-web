@@ -1,8 +1,7 @@
 ---
 title: Do Nothing II
 categories: Projects Performatic Video Sound
-intro: a daily routine of doing nothing between Clara Garí and me, blogspace
-featured_image: /media/images/PsdOnPsd.jpg
+intro: A daily non-action of doing nothing during 30 days. Documented in a blogspace simultanously with Clara Garí. days.featured_image: /media/images/PsdOnPsd.jpg
 
 published: true
 date:  2014-09-31 00:00:00 +0100
