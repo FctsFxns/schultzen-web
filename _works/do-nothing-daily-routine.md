@@ -26,8 +26,9 @@ Other participating artist were Zeljko Badurina, Sinisa Labrovic, Vlado Martek, 
 
 [HERE’s the blog](http://donothingtwo.tumblr.com/)
 
-![image](/media/images/dnPSDonPSD.jpg)
-Photoshop effect over photoshop effect during one hour.
+
+![image](/media/images/DNspinning.gif)
+Spinning around slowly during one hour.
 
 ![image](/media/images/DNchewinggum.jpg)
 Scrapping off chewing gum silver paper and blow it.
@@ -38,5 +39,5 @@ Counting chickpeas over and over.
 ![image](/media/images/DNshadows.jpg)
 Watching shadows move during one hour.
 
-![image](/media/images/DNshadows.jpg)
-Spinning around slowly during one hour.
+![image](/media/images/dnPSDonPSD.jpg)
+Photoshop effect over photoshop effect during one hour.
