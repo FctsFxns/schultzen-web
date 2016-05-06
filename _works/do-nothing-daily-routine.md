@@ -11,6 +11,7 @@ intro: A daily non-action of doing nothing during 30 days. Documented simultanou
 featured_image: /media/images/PsdOnPsd.jpg
 >>>>>>> master
 
+<<<<<<< HEAD
 published: true
 <<<<<<< HEAD
 date:  2014-09-31 00:00:00 +0100
@@ -28,16 +29,19 @@ Do Nothing II was a daily training of purposeless doing simultanously with Clara
 Doing nothing was not a meditative state, nor a freeze-frame but a non - activity without purpose during one hour every day for 30 days.   
 >>>>>>> master
 =======
+=======
+published: false
+>>>>>>> master
 date:  2014-09-13 00:00:00 +0100
 ---
 
 Do nothing II is the second part of an ongoing study on doing nothing as an artistic, subversive practice.
-Do Nothing II was a daily training of purposeless doing simultanously with Clara Garí, director of the artist residency Nau Côclea at Empordá, Catalunya. 
+Do Nothing II was a daily training of purposeless doing simultanously with Clara Garí, director of the artist residency Nau Côclea at Empordá, Catalunya.
 
 Doing nothing was not a meditative state, nor a freeze-frame but a non - activity without purpose during one hour every day for 30 days.   
 >>>>>>> master
 Nor to produce nor to relax. Just let it do.  
- 
+
 Each daily experience was then afterward registered in a blog.
 
 <<<<<<< HEAD
@@ -69,16 +73,20 @@ The participating artists were Zeljko Badurina, Sinisa Labrovic, Vlado Martek, A
 
 ![image](/media/images/DNpsdOnpsd.jpg)
 Photoshop effect over Photoshop effect during one hour.
-  
+
 ![image](/media/images/DNchewinggum.jpg)
 Peeling off silver paper from chewing gum wrapping and blow.
-  
+
 ![image](/media/images/DNchickpeas.jpg)
 Counting chickpeas over and over.
 
 ![image](/media/images/DNshadows.jpg)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 >>>>>>> master
 Watching shadows move.
+=======
+Watching shadows move.
+>>>>>>> master
