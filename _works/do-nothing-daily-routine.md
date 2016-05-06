@@ -5,7 +5,7 @@ intro: A daily non-action of doing nothing during 30 days. Documented simultanou
 featured_image: /media/images/PsdOnPsd.jpg
 
 published: true
-date:  2014-09-31 00:00:00 +0100
+date:  2014-09-13 00:00:00 +0100
 ---
 
 Do nothing II is the second part of an ongoing study on doing nothing as an artistic, subversive practice.
