@@ -32,3 +32,7 @@ Scrapping off chewing gum silver paper and blow it.
 Counting chickpeas over and over.
 
 ![image](/media/images/DNshadows.jpg)
+Watching shadows during an hour.
+
+![image](/media/images/DNspinning.jpg)
+Spinning around slowly.
