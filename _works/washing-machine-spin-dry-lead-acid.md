@@ -7,7 +7,7 @@ featured_image: '/media/images/Waschmachine1a.jpg'
 
 date:   2015-11-18 15:31:21 +0100
 
-home_show: true
+home_show: false
 published: true
 ---
 
