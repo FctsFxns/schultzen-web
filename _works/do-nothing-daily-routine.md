@@ -33,11 +33,11 @@ Spinning around slowly during one hour.
 ![image](/media/images/DNchewinggum.jpg)
 Scrapping off chewing gum silver paper and blow it.
 
-![image](/media/images/dnChickpeas.jpg)
+![image](/media/images/DNchickpeas.jpg)
 Counting chickpeas over and over.
 
 ![image](/media/images/DNshadows.jpg)
 Watching shadows move during one hour.
 
-![image](/media/images/dnPSDonPSD.jpg)
+![image](/media/images/DNpsdOnpsd.jpg)
 Photoshop effect over photoshop effect during one hour.
