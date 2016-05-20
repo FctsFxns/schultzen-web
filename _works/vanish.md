@@ -10,7 +10,7 @@ home_show: true
 date:  2016-05-02 00:00:00 +0100
 ---
 
-Vanish Disappear Erase '# 1' is a non-action for the ongoing research project of doing nothing. I am creating a catalogue of non actions to subvert the doing. An collage of a former project is slowly erased and at the same time made unique.
+Vanish Disappear Erase '# 1' are non-actions for the ongoing research project of doing nothing. I am creating a catalogue of actions subverting the doing. Painting white over white,camouflage former works, erase, cut out, paint across holes. But also deny, look away, hide, go backwards.
 
 ![image](/media/images/vanish2.jpg)
 Fase 1
