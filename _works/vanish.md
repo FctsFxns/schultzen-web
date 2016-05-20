@@ -3,7 +3,7 @@ title: Vanish Disappear Erase '#1'
 categories: Projects Performatic Collage
 intro: Ongoing project in process. Discover non-actions to include in a catalogue for doing nothing.
 
-featured_image: /media/images/vanish.jpg
+featured_image: /media/images/vanish5.jpg
 
 published: true
 home_show: true
