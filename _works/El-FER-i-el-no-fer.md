@@ -8,7 +8,7 @@ featured_image: /media/images/QRcube.jpg
 date:   2015-10-18 15:31:21 +0100
 
 published: true
-home_show: true
+home_show: false
 home_call: go to the project website
 home_url:  http://www.christinaschultz.com/FERnofer/
 

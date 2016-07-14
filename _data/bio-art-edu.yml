@@ -12,19 +12,26 @@
 #   year:     2015, required
 #   url:      'http://www.google.es'
 
-- title:    'Distribuición Perturbadora'
-  teacher:  'Francesc Ruíz'
+- title:    'Segunda Vez'
+  teacher:  'Dora García'
   venue:    'Hangar'
   place:    'Barcelona, ES'
-  date:     '2015'
-  year:     2015
+  date:     '2016'
+  year:     2016
+
+  - title:  'Distribución Perturbadora'
+  teacher:  'Francesc Ruiz'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     '2016'
+  year:     2016
 
 - title:    'Network as Material'
   teacher:  'Julian Oliver'
   venue:    'The Influencers'
   place:    'Barcelona, ES'
   date:     '2014'
-  year:     2014  
+  year:     2014
 
 - title:    'Action Art'
   teacher:  'Joan Casellas'
