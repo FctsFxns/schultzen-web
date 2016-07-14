@@ -2,7 +2,7 @@
 title: The Kingdom of Boredom
 categories: Projects Performatic Video Collage
 intro: Ongoing project in process. Challenge boredom voluntarily. What comes next? A colaborative documentation.
-featured_image: /media/images/1BoredomManos2.jpg
+featured_image: /media/images/1BoredomFeatured.jpg
 
 published: true
 home_show: true
@@ -17,7 +17,7 @@ A first part will be exhibited the 17th and 18th of september during TOP 2016 at
 
 
 
-![image](/media/images/1BoredomManos2.jpg)
+![image](/media/images/1BoredomFeatured.jpg)
 
 Manos "(1 of series of 9)"
 
