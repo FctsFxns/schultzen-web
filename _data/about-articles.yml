@@ -12,6 +12,13 @@
 #   year:    2016, required
 #   url:     http://…, optional
 
+- title:   'Distribución perturbadora {expo}'
+  author:  bcnmes
+  medium:  bcnmes
+  country: Barcelona, ES
+  date:    july 2016
+  year:    2016
+
 - title:   'I wish I was Warhol'
   author:  Juan Antonio Cerezuela
   medium:  Fabra i Coats, interview
@@ -36,7 +43,7 @@
 
 - title:   'Hangar, el paradís dels artistes visuals'
   author:  Susagna Alcón
-  medium:  EL Digital D Barcelona 
+  medium:  EL Digital D Barcelona
   country: ES
   date:    august 2015
   year:    2015
