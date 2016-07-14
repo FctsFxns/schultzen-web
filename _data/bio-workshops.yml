@@ -11,9 +11,9 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
-- title:    "Biat Beit Bait - build a burden of the border"
+- title:    'Biat Beit Bait - build a burden of the border'
   type:     'Workshop at Escuela de Calor de Esther Planas'
-  venue:    'COAC, Consorci d'Arquitectura Catalana'
+  venue:    COAC, Consorci d'Arquitectura Catalana
   place:    'Barcelona, ES'
   date:     'november 2016'
   year:     2016
@@ -27,7 +27,8 @@
   year:     2015
   url:      'http://www.christinaschultz.com/FERnofer/registro'
 
-- title:    "¿Que vols ser de gran?"
+
+- title:    '¿Que vols ser de gran?'
   type:     'directed activity'
   venue:    'Institut 4 Cantons'
   place:    'Barcelona, ES'
