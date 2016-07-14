@@ -12,16 +12,15 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
-<<<<<<< HEAD
-- title:    'SALA "X" - PERRA PERDIDA'
+
+- title:    'SALA X - PERRA PERDIDA'
   type:     'Mental and physical Walk'
   venue:    'Plaza Catalunya'
   place:    'Barcelona, ES'
   date:     'july 2016'
   year:     2016
 
-=======
->>>>>>> parent of aa9e8b2... well
+
 - title:    'Paratext_Encura#2'
   type:     'Cinematic Talk'
   venue:    'Hangar'

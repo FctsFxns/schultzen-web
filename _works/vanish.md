@@ -2,7 +2,7 @@
 title: The Kingdom of Boredom
 categories: Projects Performatic Video Collage
 intro: Ongoing project in process. Challenge boredom voluntarily. What comes next? A colaborative documentation.
-featured_image: /media/images/
+featured_image: /media/images/1BoredomFeatured.jpg
 
 published: true
 home_show: true
