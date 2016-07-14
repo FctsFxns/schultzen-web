@@ -6,7 +6,7 @@ featured_image: /media/images/SalaX4.jpg
 
 
 published: true
-home_show: false
+home_show: true
 date:  2016-07-21 00:00:00 +0100
 ---
 
