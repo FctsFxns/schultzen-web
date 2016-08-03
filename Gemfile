@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 # Dependencies
-gem "jekyll"
+# gem "jekyll"
 gem "sass"
 gem 'jekyll-paginate'
 
@@ -23,7 +23,7 @@ gem 'glynn'
 # Resize images
 gem "jekyll-minimagick"
 
-# Fix build with travis
+# Fix build with travis on jekyll 3.1.2
 gem 'sprockets', '3.6.3'
 gem 'jekyll-watch', '1.4.0'
 gem 'jekyll', '3.1.6'
