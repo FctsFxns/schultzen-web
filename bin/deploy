@@ -3,7 +3,8 @@
 if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 
 
-	gem install bundler --conservative
+  #	gem install bundler --conservative
+	gem install bundler 
 	bundle check || bundle install
 
 	# Set variable
