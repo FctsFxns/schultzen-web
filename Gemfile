@@ -25,3 +25,5 @@ gem "jekyll-minimagick"
 
 # Fix build with travis
 gem 'sprockets', '3.6.3'
+gem 'jekyll-watch', '1.4.0'
+gem 'jekyll', '3.1.6'
