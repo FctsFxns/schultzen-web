@@ -21,17 +21,30 @@ Intervening artist are: Onofre Bachiller, Berta Canela, Sonia Fernández Pan –
 with the colaboration of Núria Gómez, Ariadna Guiteras, Anna Irina Limia and Xavi Ristol. 
 
   
+![image](/media/images/SalaX5.jpg)
+
+Meeting point for the performance at the telephone cell.
+  
+![image](/media/images/SalaX6.jpg)
+
+Abandoned telephone cell with lost dog search paper.
+
 ![image](/media/images/SalaX1.jpg)
 
-Sala "X" - PERRA PERDIDA  
-  
-![image](/media/images/SalaX2.jpg)
+Poster of Lost Doggie.
 
-Flyer by Francesc Ruiz
+![image](/media/images/SalaX7.jpg)
+
+Talk & Walk to the former Cinema "X".
 
 ![image](/media/images/SalaX3.jpg)
 
-Foto by Christina Schultz
+Limited edition of a signed poetry piece, imitating a cinema programm with insinuative Porn Titles.
+
+![image](/media/images/SalaX8.jpg)
+
+The former Cinema is now a private exhibition room by regional train line of Catalunya.
+
   
 [This is the project's tumblr](http://distribucionperturbadora.tumblr.com/)
 
