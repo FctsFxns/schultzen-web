@@ -22,3 +22,6 @@ gem 'glynn'
 
 # Resize images
 gem "jekyll-minimagick"
+
+# Fix build with travis
+gem 'sprockets', '3.6.3'
