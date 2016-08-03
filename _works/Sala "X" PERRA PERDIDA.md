@@ -21,7 +21,7 @@ Intervening artist are: Onofre Bachiller, Berta Canela, Sonia Fernández Pan –
 with the colaboration of Núria Gómez, Ariadna Guiteras, Anna Irina Limia and Xavi Ristol. 
 
   
-![image](/media/images/SalaX5.jpg)
+![image](/media/images/SalaX5.jpg) 
 
 Meeting point for the performance at the telephone cell.
   
