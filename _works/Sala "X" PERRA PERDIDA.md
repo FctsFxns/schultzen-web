@@ -18,7 +18,7 @@ The additional events take place during 19h and 22h and th einformation will be 
 
 Intervening artist are: Onofre Bachiller, Berta Canela, Sonia Fernández Pan – Paco Chanivet , Carlota Fuentevilla, Carmen Hurtado, Anna Pahissa, Francesc Ruiz, Christina Schultz, Jordi Vernis, Helena Vinent - Joan Palle 
 
-with the colaboration of Núria Gómez, Ariadna Guiteras, Anna Irina Limia and Xavi Ristol. 
+with the colaboration of Núria Gómez, Ariadna Guiteras, Anna Irina Limia and Xavi Ristol.  
 
   
 ![image](/media/images/SalaX5.jpg) 
