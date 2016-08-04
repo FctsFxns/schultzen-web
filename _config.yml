@@ -89,7 +89,7 @@ exclude:          [
   , 'bower.json'
   , 'node_modules'  
   , 'README.md'  
-  , 'ImageSampler.psd',
+  , 'ImageSampler.psd'
   , 'ImageSamplerVertical.psd'
   , '_assets/vendor'           # necessary for travis integration
   ]
