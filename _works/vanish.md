@@ -1,5 +1,5 @@
 ---
-title: The Kingdom of Boredom
+title: The Do Nothing Way
 categories: Projects Performatic Video Collage
 intro: Ongoing project in process. Challenge boredom voluntarily. What comes next? A colaborative performance.
 featured_image: /media/images/1BoredomFeatured.jpg
@@ -10,10 +10,9 @@ date:  2016-06-29 00:00:00 +0100
 ---
 
 
-This project will penetrate and trascendend one aspect of doing nothing. It will enter in the Kingdom of Boredom. We only get bored when we are forced to it and anyway try to end this state as soon as possible. In a performatic way and with the colaboration of others I will explore what’s behind boredom. What comes after.
+This is a performance, a lecture, a physical contemplation on the difference between work and labour, the productive and the consumable. Texts are read in the hammock while unproductive gestures accompany the lecture. 
 
-This is a project in it’s inicial phase and soon we will release the Call for the performatic colaboration.
-A first insight will be given the 17th and 18th of september during TOP 2016 at Hangar.org. My studio will be open for visits and I will be glad to receive you. So far you can watch the investigation material.
+The Performance is a colaboration with different artist invited personally, who somehow relate to doing nothing. So far have been participating Valeria Linera, a sculptorer and yoga teacher and Juan David Gallindo, artist and performer.
 
 
 ![image](/media/images/1BoredomFeatured.jpg)
