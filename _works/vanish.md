@@ -1,7 +1,7 @@
 ---
 title: The Do Nothing Way
 categories: Projects Performatic Video Collage
-intro: Ongoing project in process. Challenge boredom voluntarily. What comes next? A colaborative performance.
+intro: Do nothing is never want to work again. A lecture. Some gestures. A colaborative performance.
 featured_image: /media/images/1BoredomFeatured.jpg
 
 published: true
