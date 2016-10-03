@@ -16,23 +16,25 @@ date:  2015-02-00 00:00:00 +0100
 ---
 
  
-Say hi to Tom! is a parodic response to all the countries that are about to turn into "Souvenirlandia" invading public space with a multicultural population on vacation.  
-
-A crowdsourced action, an invitation to participate in an online call for analog postcards.  
+Say hi to Tom! is a project between the digital and the analog comunication world. A online call invited people to write an analog postcard to the artist and answer three questions. The postcards would be modified corresponding to the answers and turned into digital prints.
+ 
 An interactive game to re-vindicate written 
-communication, a joke on massive tourism and a turnaround of distributing artistic work.  
+communication, a joke on massive tourism and a turnaround of distributing artistic work. The project was entirely fostered by an auction house in Barcelona and was auctioned in February 2014.
 
-The outcomes of the project were: 
+You can still visit [the catalog](/media/pdf/1423861538-CATALOGO-SUBARNA.pdf),   
 
-* A live auction at Subarna, Auction House in Barcelona. 3 editions of a series of 36 printed digital collages were auctioned. 25 were sold. Here's [the catalog](/media/pdf/1423861538-CATALOGO-SUBARNA.pdf).  
-
-* A website with an open call was published and in 2 months, 36 postcards were received and turned into personalized collages.
-
-This is [the platform](http://www.christinaschultz.com/postcards/) of the project.   
+and also [the online platform](http://www.christinaschultz.com/postcards/) of the project.   
 
 * A selected collage by the audience was projected in huge format on an open wall in Barcelona. Another printed in a limited edition, signed and sent to all the participants via postal mail.  
 
-+ 3 editions of the series of 36 collage works were auctioned at a true Auction house in Barcelona.
+
+![image](/media/images/SayHi2.jpg)
+
+![image](/media/images/SayHi3.jpg)
+
+![image](/media/images/SayHi4.jpg)
+
+![image](/media/images/SayHi5.jpg)
 
 
 Apart from the projects website you can also visit the blog with [the collection of postcards](http://tomsalbum.tumblr.com/)
@@ -43,8 +45,3 @@ You can also find the project on [Facebook](https://www.facebook.com/callforpost
   
 
 
-![image](/media/images/SayHi2.jpg)
-
-![image](/media/images/SayHi3.jpg)
-
-![image](/media/images/SayHi4.jpg)
