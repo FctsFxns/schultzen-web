@@ -26,7 +26,7 @@ An exhibition at Casa Elizalde gathered all these different elements in a solo s
 
 The project persists through a proper [website](http://www.christinaschultz.com/FERnofer/) to download the audiobook and [a blog named Fernofer](http://elfernofer.tumblr.com/), which collected the performatic experience. 
 
-In this room every day people gathered with me to do participate at the performance of doing nothing. Here a school class.
+In this room every day people gathered with me to do participate at the performance of doing nothing. Here are 20 teenagers.
 
 ![image](/media/images/Fer7joves.jpg)
 
@@ -45,9 +45,4 @@ carried fotographs untidily pinned to the wall, as the ON VACATION posters they 
 
 ![image](/media/images/Fer3.jpg)
   
-![image](/media/images/Fer5audio.jpg)  
-
-
-
-
-
+![image](/media/images/Fer5audio.jpg) 
