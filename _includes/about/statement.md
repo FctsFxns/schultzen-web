@@ -1,13 +1,17 @@
 # The Artist Says
 
-I’m an artist because I aim to live my live following the artistic principle of exploring creativity.  
-I’m an artist because I give it all.  
+I’m an artist because I aim to live my live, following the artistic principle of expanding creativity.
+  
+I’m an artist because I give it all.
+  
 I am an artist because that’s what I love and therefore do best.
-I am an artist because others share the same opinion.  
+
+I am an artist because others share the same opinion. 
+ 
 I always explain differently what I do. It depends on who is asking.   
 
-I work with performance, video, voice and prints. I switch constantly between teh digital and the analog world. I use cinematic and performative elements, interviews, online calls, collages, drawings, fotographs, talks, stop motion, audio and video.  
-I am what you might call multidiciplinary. Definetly with a recognizable, proper handwriting.
+I work with performance, video, voice and prints. I switch constantly between the digital and the analog world. I use cinematic and performative elements, interviews, online calls, collages, drawings, fotographs, talks, stop motion, audio and video.  
+I am what you might call multidisciplinary and still with a recognizable handwriting.
   
 My work is made for the one and for all.   
 I aim to approximate the gap between you and me,   
