@@ -14,7 +14,7 @@ Oooops,I have a plan is a performance of a cover version of the R&B singer Tweet
 
 The work was produced for “Lightning Studies - Centre for the Translation of Constraints, Conflicts and Contaminations” curated by [Renan Laru-an](http://www.curators-network.eu/database/db_item/id/renan-laru-an) for the **Encura Grant** by Hangar.org and Curator’s Network. The project is about post - colonialism, institution and institutionalization.
 
-The Hangar resident artists who were selected for this curatorial experience by Renan Laru-an, **Lightning Studies: CTCCCs** are Megan Michalak, the artists duo Giuliana Racco/Matteo Guidi, [Mario Santamaría](http://mariosantamaria.net/) and me.
+The Hangar resident artists who were selected for this curatorial experience by Renan Laru-an, **Lightning Studies: CTCCCs** are Megan Michalak, the artists duo Giuliana Racco/Matteo Guidi,[Mario Santamaría](http://mariosantamaria.net/) and me.
 
 
 
