@@ -38,6 +38,7 @@ Poster of Lost Doggie.
 Talk & Walk to the former Cinema "X".
 
 ![image](/media/images/SalaX3.jpg)
+![image](/media/images/SalaX9.jpg)
 
 Limited edition of a signed poetry piece, imitating a cinema programm with insinuative Porn Titles.
 
