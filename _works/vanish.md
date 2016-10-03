@@ -39,6 +39,9 @@ Some sketches on dissapearing
 
 Disguising former projects.
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> master
