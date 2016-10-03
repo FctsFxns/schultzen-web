@@ -1,7 +1,7 @@
 ---
 title: The Do Nothing Way
 categories: Projects Performatic Video Collage
-intro: Do nothing is never want to work again. A lecture. Some gestures. A colaborative performance.
+intro: Do nothing is a performance in a hamock and a series of nine prints.
 featured_image: /media/images/1BoredomFeatured.jpg
 
 published: true
@@ -10,25 +10,32 @@ date:  2016-06-29 00:00:00 +0100
 ---
 
 
-This is a performance, a lecture, a physical contemplation on the difference between work and labour, the productive and the consumable. Texts are read in the hammock while unproductive gestures accompany the lecture. 
+The do nothing Way is a multidisciplinary project. A video, a performance, a lecture. In all a contemplation on the difference between work and labour, the productive and the consumable. So far I state that I never want to work again. During the performance, two performers read out semi loud the chapter  "The work of our hands and the labour of our body" by Hannah Arendt in a white hammock next to a series of nine fotografic prints representing gestures who do nothing. 
 
-The Performance is a colaboration with different artist invited personally, who somehow relate to doing nothing. So far have been participating Valeria Linera, a sculptorer and yoga teacher and Juan David Gallindo, artist and performer.
+The video is a magician making things disappear.
+
+All performances are made in colaboration with Valeria Linera, a sculptorer and performer and Juan David Gallindo, artist and performer.
 
 
-![image](/media/images/1BoredomFeatured.jpg)
+![image](/media/images/5BoredomExpomans.jpg)
 
-Manos "(1 of series of 9)"
+Manos (Series of 9 prints)
 
-![image](/media/images/2BoredomVanish.jpg)
+![image](/media/images/7ExpomansHammock.jpg)
 
-Make things vanish.
-
-![image](/media/images/3BoredomDisappear.jpg)
-
-Disguise old projects.
+The instalation with white hammock 
 
 ![image](/media/images/4BoredomVideo.jpg)
 
 Make disappear a glass and a performer.
 
 [Here's the 1 minute video](https://vimeo.com/172396915) 
+
+![image](/media/images/2BoredomVanish.jpg)
+
+Some sketches on dissapearing
+
+![image](/media/images/3BoredomDisappear.jpg)
+
+Disguising former projects.
+
