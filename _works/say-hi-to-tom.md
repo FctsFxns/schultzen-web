@@ -21,18 +21,17 @@ Say hi to Tom! is a project between the digital and the analog comunication worl
 An interactive game to re-vindicate written 
 communication, a joke on massive tourism and a turnaround of distributing artistic work. The project was entirely fostered by an auction house in Barcelona and was auctioned in February 2014.
 
-You can still visit [the catalog](/media/pdf/1423861538-CATALOGO-SUBARNA.pdf),   
+You can still visit [the catalog](/media/pdf/1423861538-CATALOGO-SUBARNA.pdf), and also [the online platform](http://www.christinaschultz.com/postcards/) of the project.   
 
-and also [the online platform](http://www.christinaschultz.com/postcards/) of the project.   
+A selected collage by the audience was projected in huge format on an open wall in Barcelona. Each participant received a collage via postal mail. 
 
-* A selected collage by the audience was projected in huge format on an open wall in Barcelona. Another printed in a limited edition, signed and sent to all the participants via postal mail.  
+ 
 
+![image](/media/images/SayHi4.jpg)
 
 ![image](/media/images/SayHi2.jpg)
 
 ![image](/media/images/SayHi3.jpg)
-
-![image](/media/images/SayHi4.jpg)
 
 ![image](/media/images/SayHi5.jpg)
 
