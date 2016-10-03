@@ -18,42 +18,17 @@ EL FER i no fer (The doing and the not doing in catalan language) is a research 
 
 A puzzle of reflections on the phenomenon of time, labor and a society addicted to production.  
 
-The framework of the project consists in a website with [5 chapters of a polyphonic audio collage](http://www.christinaschultz.com/FERnofer/El-Fer-Nr1-ElConceptoDeTrabajo), a printed score, transcription of the sound collage in a limited edition, a 3D QRcode, 5 videos of empty work spaces and [a blog](http://elfernofer.tumblr.com/) that documented a daily performative activity during 3 weeks.   
-  
-The “do nothing with others”.
- 
-The exhibition counted with two dark rooms and one bright. 
+El Fer no fer is a complex project made of visual art work, daily performances a teenage work group and a audiocollagebook in 5 chapters. 
 
-Sound and vídeo were placed at the two black rooms.
+Many people were involved and participated in the collaborative performances of doing nothing or gave their statements on work for the audiocollage. 
 
-**El FER:** 
+An exhibition at Casa Elizalde gathered all these different elements in a solo show in november 2015.
 
+The project persists through a proper [website](http://www.christinaschultz.com/FERnofer/) to download the audiobook and [a blog named Fernofer](http://elfernofer.tumblr.com/), which collected the performatic experience. 
 
-5 polyphonic audiocollages, made of interviews with people related to the art world, sound, music and historical documents, remix personal work experiences, wisdom, interpretations of the professional world and all the trouble on the so called activity WORK.
+In this room every day people gathered with me to do participate at the performance of doing nothing. Here a school class.
 
-[This is the project's website!](http://www.christinaschultz.com/FERnofer/)  
- 
-
-**The Videos**
-
-The 5 participants empty work spaces were filmed during a time they were not there. A healing registration of what is there when they are not.
-
-The bright room was only reserved for the doing nothing performance
-
-**El no fer:** 
-
-A white room, a carpet, some plants and a sofa. A one-to-one experience of doing nothing together with the artist. What does it mean to you and what can we not do?
-It certainly is a denial.
-
-If you want to see what we not did, please visit [the blog](http://elfernofer.tumblr.com/).
-
-A "Score" was layed out to read in a dark room exclusivly for listening and reading.
-
-![image](/media/images/Fer2.jpg)  
-
-![image](/media/images/Fer3.jpg)
-  
-![image](/media/images/Fer5audio.jpg)  
+![image](/media/images/Fer7joves.jpg)
 
 The other dark room contained a tower of 5 different almost still videos and the 5 QR cubes with inner light. The code leads you to the online audio files.
 
@@ -66,8 +41,13 @@ carried fotographs untidily pinned to the wall, as the ON VACATION posters they 
 
 ![image](/media/images/Fer1.jpg) 
 
-In this room every day people gathered with me to do participate at the performance of doing nothing. Here a school class.
+![image](/media/images/Fer2.jpg)  
 
-![image](/media/images/Fer7joves.jpg)
+![image](/media/images/Fer3.jpg)
+  
+![image](/media/images/Fer5audio.jpg)  
+
+
+
 
 
