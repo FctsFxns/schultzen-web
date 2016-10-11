@@ -20,20 +20,27 @@ The Hangar resident artists who were selected for this curatorial experience by 
 
 
 
-[HERE’s the audioperformance](https://soundcloud.com/mssschultz/oooops-i-have-a-plan)
+[HERE you can download the audioperformance](https://soundcloud.com/mssschultz/oooops-i-have-a-plan)
 
 ![image](/media/images/oops3.jpg)
+The Live Performance at Hangar
   
 ![image](/media/images/oooops2.jpg)
+The Live Performance at Hangar
   
 ![image](/media/images/ooops5.jpg)
+The semi-flexie Vinyl made for as publication
 
 ![image](/media/images/ooops6.jpg)
+Frame from the mashup video
 
 ![image](/media/images/ooops7.jpg)
+Frame from the mashup video
 
 ![image](/media/images/ooops8.jpg)
+Frame from the mashup video
 
 ![image](/media/images/ooops9.jpg)
+Frame from the mashup video
 
 <small>© [Hangar](https://hangar.org), Barcelona 2016. Photos by Marzia Matarese, cc-share-alike.</small>
