@@ -1,4 +1,4 @@
-# A B O U T 
+# A B O U T
 # ----------
 #  - Publications & Catalogs -
 #
@@ -12,6 +12,14 @@
 #   year:    2016, required
 #   url:     http://…
 
+- title:   'Paratext Vol.1'
+  author:  Hangar, Fundació Banc Sabadell
+  medium:  Catalog
+  country: Spain
+  date:    dec 2016
+  year:    2016
+  LD:      B- 23697-2016
+  ISBN:     '978-84-617-6320-7'
 
 - title:   'Footnote #1: A Close Reading of Robinson Crusoe'
   author:  Renan Laru-an
