@@ -5,7 +5,7 @@ intro: Do nothing is a instalation of a reading performance in a hammock and a s
 featured_image: /media/images/1BoredomFeatured.jpg
 
 published: true
-home_show: true
+
 date:  2016-06-29 00:00:00 +0100
 ---
 
