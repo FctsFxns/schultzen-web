@@ -23,7 +23,7 @@ The project was made during a granted residency and exposed from the 22th to the
 
 Glass cabinet with 3 clues
   
-![image](/media/images/DistributionNoReturnIX.jpg.jpg)
+![image](/media/images/DistributionNoReturnIX.jpg)
 
 Used bullet cases, NO2 cartridges, dust ball.
 

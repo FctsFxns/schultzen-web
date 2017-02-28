@@ -38,13 +38,3 @@ Some sketches on dissapearing
 ![image](/media/images/3BoredomDisappear.jpg)
 
 Disguising former projects.
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> master
-=======
->>>>>>> master
