@@ -17,11 +17,11 @@ The video is a magician making things disappear.
 All performances are made in colaboration with Valeria Linera, a sculptorer and performer and Juan David Gallindo, artist and performer.
 
 
-![image](/media/images/5BoredomExpomans.jpg)
+![image](/media/images/7ExpomansHammock.jpg)
 
 Manos (Series of 9 prints)
 
-![image](/media/images/7ExpomansHammock.jpg)
+![image](/media/images/5BoredomExpomans.jpg)
 
 The instalation with white hammock 
 
