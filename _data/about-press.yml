@@ -1,4 +1,4 @@
-# A B O U T 
+# A B O U T
 # ----------
 #  - MORE PRESS -
 #
@@ -11,6 +11,13 @@
 #   date:    feb 2016, necessary
 #   year:    2016, required
 #   url:     http://…
+  title:   'L'art reobre el cinema Avenida de la Luz'
+  author:  'Teresa Sesé'
+  medium:  'La Vanguardia'
+  country: 'WWW'
+  date:    'mayo 2017'
+  year:    2017
+  url:     'http://www.lavanguardia.com/edicion-impresa/20170503/422235180104/el-cine-avenida-de-la-luz-reabre-para-el-arte.html'
 
 - title:   'Post: 886195411444154'
   author:  'Dandy von Nützen'
