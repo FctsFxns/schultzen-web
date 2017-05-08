@@ -7,7 +7,7 @@ featured_image: /media/images/ooops4.jpg
 
 date:   2016-03-18 15:31:21 +0100
 
-home_show: true
+published: true
 
 ---
 Oooops,I have a plan is a performance of a cover version of the R&B singer Tweet Ooops, there goes my skirt. Also a mash up video of water scenes of adventure movies of all times and a vinyl print in a limited edition.
