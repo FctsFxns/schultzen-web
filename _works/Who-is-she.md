@@ -14,7 +14,7 @@ A cinematic live experience leading through different impressions on blood while
 
 This piece was proudly shown at ["react-feminism" at Fundació Tàpies](http://www.reactfeminism.org/prog_barcelona.php) in Barcelona.
 
-Here is [the recorded piece](https://vimeo.com/54809274). 
+Please order the code to see the registration of the performance. 
   
 ![image](/media/images/who1a.jpg)   
  
