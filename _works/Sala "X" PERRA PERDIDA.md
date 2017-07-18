@@ -6,7 +6,7 @@ featured_image: /media/images/SalaXFeatured1.jpg
 
 
 published: true
-home_show: true
+home_show: false
 date:  2016-07-21 00:00:00 +0100
 ---
 
