@@ -10,14 +10,14 @@ date:  2016-06-29 00:00:00 +0100
 ---
 
 
-The do nothing Way is a multidisciplinary project. A video, a performance, a lecture. In all a contemplation on the difference between work and labour, the productive and the consumable. So far I state that I never want to work again. During the performance, two performers read out semi loud the chapter  "The work of our hands and the labour of our body" by Hannah Arendt in a white hammock next to a series of nine fotografic prints representing gestures who do nothing. 
+The do nothing Way is a multidisciplinary project. A video, a performance, a lecture. In all a contemplation on the difference between work and labour, the productive and the consumable. So far I state that I never want to work again. For the performance, two performers were hired to read out semi loud the chapter  "The work of our hands and the labour of our body" by Hannah Arendt in a white hammock next to a series of nine fotografic prints representing gestures who do nothing. 
 
-The video is a magician making things disappear.
+In the video things disappear as a.
 
 All performances are made in colaboration with Valeria Linera, a sculptorer and performer and Juan David Gallindo, artist and performer.
 
 
-![image](/media/images/7ExpomansHammock.jpg)
+![image](/media/images/7ExpomansHammock2.jpg)
 
 Manos (Series of 9 prints)
 
