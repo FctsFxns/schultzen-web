@@ -11,11 +11,19 @@
 #   date:     '2015', necessary
 #   year:     2015, required
 #   url:      'http://www.google.es'
+
 - title:    'Programa de Estudios Independientes'
   teacher:  'Claustro formado por Lucía Egaña, Emilio Muiños, Jaime Vindel, Marcelo Expósito, Dora García y Marina Garcés'
   venue:    'Museo de Arte Contemporaneo de Barcelona'
   place:    'Barcelona, ES'
   date:     '2017/2018'
+  year:     2017
+
+- title:    'Nocturnal Emissions/Porncomic'
+  teacher:  'Francesc Ruiz'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     '2017'
   year:     2017
 
 - title:    'El Juego Ideal'
