@@ -8,11 +8,17 @@
 # - name:   'Daniel Canet'
 #   url:     'http://www.danielca.net'
 
-- name:   'Hangar Staff'
+- name:   'Pau Cata'
+  url:    'http://nacmm.org/en/'
+
+- name:   'Hangar'
   url:    'https://hangar.org'
 
-- name:   'Maite Larrauri'
-  url:    'https://filosofiaparaprofanos.com/'
+- name:   'Mireia Sallarés'
+  url:    'http://www.mireiasallares.com/'
+
+- name:   'Clara Garí'
+  url:    'http://www.naucoclea.com/'
 
 - name:   'Daniel Canet'
   url:    'http://www.danielca.net'
