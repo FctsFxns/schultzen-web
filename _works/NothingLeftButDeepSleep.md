@@ -16,8 +16,11 @@ The idea of the project was to question the role of the contemporary artist as a
 
 Anders work 'Your Work Was Never About You' is an online meditation leaned on 'Mindfullness' where I colaborated with my voice.
 
-'Nothing Left But Deep Sleep' gathers traditional lullybies with new verses reflecting on 'the exhausted producer' in two different, poetic ways. The songs can be heard dialing the spanish landline + 34 93 595 12 65 or be downloaded as a score in pdf. The score was written by Anders Visti.
-The work was installed in a performatic talk with the newspaper add, showing the number and a telephone to call. 
+'Nothing Left But Deep Sleep' gathers traditional lullybies with new verses reflecting on 'the exhausted producer' in two different, poetic ways. 'Sleep like a Rock' and 'Nothing left but Deep Sleep'. The songs can be heard dialing the spanish landline + 34 93 595 12 65 or be downloaded as a score in pdf. The score was written by Anders Visti.
+The work was installed in a performatic talk with the newspaper add, showing the number and a telephone to call. Also there are two digital collages that were never published.
+
+![image](/media/images/SleepLikeArockCollage.jpg)
+
 
 ![image](/media/images/SleepLikeArock2.jpg)
 
