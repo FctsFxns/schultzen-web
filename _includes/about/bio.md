@@ -1,8 +1,6 @@
 # About
 
-Born on february the 5th, in Munich, Germany 1972. At this moment I am a long term resident for 2 years at hangar.org in Barcelona, Spain.
-
-I am a so called autodidact, which means that I learned everything in collaborations with talented people, organizations and companies such as:
-Daniel Canet, software engineer, Claudia Giralt Monedero, digital design student, Les Salonnières, art colective, Clara Garí, curator at “Nau Côclea”, Editorial Gustavo Gili, Loring Art Library and everybody who took part in my actions.
-
-This was made possible by Hangar, centre de producció artística, Clara Garí, Nau Côclea and Oscar Abril Ascaso, the workshops of “Nau Estruch”, the events of “Liminal GR”, Fundació Tàpies, Festival de Poble Nou, Paola Marugán, “Jugar a tres bandas “, Galería Fidel Balaguer, AAVC workshops and Espacio Práctico.
+I was born february the 5th, in Munich, Germany 1972.
+I am a resident at Piramidón Artistic Center and have the privilege of being accepted within aselected group of curators, artists and intellectuals for the**Independent Study Program** (PEI) of the Museum of Contemporary Art of Barcelona (MACBA).
+During the last years I have been able to deepen my practice in various international artistic contexts,with several independent projects, with alternative distributions, performance actions and multipurpose exhibitions. Producing and managing myself autonomously in some cases and in othersbeing sponsored by cultural and educational organizations such as: Hangar.org Artistic The Blueproject Foundation, EINA university center and the Institut 4Cantons,Center, Casa Elizalde, Nau Côclea, Subarna, Auction House and Fundació Tàpies among others.
+I have expanded my technical and intellectual knowledge with: PEI students and lecturers, especially**Nicolás Vatiu Koralsky**, curator; **Pau Cata**, coordinator of NACCM; **Amanda Masha Caminals**,curator; **Pol Capdevila**, professor of humanities at Pompeu Fabra; **Marina Garcés** philosopher andteacher of critical thinking; **Pep Dardanyá**, artist; **Tere Badía**, director of Hangar; **Clara Garí**, directorof the Nau Côclea; **Mar Merino**, cultural manager; **Daniel Canet**, software engineer; **Paola Marugán**, curator; **Claus Strigel** and **Matthias Zentner** documentary filmmakers, **friends** and **kin**.
