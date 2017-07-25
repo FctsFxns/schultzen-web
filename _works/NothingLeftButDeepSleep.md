@@ -21,6 +21,8 @@ The work was installed in a performatic talk with the newspaper ad, showing the 
 
 ![image](/media/images/SleepLikeArockCollage.jpg)
 
+![image](/media/images/SleepLikeArockCollage2.jpg)
+
 
 ![image](/media/images/SleepLikeArock2.jpg)
 
