@@ -2,7 +2,7 @@
 title: Decision with no Return or A Sense of Territory
 categories: Instalation Cinematic Collage Video
 intro: Decision with no Return or A Sense of Territory is a video and installation piece, an investigative detective story on the new relationship between England and Europe after Brexit.
-featured_image: /media/images/DecisionNoReturnX.jpg
+featured_image: /media/images/DistributionNoReturnII.jpg
 
 
 published: true
@@ -19,7 +19,9 @@ The paintings are nine questionmarks, size 8 x 11 cm painted with Graham & Brown
 
 The project was made during a granted residency and exposed from the 22th to the 28th of february 2017 at Islington Mill, Salford.
   
-![image](/media/images/DistributionNoReturnI.jpg) 
+![image](/media/images/DistributionNoReturnX.jpg) 
+
+![image](/media/images/DistributionNoReturnI.jpg)
 
 Glass cabinet with 3 clues
   
