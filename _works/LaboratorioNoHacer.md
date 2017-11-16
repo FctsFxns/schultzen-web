@@ -5,10 +5,10 @@ intro: The Laboratory of Doing Nothing is a longterm artistic investigation on o
 featured_image: /media/images/BlueLabTitol.jpg
 
 
-date:  2017-06-010 00:00:00 +0100
+date:  2017-07-010 00:00:00 +0100
 
 published: true
-
+home_show: true
 
 ---
 
