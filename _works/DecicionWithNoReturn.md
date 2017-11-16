@@ -18,8 +18,6 @@ The physical evidence found at the surroundings of Manchester make up three clue
 The paintings are nine questionmarks, size 8 x 11 cm painted with Graham & Browne, the color that made Britain Great in Manchester Blue. 
 
 The project was made during a granted residency and exposed from the 22th to the 28th of february 2017 at Islington Mill, Salford.
-  
-![image](/media/images/DistributionNoReturnX.jpg) 
 
 ![image](/media/images/DistributionNoReturnI.jpg)
 
