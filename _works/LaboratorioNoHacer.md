@@ -19,6 +19,12 @@ These outcomes are based on the collaborative thinking process of all participan
 
 At continuation the so far 4 experiences are explained in detail:
 
+![image](/media/images/BlueSala.jpg)
+Ready to open the doors to the public
+
+![image](/media/images/BlueLab5.jpg)
+Day1
+
 ![image](/media/images/Blue2.jpg)
 Ojos sin Tiempo by Kai Corvus
 
@@ -64,8 +70,8 @@ Le Flaneur by Mar Merino
 ![image](/media/images/Blue14.jpg)
 Amarres by Judit Murlans
 
-![image](/media/images/BlueLab5.jpg)
-Opening
+![image](/media/images/Blue15Juli.jpg)
+Estar by Juliana Guerrero
 
 All pictures by Christina Schultz and Antonio R. Montesinos
 
