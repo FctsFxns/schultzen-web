@@ -37,9 +37,6 @@ Dar cita ininterrumpidamente by Patricia Fernandez Antón
 ![image](/media/images/Blue6.jpg)
 Deriva intencional by Caro Selo
 
-![image](/media/images/Blue5nigra.jpg)
-Nigra Sum
-
 ![image](/media/images/Blue5.jpg)
 Possis by Antonio R. Montesinos
 
@@ -73,7 +70,10 @@ Amarres by Judit Murlans
 ![image](/media/images/Blue15Juli.jpg)
 Estar by Juliana Guerrero
 
-All pictures by Christina Schultz and Antonio R. Montesinos
+![image](/media/images/Blue5nigra.jpg)
+Nigra Sum
+
+All pictures by Antonio R. Montesinos and Christina Schultz 
 
 The most extensive and elaborated version of the workshop was made in colaboration with Hangar, artistic center in Barcelona, the Blueproject Foundation and The GoodGood with Mar Merino. During almost two months the 15 participants, who subscribed through an open call with limited reserves, met every week to reflect on the four mayor pilars of the project: The concept of Work, The concept of Time, The concept of Play and The Concept of Not Doing.
 
