@@ -11,7 +11,8 @@ published: true
 home_show: true
 
 ---
-
+![image](/media/images/Blue0.jpg)
+Learning and unlearning doing nothing from microorganisms, plants and silk worms
 
 The Laboratory of Doing Nothing is an artistic investigation on our tired working society, the hell of overproduction and our urgent need to slow down with the intention to put some light into a dark future. The laboratory is an everlasting field of experimentation, a never ending art project on continous learning in forms of workshops, seminars, actions, instalations, internet art, drawings and all kinds of possible material expressions.
 These outcomes are based on the collaborative thinking process of all participants with the artist. The results of a long term workshop were shared with open public during 72 hours at the exhibition hall Il Salotto at the Blueproject Foundation.The express workshop during an intense afternoon was published in a publication. The seminar is to be continued in 2018 with Pol Capdevila at EINA and the Laboratory held at ESC medienkunstcenter in Graz was cancelled due to strong conflicts emerging during the workshop about doing nothing.
