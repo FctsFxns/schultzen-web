@@ -43,6 +43,5 @@ MANIFIESTO del no hacer
 Hay que saber decir que no.  
 Hay que no hacer.
 
-  
-![image](/media/images/o.jpg)  
+ 
 
