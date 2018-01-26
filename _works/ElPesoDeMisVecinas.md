@@ -17,9 +17,9 @@ Composing songs that narrate about intimate lives is a tradition formerly relega
 The projects does not pretend to be a reliable anthropological research but a chaotic collection of string narratives that do not distinguish between fabulation and report.
 Close ups in photography of faces were mainly avoided but a continuous practice of live drawings reflect portraits and gazes that were only possible in intimacy.
 
-The following pictures reflect a 6 weeks visit and coexistence in Nador in the house of newly known women who earn their living with “trabando”. Trabando is a combination of two Spanish words, trabajo (work) and contrabando (smuggle) and indicates the a-legal activity of transporting goods from Melilla to Nador with their bodies.
+The following pictures reflect a 6 weeks visit and coexistence in Nador in the house of newly known women who earn their living with -trabando-. Trabando is a combination of two Spanish words, trabajo (work) and contrabando (smuggle) and indicates the a-legal activity of transporting goods from Melilla to Nador with their bodies.
 
-This project is supported with a grant by Barcelona Producció 2017/2018 and the vital support of Jiwar, Le18 and Nau Côclea, all three are artist residencies in Barcelona, Marrakech and Camallera.
+The investigation of this project is made possible especially by a grant from Barcelona Producció 2017/2018 and La Capella. It was also supported vitally by Jiwar, creació i societat, the artist residency in Marrakech Le18, Institut Ramón Llull and Nau Côclea in Camallera.
 You can have a regular update on the project through my Instagram account: schultz_and_more
 
 ![image](/media/images/4PesoVecinas.png)
@@ -31,7 +31,7 @@ One of these women is the Porteadora with whom i spent a couple of days. The oth
 
 ![image](/media/images/7PesoVecinas.jpg)
 
-In October the border was closed on Friday, Saturday and Sunday for the 'atipical traffic'. Since I left it is only open two days a week. Nadias, Fatimas and Luizas despair is lived cooking, singing and talking about not much.
+In October the border was closed on Friday, Saturday and Sunday for the atipical traffic. Since I left it is only open two days a week. Nadias, Fatimas and Luizas despair is lived cooking, singing and talking about not much.
 
 ![image](/media/images/2PesoVecinas.jpg)
 
@@ -45,7 +45,7 @@ Nadia, contrabandista, she doesn't like the word porteadora, gets up at 2h30 in 
 
 ![image](/media/images/10PesoVecinas.jpg)
  
-The day I waited outside of the door of the "barrio chino" for Nadia to come out, I spend 6 hours together with Syrian refugees who waited anxiously for the gate to open and maybe take a chance to blend in with all the people, who once orderly in a cue, stream out like overfloating water, rolling or carrying their huge "bultos" as fast as possible. I wouldn't imagine at that point that I would see them all again the last day I decided to spend in a hotel instead of staying at Luiza's. Here is Samira having a break from her multiple brothers, sisters and cousins and their fathers waiting here in Nador to follow their mothers who managed to slip through the Moroccan guards mostly disguised as "Porteadoras". Morocco won't let them pass to seek help at the CRG, the center for war refugees.
+The day I waited outside of the door of the barrio chino for Nadia to come out, I spend 6 hours together with Syrian refugees who waited anxiously for the gate to open and maybe take a chance to blend in with all the people, who once orderly in a cue, stream out like overfloating water, rolling or carrying their huge **bultos ** as fast as possible. I wouldn't imagine at that point that I would see them all again the last day I decided to spend in a hotel instead of staying at Luiza's. Here is Samira having a break from her multiple brothers, sisters and cousins and their fathers waiting here in Nador to follow their mothers who managed to slip through the Moroccan guards mostly disguised as Porteadoras. Morocco won't let them pass to seek help at the CRG, the center for war refugees.
 
 ![image](/media/images/11PesoVecinas.jpg)
 
