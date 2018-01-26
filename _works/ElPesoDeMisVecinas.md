@@ -22,7 +22,7 @@ The following pictures reflect a 6 weeks visit and coexistence in Nador in the h
 The investigation of this project is made possible especially by a grant from Barcelona Producció 2017/2018 and La Capella. It was also supported vitally by Jiwar, creació i societat, the artist residency in Marrakech Le18, Institut Ramón Llull and Nau Côclea in Camallera.
 You can have a regular update on the project through my Instagram account: schultz_and_more
 
-![image](/media/images/4PesoVecinas.png)
+![image](/media/images/4PesoVecinas.jpg)
 
 One of these women is the Porteadora with whom i spent a couple of days. The other is her landlord of a minuscule room without windows and the third is a neighbor with a golden teeth and a crooked smile. The following portrait is hers.
 
