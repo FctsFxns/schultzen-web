@@ -19,6 +19,7 @@ Close ups in photography of faces were mainly avoided but a continuous practice 
 
 The following pictures reflect a 6 weeks visit and coexistence in Nador in the house of newly known women who earn their living with “trabando”. Trabando is a combination of two Spanish words, trabajo (work) and contrabando (smuggle) and indicates the a-legal activity of transporting goods from Melilla to Nador with their bodies.
 
+This project is supported with a grant by Barcelona Producció 2017/2018 and the vital support of Jiwar, Le18 and Nau Côclea, all three are artist residencies in Barcelona, Marrakech and Camallera.
 You can have a regular update on the project through my Instagram account: schultz_and_more
 
 ![image](/media/images/4PesoVecinas.png)
