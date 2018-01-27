@@ -12,7 +12,7 @@ date:  2017-06-14 00:00:00 +0100
 ---
 Please demand the artist for the english version.
 
-MANIFIESTO del no hacer,
+MANIFIESTO del no hacer
 La realidad laboral es un agujero negro.
 Hay que dejar de trabajar.
 Hay que dejar de trabajar.
