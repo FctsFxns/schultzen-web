@@ -37,4 +37,4 @@ pdf_dossier: 'media/pdf/DossierSchultz2016.pdf'
 cta_text:
 
 footer_text:     > # this means to ignore newlines until "baseurl:"
-  © 2016 Christina Schultz. All Rights Reserved.
+  © 2018 Christina Schultz. All Rights Reserved.
