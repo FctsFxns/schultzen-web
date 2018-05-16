@@ -11,19 +11,12 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
-- institution:  'EINA'
-  description:  'Jugadas del no hacer'
-  rol:          'Seminarist'
-  place:        'Barcelona, ES'
-  date:         '2018'
-  year:         2018
-
-- institution:  'EINA'
-  description:  'Seminar of doing nothing'
-  rol:          'Seminarist'
-  place:        'Barcelona, ES'
-  date:         '2017'
-  year:         2017
+- title:  'Jugadas del no hacer'
+  type:   'Seminar'
+  venue:  'EINA, school of art and design'  
+  place:  'Barcelona, ES'
+  date:   'february 2018'
+  year:   2018
 
 - title:    "Nicht(s)tun Labor"
   type:     'Laboratorio/Exhibition'
