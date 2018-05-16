@@ -29,7 +29,7 @@ Day1
 Ojos sin Tiempo by Kai Corvus
 
 ![image](/media/images/BlueMaria.jpg)
-La Vaga by [María Alcaide](http://mariaalcaide.com/p%C3%A1gina%20principal/buy/2017/la%20vaga.html)
+La Vaga by [María Alcaide](http://mariaalcaide.com/index-/buy/2017/la%20vaga.html)
 
 ![image](/media/images/Blue3.jpg)
 Doing Nothing by David Macho
