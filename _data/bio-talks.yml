@@ -12,6 +12,27 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
+- title:    'El Peso de Mis Vecinas'
+  type:     'Performatic presentation'
+  venue:    'NEXES + ESPAI-E / JORNADAS de BARRIOS Y PRÁCTICAS ARTÍSTICAS'
+  place:    'Fabra i Coats, Barcelona'
+  date:     '29th of june 2018'
+  year:     2018
+
+- title:    'El Peso de Mis Vecinas'
+  type:     'Performance'
+  venue:    'Dreisechsfuenf'
+  place:    'Wien, Austria'
+  date:     '8th of may 2018'
+  year:     2018
+
+- title:    'El Peso de Mis Vecinas'
+  type:     'Presentation'
+  venue:    'BAU, escola de disseny'
+  place:    'Barcelona, Spain'
+  date:     'ene 2018'
+  year:     2018
+
 - title:    'Objects and Desires'
   type:     'Presentation/Halquawia Reading'
   venue:    'Le18'
