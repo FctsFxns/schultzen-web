@@ -1,12 +1,9 @@
 {% assign sorted_works = (site.works | sort: 'date' | reverse | where: "home_show" , "true") %}
 
 {% for work in sorted_works limit:3 %}
-
 	<div class="work col-xs-12 col-sm-8 col-sm-offset-2 col-lg-4 col-lg-offset-0">  
 	  {% include components/works-teaser.html %}
 	</div>
-	<!-- <div class="clearfix visible-xs-block col-sm-1"><p>&nbsp;</p></div> -->
-
 		<!-- Modulo 3 equals 0, only -->
 		{% if forloop.last %}
 			  <div class="clearfix visible-sm-block col-lg-2">&nbsp;</div>
