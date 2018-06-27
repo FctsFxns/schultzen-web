@@ -1,7 +1,7 @@
 ---
 title: El Peso de mis Vecinas
 categories: Investigation Song 2018
-intro: The Weight of my Neighbours is a project about the marginality and migration of my moroccan neighbours in Barcelona and at the Melilla border through poetry and song. 
+intro: The Weight of my Neighbours is a project about the marginality and migration of my moroccan neighbours in Barcelona and at the Melilla border through poetry and song.
 featured_image: /media/images/3PesoVecinas.jpg
 
 
@@ -33,21 +33,21 @@ The presentation of the project in form of a cooking workshop at Fundación Comt
 
 ![image](/media/images/4cPesoVecinas.jpg)
 
-![image](/media/images/4ePesoVecinas.jpg)
+![image](/media/images/4gPesoVecinas.jpg)
 
 The performance at 365, curated by Dr. Lena Freimüller in Viena.
 
 ![image](/media/images/4dPesoVecinas.jpg)
 
-Portrait of Luiza 
+Portrait of Luiza
 
-![image](/media/images/1PesoVecinas.jpg) 
+![image](/media/images/1PesoVecinas.jpg)
 
 In October the border was closed on Friday, Saturday and Sunday for the atipical traffic. Since I left, it is only open two days a week. Nadias, Hafedas and Luizas despair is overcome by cooking, singing and talking about not much.
 
 ![image](/media/images/7PesoVecinas.jpg)
 
-This is how a Moroccan wedding looks from the backside. The garage is the kitchen and the kitchen where men will eat as invisible as possible. Stti and Fatima are between 60 and 80, neither of them knows her exact age, and manage the 28 shared plates going out for the guests. Fatima is the groom's grandmother and Stti the neighbor. It's a all women run heavy work which needs a lot of collaboration from neighbor to neighbor. 
+This is how a Moroccan wedding looks from the backside. The garage is the kitchen and the kitchen where men will eat as invisible as possible. Stti and Fatima are between 60 and 80, neither of them knows her exact age, and manage the 28 shared plates going out for the guests. Fatima is the groom's grandmother and Stti the neighbor. It's a all women run heavy work which needs a lot of collaboration from neighbor to neighbor.
 
 ![image](/media/images/2PesoVecinas.jpg)
 
@@ -57,8 +57,8 @@ Nadia, contrabandista, she doesn't like the word 'porteadora', gets up at 2h30 i
 
 Drawing
 
-![image](/media/images/5PesoVecinas.jpg) 
- 
+![image](/media/images/5PesoVecinas.jpg)
+
 The day I waited outside of the door of the barrio chino for Nadia to come out, I spend one morning together with Syrian refugees who waited anxiously for the gate to open and maybe take a chance to blend in with all the people, who once orderly in a cue, stream out like overfloating water, rolling or carrying their huge **bultos ** as fast as possible. I wouldn't imagine at that point that I would see them all again the last day I decided to spend in a hotel instead of staying at Luiza's. Here is Samira having a break from her multiple brothers, sisters and cousins and their fathers waiting here in Nador to follow their mothers who managed to slip through the Moroccan guards mostly disguised as Porteadoras. Morocco won't let them pass to seek help at the CETI, the governmental center for war refugees.
 
 ![image](/media/images/10PesoVecinas.jpg)
