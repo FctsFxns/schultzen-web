@@ -1,6 +1,6 @@
 ---
 title:          Heroes
-categories: Collage 
+categories: Collage 2000
 intro: A series of 6 oversized collages portraying childhood heroes. Idols and overcrowded references. All works are wooden framed. 
 featured_image: /media/images/heroes160x141.jpg
 

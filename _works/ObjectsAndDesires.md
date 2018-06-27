@@ -1,6 +1,6 @@
 ---
 title: Objects and Desires
-categories: Performance Drawing Sound
+categories: Performance Drawing Sound 2017
 intro: The project compares the meaning of objects imported from Spain and the ones bought by tourist in Marrakech.
 featured_image: /media/images/ObjectsAndDesires2.jpg
 

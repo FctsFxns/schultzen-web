@@ -1,6 +1,6 @@
 ---
 title: Limbic Love
-categories:  Projects Performatic Cinematic Collage 
+categories:  Projects Performatic Cinematic Collage 2014
 intro: “Limbic Love” was a multidisciplinary investigation on love in the framework of the  exhibition “I don’t believe in you but I believe in Love” curated by Paola Marugán.
 featured_image: /media/images/LimbicLovePerformance.jpg
 

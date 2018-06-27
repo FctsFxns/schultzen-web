@@ -1,7 +1,7 @@
 ---
 title: 16mm Stop Motion
 
-categories: Cinematic Collage
+categories: Cinematic Collage before2000
 
 intro: These short movies were produced during 4 years and were never conceptualized. They are very pure and naif expressions of the will to communicate painful situations playfully.
 

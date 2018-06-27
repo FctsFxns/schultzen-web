@@ -1,7 +1,7 @@
 ---
 title: YOU your WALL and ME
 
-categories: Projects Cinematic Performatic Collage
+categories: Projects Cinematic Performatic Collage 2014
 
 intro: Four site specific collage pieces have influenced transcendentally the vital moments of four participants found through an online call. Be part of my art.  
 

@@ -1,6 +1,6 @@
 ---
 title: Decision with no Return or A Sense of Territory
-categories: Instalation Cinematic Collage Video
+categories: Instalation Cinematic Collage Video 2017
 intro: Decision with no Return or A Sense of Territory is a video and installation piece, an investigative detective story on the new relationship between England and Europe after Brexit.
 featured_image: /media/images/DistributionNoReturnII.jpg
 

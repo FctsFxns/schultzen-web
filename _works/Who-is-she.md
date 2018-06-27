@@ -1,6 +1,6 @@
 ---
 title: Who is she?
-categories: Performatic Cinematic Collage
+categories: Performatic Cinematic Collage 2012
 intro: “Who is she” is a live cinema performance about blood in colaboration with the performer Carme Vinyas. It was presented during re-act feminism at Fundació Tàpies.
 featured_image: /media/images/WhoIsShe.jpg
 

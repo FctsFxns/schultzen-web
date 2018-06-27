@@ -1,6 +1,6 @@
 ---
 title: Oooops, I have a plan
-categories: Performatic Video 
+categories: Performatic Video 2016
 intro: A video, a vinyl and a singing performance for the research project "Lightning Studies - CTCCC" curated by Renan Laru-an for the Encura Grant by Hangar.org and Curator’s Network.
 
 featured_image: /media/images/ooops4.jpg

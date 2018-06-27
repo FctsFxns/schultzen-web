@@ -1,6 +1,6 @@
 ---
 title: El Manifiesto Del No Hacer
-categories: Print 
+categories: Print 2017
 intro: A manifesto against work and the working society, declared in collaboration with Mar Merino. 
 featured_image: /media/images/ManifiestoNoHacer1.jpg
 
@@ -10,6 +10,8 @@ home_show: true
 published: true
 date:  2017-06-14 00:00:00 +0100
 ---
+This piece was exposed at the group exhibition of 'As Slow as Possible'Embarrat, Tárrega and performed at Hans & Fritz Gallery in may 2017.
+
 Please demand the artist for the english version.
 
 MANIFIESTO del no hacer
@@ -42,6 +44,8 @@ MANIFIESTO del no hacer
 Hay que hacer menos.  
 Hay que saber decir que no.  
 Hay que no hacer.
-
+![image](/media/images/ManifiestoHyF.jpg)
  
+![image](/media/images/ManifiestoHyF2.jpg)
 
+![image](/media/images/ManifiestoHyF3.jpg)

@@ -1,6 +1,6 @@
 ---
 title: PornoLoops
-categories: Cinematic Collage
+categories: Cinematic Collage 2010
 intro: 9 stop motion videoloops with 9 soundsamples. Made to combine randomly. Hard porn made soft. MusicMix by Lorenz Gneist.
 featured_image: /media/images/pornLoop.jpg
 

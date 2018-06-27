@@ -1,6 +1,6 @@
 ---
 title: Washing Machine Spin Dry Lead Acid Battery Kill Flywheel
-categories: Performatic Video
+categories: Performatic Video 2015
 intro: A youtubing performance on the artist mental power capacities and the veracity of the internet. In the framework of Liminal GR curated by Pilar Cruz and Marc Roig.
 
 featured_image: '/media/images/Waschmachine1a.jpg'

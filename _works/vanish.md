@@ -1,6 +1,6 @@
 ---
 title: The Do Nothing Way
-categories: Projects Performatic Video Collage
+categories: Projects Performatic Video Collage 2016
 intro: Do nothing is a instalation of a reading performance in a hammock and a series of nine fotographic prints.
 featured_image: /media/images/1BoredomFeatured.jpg
 

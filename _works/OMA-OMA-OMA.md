@@ -1,6 +1,6 @@
 ---
 title: OMA OMA OMA
-categories: Cinematic Collage
+categories: Cinematic Collage 2011
 intro: Oma means grandmother in german. A film about work, love, gender and sex and a melancholic portrait of my grandmother. SoundMix by Parasythe Woman.
 featured_image: /media/images/oma2.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: Do Nothing II
-categories: Projects Performatic Video Sound
+categories: Projects Performatic Video Sound 2014
 intro: A daily non-action of doing nothing during 30 days. Made visible in a blogspace. The posts were generated simultaneously with Clara Garí.
 featured_image: /media/images/PsdOnPsd.jpg
 

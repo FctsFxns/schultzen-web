@@ -1,6 +1,6 @@
 ---
 title: I would prefer not to
-categories: Instalation Performance
+categories: Instalation Performance 2017
 intro: This work is a telephone performance. A telephone ringing until someone picks it up. A fragmented narration on resistance, string theory and Bartleby the escrivener.
 featured_image: /media/images/IWouldPreferNotTo1.jpg
 

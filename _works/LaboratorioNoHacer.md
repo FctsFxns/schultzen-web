@@ -1,6 +1,6 @@
 ---
 title: Laboratory of Doing Nothing
-categories: Projects Performatic Longterm
+categories: Projects Performatic since 2016
 intro: The Laboratory of Doing Nothing is a longterm artistic investigation on our tired working society through collaborative thinktanks, interventions and instalations.
 featured_image: /media/images/BlueLabTitol.jpg
 

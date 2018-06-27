@@ -1,6 +1,6 @@
 ---
 title: TrashFoodPorn
-categories: Project Performatic Cinematic Collage
+categories: Project Performatic Cinematic Collage 2011
 intro: TrashfoodPorn is a quirky investigation on food and nurture. A talk, animation loops and melting sculptures. White bread is food. Sugar is Love. 
 featured_image: /media/images/trashfood1.jpg
 

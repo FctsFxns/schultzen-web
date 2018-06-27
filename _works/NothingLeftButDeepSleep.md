@@ -1,6 +1,6 @@
 ---
 title: Nothing Left But Deep Sleep
-categories: Instalation Performance
+categories: Instalation Performance 2017
 intro: A local spanish landline number. An add under SERVICES at the local newspaper. These are the traces of 2 lullybies texted, performed and registered for public use. 
 featured_image: /media/images/SleepLikeArock1.jpg
 

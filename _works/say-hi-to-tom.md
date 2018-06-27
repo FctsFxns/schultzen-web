@@ -1,6 +1,6 @@
 ---
 title: “Say hi to Tom!”
-categories: Projects Performatic Collage
+categories: Projects Performatic Collage 2015
 intro: A crowdsourced action, an invitation to participate in an online call for analog postcards. A distributive reply to mass tourism and the art world.
 featured_image: /media/images/SayHi.jpg
 featured_video: 

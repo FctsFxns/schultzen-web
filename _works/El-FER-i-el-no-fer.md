@@ -1,6 +1,6 @@
 ---
 title: EL FER i el no fer
-categories: Projects Performatic Video Sound  
+categories: Projects Performatic Video Sound 2015 
 intro: A multidiciplinary puzzle of reflections on the phenomenon of time and a labor addicted society. Sponsored by Nau Côclea and La Casa Elizalde, curated by Clara Garí.
 
 featured_image: /media/images/QRcube.jpg
