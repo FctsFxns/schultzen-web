@@ -1,7 +1,7 @@
 ---
 title: El Peso de mis Vecinas
 categories: Investigation Song
-intro: The Weight of my Neighbours is a project in process about the marginality and migration of my moroccan neighbours in Barcelona and at the Melilla border. 
+intro: The Weight of my Neighbours is a project about the marginality and migration of my moroccan neighbours in Barcelona and at the Melilla border. 
 featured_image: /media/images/3PesoVecinas.jpg
 
 
@@ -9,17 +9,18 @@ published: true
 home_show: true
 date:  2018-01-01 00:00:00 +0100
 ---
+'The weight of my neighbors' began in march 2017, as a study on the marginality and migration of Moroccan women and on the possibility of poetry and singing as narrative tools.
 
-It focuses on the lives of female ’Contrabandistas’, the so called Porteadoras at the Melilla border and a group of female marginated, moroccan immigrants in my neighbourhood in Barcelona.
-The methods to investigate about their weightfull circumstances is through living with them and composing songs while cooking, cleaning or during loose reunions at home.
-Composing songs that narrate about intimate lives is a tradition formerly relegated especially to Amazigh women of Northern Morocco and executed mainly in familiar contexts but also at weddings or other festive acts.
+This artistic project has investigated the female activity of the Moroccan migrant and marginalized community of the Born neighbourhood in Barcelona and the female cartes of the spanish border with Melilla, and of the possibility of singing and poetry as strategic tools.
 
-The projects does not pretend to be a reliable anthropological research but a chaotic collection of string narratives that do not distinguish between fabulation and report.
-Close ups in photography of faces were mainly avoided but a continuous practice of live drawings reflect portraits and gazes that were only possible in intimacy.
+The research is based on the collective ability of Moroccan women to compose and sing biographical verses and inquires about the relations of closeness, proximity, distance and encounter that occur between women.
 
-The following pictures reflect a 6 weeks visit and coexistence in Nador in the house of newly known women who earn their living with 'trabando'. 'Trabando' is a combination of two Spanish words, trabajo (work) and contrabando (smuggle) and indicates the a-legal activity of transporting goods from Melilla to Nador that they are capable to carry with their bodies.
+The narratives about the border lives of our neighbors were woven through daily activities such as cooking, singing and gossiping and were interpreted with songs, drawings and recipes poems.
 
-The investigation of this project is made possible especially by a grant from Barcelona Producció 2017/2018 and La Capella. It was also supported vitally by Jiwar, creació i societat, the artist residency in Marrakech Le18, Institut Ramón Llull and Nau Côclea in Camallera.
+the results of the project were a solo exhibition during june and july at the gallery space of Piramidón art center, a publication financed by LaCapella and a oral performance 'The voices of trabando' presented as final tesis of the Independent Study Program (PEI) at the MACBA (museum of contemporary art in Barcelona).
+
+The investigation of this project is made possible especially by a grant from Barcelona Producció 2017/2018 and La Capella and the PEI study program. It was also supported vitally by Pau Cata and the artistic residency CeRRCa, Jiwar, creació i societat, the artist residency in Marrakech Le18, Institut Ramón Llull and Nau Côclea in Camallera.
+
 You can have a regular update on the project through my Instagram account: schultz_and_more
 
 ![image](/media/images/4PesoVecinas.jpg)
