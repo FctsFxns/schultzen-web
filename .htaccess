@@ -935,14 +935,18 @@ FileETag None
 # </IfModule>
 
 <IfModule mod_rewrite.c>
-# @see: http://stackoverflow.com/questions/4026021/remove-php-extension-with-htaccess 
+# @see: http://stackoverflow.com/questions/4026021/remove-php-extension-with-htaccess
     RewriteCond %{REQUEST_FILENAME}.php -f
     RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
 </IfModule>
 
 <IfModule mod_rewrite.c>
-# @see: http://stackoverflow.com/questions/4026021/remove-php-extension-with-htaccess 
+# @see: http://stackoverflow.com/questions/4026021/remove-php-extension-with-htaccess
     RewriteCond %{REQUEST_FILENAME}.html -f
     RewriteRule !.*\.html$ %{REQUEST_FILENAME}.html [QSA,L]
 </IfModule>
 
+# Redirect to https
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
