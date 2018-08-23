@@ -13,7 +13,7 @@ This performance was part of the [Grand Tour 18](http://www.elgrandtour.net/) by
 It was narrated through a series of 37 acrylic ink drawings of different tomatoes and the preparation of 12 tomato preserves. The tomatoes used for preservation were a donation of Rose’s orchard, one of the four sisters born at the village house that is now an artist residency directed by Pau Cata Marlés.
 
 Tomatl is the original name of a fruit that was brought to Europe through bloody colonisation as a souvenir and became one of the most efficient and unscrupulous cultivations of our times. The performance questions the doubtful idea of identity and nationality of the tomato and brings back to mind our tendencies to enslave workers. The preservation and cultivation of vegetables in an orchard is presented as a deeply political act and putting it into practice as a possible way to make a counter-capitalist statement and be better humans.
-Thanks to all the participants, guests ans supporters of this project.
+Thanks to all the participants, guests and supporters of this project.
 
 Some of the drawings
 
