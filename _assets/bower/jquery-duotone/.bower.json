@@ -1,0 +1,39 @@
+{
+  "name": "jquery-duotone",
+  "version": "1.2.3",
+  "homepage": "http://fabricelejeune.github.io/jquery-duotone/",
+  "authors": [
+    "Fabrice Lejeune <fabrice@epic.net>"
+  ],
+  "description": "A jQuery plugin which turn all your images to duotone.",
+  "main": "jquery.duotone.js",
+  "keywords": [
+    "duotone",
+    "halftone",
+    "images",
+    "canvas",
+    "gradient",
+    "gradientmap",
+    "jquery",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js",
+    "src/"
+  ],
+  "_release": "1.2.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.2.3",
+    "commit": "03bec89cf411befe7c2906b59dc8a03438dba933"
+  },
+  "_source": "git://github.com/fabricelejeune/jquery-duotone.git",
+  "_target": "^1.2.3",
+  "_originalSource": "jquery-duotone",
+  "_direct": true
+}

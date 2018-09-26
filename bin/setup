@@ -10,9 +10,13 @@ set -e
 gem install bundler --conservative
 bundle check || bundle install
 
+# 26/sept/2018: removed support to bower.
+# On further theme development 'yarn' or vanilla download would be advised
+# We decide to add the 'bower' download directory to the repo, to solve 
+# straightforward the dependency to this 
 # Set up JS dependencies via Bower.
-bower --version > /dev/null || npm install -g bower
-bower install
+# bower --version > /dev/null || npm install -g bower
+# bower install
 
 # Set variable
 export JEKYLL_ENV=development

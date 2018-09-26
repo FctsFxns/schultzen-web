@@ -21,7 +21,6 @@ for such a great artist and person.
     "Bootstrap",
     "jQuery Appear" from github.com/morr/jquery.appear,
     "Grunt",
-    "Bower",
     "Glynn",
     "Jekyll",
     Travis Jekyll by Felix Rieseberg
