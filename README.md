@@ -10,7 +10,7 @@ The website for artist and performer Christina Schultz using
 
 The application backend is [Jekyll](http://jekyllrb.com/), an application written in the Ruby language using the Ruby on Rails framework. I've added Bundle to manage the dependencies if you need a development environment.
 
-Frontend tools used include LESS over Bootstrap for the styles, [Bower](http://bower.io/) for the javascript dependencies and [Grunt](http://gruntjs.com/) for the tasks.
+Frontend tools used include LESS over Bootstrap for the styles, ~~[Bower](http://bower.io/) for the javascript dependencies~~ and [Grunt](http://gruntjs.com/) for the tasks.
 
 The testing and deployment of changes is made throught [Travis](http://travis-ci.org/) with our own recipe.
 

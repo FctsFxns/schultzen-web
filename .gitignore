@@ -9,7 +9,8 @@ _site/
 *.asset-cache
 *.sass-cache
 /_site/*
-/_assets/bower/*
+# Removed bower dependency
+# /_assets/bower/*
 /node_modules
 assets/
 .bundle
