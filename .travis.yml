@@ -7,7 +7,7 @@ install:
 
 script:
 - bundle exec jekyll build --trace
-- bundle exec htmlproofer ./_site --only-4xx --http-status-ignore "403" --url-ignore "#,/https:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.christinaschultz\.com\/.*/,/https:\/\/www\.christinaschultz\.com\/.*/"
+# - bundle exec htmlproofer ./_site --only-4xx --http-status-ignore "403" --url-ignore "#,/https:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.christinaschultz\.com\/.*/,/https:\/\/www\.christinaschultz\.com\/.*/"
 
 after_success:
 - "./bin/deploy"
