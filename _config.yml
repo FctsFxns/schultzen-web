@@ -83,25 +83,24 @@ exclude:          [
   'node_modules'
   , 'bin'
   , '_glynn.yml'
+  , 'package.json'
   , 'Gemfile'
   , 'Gemfile.lock'
   , 'Gruntfile.js'
   , 'bower.json'
-  , 'node_modules'  
-  , 'README.md'  
-  , 'ImageSampler.psd'
-  , 'ImageSamplerVertical.psd'
+  , 'node_modules'
+  , 'README.md'
   , '_assets/vendor'           # necessary for travis integration
   ]
 
-include:          
+include:
   -  '.htaccess'
   -  '_pages'
-  -  'feed.xml' 
-  -  'atom.xml' 
-  -  'crossdomain.xml' 
-  -  'sitemap.xml' 
-  -  'humans.txt' 
+  -  'feed.xml'
+  -  'atom.xml'
+  -  'crossdomain.xml'
+  -  'sitemap.xml'
+  -  'humans.txt'
   -  'robots.txt'
   -  'favicon.ico'
 
