@@ -8,7 +8,7 @@ sitemap: 0
 ---
 <div class="row">
   <div class="col-12">
-    <p>Us pressento aquest video del projecte XXX.</p>
+    <p>Us presento aquest video del projecte "Les veus de les trajineras", podeu  <a href="/videos/lesveus.mp4">descarregar el video</a> si no es veu en el vostre navegador web.</p>
     <video controls autoplay="autoplay" style="width: 100%;">
       <source src="/videos/lesveus.ogv"  type="video/ogg">
       <source src="/videos/lesveus.mp4"  type="video/mp4">
