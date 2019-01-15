@@ -1,6 +1,6 @@
 # Glynn setup
 
-ftp_host: '78.47.17.26'
+ftp_host: 'dedi302.your-server.de'
 ftp_dir: '/public_html'
 ftp_passive: true
 
