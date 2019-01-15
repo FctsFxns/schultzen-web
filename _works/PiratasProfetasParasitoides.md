@@ -1,7 +1,7 @@
 ---
 title: Piratas Profetas Parasitoides
 categories: laboratory performance fanzine
-intro: Piratas Profetas Parasitoides was an experimental workshop to reconfigure our digital identities and the use of social media platforms.
+intro: This is an experimental workshop in colaboration with Daniel Canet to reconfigure our digital identities and play with social media platforms.
 featured_image: /media/images/PPP.jpg
 
 
