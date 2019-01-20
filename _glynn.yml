@@ -1,5 +1,4 @@
 # Glynn setup
-
 ftp_host: 'christinaschultz.com'
 ftp_dir: '/public_html'
 ftp_passive: true
