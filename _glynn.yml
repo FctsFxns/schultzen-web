@@ -1,8 +1,8 @@
 # Glynn setup
 
-ftp_host: 'dedi302.your-server.de'
+ftp_host: 'christinaschultz.com'
 ftp_dir: '/public_html'
-ftp_passive: false
+ftp_passive: true
 
 # optional
 ftp_port: 21                  # default 21
