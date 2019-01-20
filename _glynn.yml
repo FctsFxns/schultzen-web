@@ -2,7 +2,7 @@
 
 ftp_host: 'dedi302.your-server.de'
 ftp_dir: '/public_html'
-ftp_passive: true
+ftp_passive: false
 
 # optional
 ftp_port: 21                  # default 21
