@@ -7,7 +7,7 @@
 set -e
 
 # Set up Ruby dependencies via Bundler.
-gem install bundler --conservative
+gem install bundler --conservative 
 bundle check || bundle install
 
 # 26/sept/2018: removed support to bower.

@@ -12,6 +12,7 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	# Download analytics
 	wget https://www.google-analytics.com/analytics.js
 
+	# Això no caldria, ja que ho fa el script previ
 	# bundle exec jekyll build --trace
 
 	# Add credentials
