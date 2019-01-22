@@ -12,12 +12,9 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	# Download analytics
 	wget https://www.google-analytics.com/analytics.js
 
-	# Això no caldria, ja que ho fa el script previ
-	# bundle exec jekyll build --trace
-
 	# Add credentials
-	echo "ftp_username: ${ftp_username}" >> _glynn.yml
-	echo "ftp_password: ${ftp_password}" >> _glynn.yml
+	# echo "ftp_username: ${ftp_username}" >> _glynn.yml
+	# echo "ftp_password: ${ftp_password}" >> _glynn.yml
 	bundle exec glynn
  
 else
