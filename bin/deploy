@@ -5,9 +5,6 @@ set -e
 
 if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 
-	npm install -g
-	npm install -g grunt-cli
-
 
 	gem install bundler --conservative
 	bundle check || bundle install
@@ -28,10 +25,12 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	FTP_HOST=${ftp_server}
 	FTP_USERNAME=${ftp_username}
 	FTP_PASSWORD=${ftp_password}
-
 	JSON_FMT='{\n"host":"%s",\n"username":"%s",\n"password":"%s"\n}\n'
 	printf "$JSON_FMT" "$FTP_HOST" "$FTP_USERNAME" "$FTP_PASSWORD" >> secret.json
 
+
+	npm install 
+	grunt build
 	grunt deploy
  
 else
