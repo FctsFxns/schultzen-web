@@ -1,6 +1,6 @@
 # Glynn setup
-ftp_host: '185.66.41.51'
-ftp_dir: '/web'
+ftp_host: '78.47.17.26'
+ftp_dir: '/public_html'
 ftp_passive: true
 
 # optional
@@ -8,5 +8,3 @@ ftp_port: 21                  # default 21
 ftp_secure: false             # default false
 
 # credentials
-ftp_username: 'prueb4S1P'
-ftp_password: 'DhqhLzoc'
