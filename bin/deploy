@@ -12,11 +12,6 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	# Set variable
 	export JEKYLL_ENV=production
 
-	# Download analytics
-	# cd _site
-	# wget https://www.google-analytics.com/analytics.js
-	# cd ..
-
 	# DEPLOY with credentials as TRavis ENV
 	# echo "ftp_username: ${ftp_username}" >> _glynn.yml
 	# echo "ftp_password: ${ftp_password}" >> _glynn.yml
@@ -28,9 +23,12 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	JSON_FMT='{\n"host":"%s",\n"username":"%s",\n"password":"%s"\n}\n'
 	printf "$JSON_FMT" "$FTP_HOST" "$FTP_USERNAME" "$FTP_PASSWORD" >> secret.json
 
-
+	# Install node modules
 	npm install 
-	grunt build
+
+	# Build again, maybe it's not necessary at all	
+	# grunt build
+	# Deploy through SFTP
 	grunt deploy
  
 else

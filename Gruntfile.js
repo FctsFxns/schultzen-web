@@ -2,7 +2,6 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     secret: grunt.file.readJSON('secret.json'),
-
     sftp: {
       deploy: {
         files: {
@@ -14,8 +13,8 @@ module.exports = function(grunt) {
           host: "<%= secret.host %>",
           username: "<%= secret.username %>", 
           password: "<%= secret.password %>",
-          path: "/public_html/test",
-          showProgress: true
+          path: "/public_html",
+          showProgress: false
         }
       }
     },
