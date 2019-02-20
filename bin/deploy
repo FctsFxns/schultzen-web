@@ -5,6 +5,9 @@ set -e
 
 if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 
+	npm install -g
+	npm install -g grunt-cli
+
 
 	gem install bundler --conservative
 	bundle check || bundle install
@@ -17,14 +20,12 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	# wget https://www.google-analytics.com/analytics.js
 	# cd ..
 
-	# Add credentials
+	# DEPLOY with credentials as TRavis ENV
 	# echo "ftp_username: ${ftp_username}" >> _glynn.yml
 	# echo "ftp_password: ${ftp_password}" >> _glynn.yml
 	# bundle exec glynn
 	touch secret.json
-
-	# ${ftp_username}
-	FTP_HOST=dedi302.your-server.de
+	FTP_HOST=${ftp_server}
 	FTP_USERNAME=${ftp_username}
 	FTP_PASSWORD=${ftp_password}
 
