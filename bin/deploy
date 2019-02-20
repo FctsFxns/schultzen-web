@@ -13,9 +13,20 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	wget https://www.google-analytics.com/analytics.js
 
 	# Add credentials
-	echo "ftp_username: ${ftp_username}" >> _glynn.yml
-	echo "ftp_password: ${ftp_password}" >> _glynn.yml
-	bundle exec glynn
+	# echo "ftp_username: ${ftp_username}" >> _glynn.yml
+	# echo "ftp_password: ${ftp_password}" >> _glynn.yml
+	# bundle exec glynn
+	touch secret.json
+
+	# ${ftp_username}
+	FTP_HOST=dedi302.your-server.de
+	FTP_USERNAME=${ftp_username}
+	FTP_PASSWORD=${ftp_password}
+
+	JSON_FMT='{\n"host":"%s",\n"username":"%s",\n"password":"%s"\n}\n'
+	printf "$JSON_FMT" "$FTP_HOST" "$FTP_USERNAME" "$FTP_PASSWORD" >> secret.json
+
+	grunt deploy
  
 else
  echo 'This branch will not be deployed, though. The site is deployed from "deploy" branch, only.'
