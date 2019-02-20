@@ -1,7 +1,24 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
+    secret: grunt.file.readJSON('secret.json'),
 
+    sftp: {
+      deploy: {
+        files: {
+          "./": "_site/**"
+        },
+        options: {
+          srcBasePath: '_site/',
+          createDirectories: true,
+          host: "<%= secret.host %>",
+          username: "<%= secret.username %>", 
+          password: "<%= secret.password %>",
+          path: "/public_html/test",
+          showProgress: true
+        }
+      }
+    },
     less: {
       development: {
         options: {
@@ -123,6 +140,8 @@ module.exports = function(grunt) {
   });
   require('load-grunt-tasks')(grunt);
 
+  // Deployment with https://github.com/israelroldan/grunt-ssh
+  grunt.loadNpmTasks('grunt-ssh');
 
   grunt.loadNpmTasks('grunt-contrib-clean');
 
@@ -150,6 +169,13 @@ module.exports = function(grunt) {
 
   // Watch for content and forget about the rest
   grunt.registerTask('default', ['theming']);
+
+
+  // Build + deploy the full site
+  // Less -> sass + js -> jekyll -> _dist
+
+  // grunt sftp:deploy --config production
+  grunt.registerTask('deploy', ['sftp:deploy']);
 
 
 };

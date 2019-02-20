@@ -1,16 +1,22 @@
 language: ruby
 rvm:
-- 2.2.3
+  - 2.4.1
+
+script: 
+- bundle exec jekyll build --trace
+# - bundle exec htmlproofer ./_site --only-4xx --http-status-ignore "403" --url-ignore "#,/https:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.christinaschultz\.com\/.*/,/https:\/\/www\.christinaschultz\.com\/.*/"
 
 install:
 - "./bin/setup"
 
-script:
-- bundle exec jekyll build --trace
-# - bundle exec htmlproofer ./_site --only-4xx --http-status-ignore "403" --url-ignore "#,/https:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.christinaschultz\.com\/.*/,/https:\/\/www\.christinaschultz\.com\/.*/"
-
 after_success:
 - "./bin/deploy"
+
+
+# branch whitelist, only for GitHub Pages
+# branches:
+#   only:
+#   - deploy     # test the deploy branch
 
 # deploy:
 #  skip_cleanup: true
@@ -25,6 +31,16 @@ env:
   - USERNAME: dcanetma
   - EMAIL: dcanetma@gmail.com
   - secure: cvU5Jv79qtkwtpqjJPAxEH2Onnjg4ZE+wOuhOor0cTf0jRRepEji7eCesBuaRtY7SGe7BeSmZyIdpJ3jTDkbYUhv/6xTik+7k++ix+yknmKTd3isxzgELfq1s6xOI4/jWxsq3sB49q8VdGJzVNSH6kp++AVxtbvfUYMUJ5vTfFluur6RgNVyDlOZDRz17VdnZio4UCTDYTMVhG83oej38fCzOZAz56+zEek4jCWtnt7cySmUrG+IolO0Pgd+SJQ8v+ls7udGrq6uls+7CK3aC5jB8mEVf6NLjwVFvghKzblhgp1idIHY6kIyUaPbJlBTYAWx7NoGn3qTDreXJx7nq7Ws6YWZSgnCeHuO5zv1fVXsrrmSoMJvg1hurrGolv2Iz5mPhMBvxgkLGuZorObcXURrT2xBKsvfUT37D7pkCWgkMC4bYOQ9yjUHfDv+gx+LyoJKu2x8MfljOiCuTmQd8v6SCHJtrzx9vPYIR0husgfg1xTh79GlnhYEGSUjJzwzKIaT+1teknl0dUGS3yetaJurxvHDJbguHNaxwiLpcfxrtpe6UBZwzykByygr6iXsf6zW2jdd/sUR9R/VJSqCG8ZduAGf3lsTW2GMH/0CoDJjvNAZ9I6XQVeZtVN9PRLd80WoTKODCFNNmvvIMJtN6Oea51rgk8g7AH6RjW45ACs=
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+
+
+sudo: false # route your build to the container-based infrastructure for a faster build
+
+cache: bundler # caching bundler gem packages will speed up build
 
 notifications:
 #  flowdock: a3ab675b8495f55b53e6c3c6cf565d1e

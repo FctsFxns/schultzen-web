@@ -19,8 +19,9 @@
     "grunt-contrib-connect": "*",
     "grunt-contrib-cssmin": "*",
     "grunt-contrib-less": "*",
-    "grunt-contrib-watch": "*",
+    "grunt-contrib-watch": "1.1.0",
     "grunt-jekyll": "*",
+    "grunt-ssh": "0.12.9",
     "load-grunt-tasks": "*"
   }
 }

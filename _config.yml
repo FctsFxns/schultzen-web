@@ -93,6 +93,7 @@ exclude:          [
   , 'node_modules'
   , 'README.md'
   , '_assets/vendor'           # necessary for travis integration
+  , 'vendor'           # necessary for travis integration
   ]
 
 include:
