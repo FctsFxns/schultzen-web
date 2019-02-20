@@ -13,9 +13,6 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	export JEKYLL_ENV=production
 
 	# DEPLOY with credentials as TRavis ENV
-	# echo "ftp_username: ${ftp_username}" >> _glynn.yml
-	# echo "ftp_password: ${ftp_password}" >> _glynn.yml
-	# bundle exec glynn
 	touch secret.json
 	FTP_HOST=${ftp_server}
 	FTP_USERNAME=${ftp_username}
