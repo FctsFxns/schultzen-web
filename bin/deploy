@@ -1,34 +1,34 @@
 #!/bin/bash
 
+# Exit if any subcommand fails
+set -e
+
 if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 
 
-	# gem install bundler --conservative
-	# bundle check || bundle install
+	gem install bundler --conservative
+	bundle check || bundle install
 
 	# Set variable
 	export JEKYLL_ENV=production
 
-	# Download analytics
-	cd _site
-	wget https://www.google-analytics.com/analytics.js
-
-	# bundle exec jekyll build --trace
-
-	# Add credentials
+	# DEPLOY with credentials as TRavis ENV
 	# echo "ftp_username: ${ftp_username}" >> _glynn.yml
 	# echo "ftp_password: ${ftp_password}" >> _glynn.yml
 	# bundle exec glynn
 	touch secret.json
-
-	# ${ftp_username}
-	FTP_HOST=dedi302.your-server.de
+	FTP_HOST=${ftp_server}
 	FTP_USERNAME=${ftp_username}
 	FTP_PASSWORD=${ftp_password}
-
 	JSON_FMT='{\n"host":"%s",\n"username":"%s",\n"password":"%s"\n}\n'
 	printf "$JSON_FMT" "$FTP_HOST" "$FTP_USERNAME" "$FTP_PASSWORD" >> secret.json
 
+	# Install node modules
+	npm install 
+
+	# Build again, maybe it's not necessary at all	
+	# grunt build
+	# Deploy through SFTP
 	grunt deploy
  
 else

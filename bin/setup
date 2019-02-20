@@ -7,7 +7,7 @@
 set -e
 
 # Set up Ruby dependencies via Bundler.
-gem install bundler --conservative
+gem install bundler --conservative 
 bundle check || bundle install
 
 # 26/sept/2018: removed support to bower.
@@ -22,5 +22,5 @@ bundle check || bundle install
 export JEKYLL_ENV=development
 
 # Not necessary to build the Less files since they're in the repo already
-npm install -g
+# npm install -g
 # npm install -g --silent
