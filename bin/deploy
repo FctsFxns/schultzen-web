@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Exit if any subcommand fails
+set -e
+
 if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 
 
@@ -10,7 +13,9 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	export JEKYLL_ENV=production
 
 	# Download analytics
-	wget https://www.google-analytics.com/analytics.js
+	# cd _site
+	# wget https://www.google-analytics.com/analytics.js
+	# cd ..
 
 	# Add credentials
 	# echo "ftp_username: ${ftp_username}" >> _glynn.yml
