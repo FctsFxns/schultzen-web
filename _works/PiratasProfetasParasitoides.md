@@ -2,7 +2,7 @@
 title: Piratas Profetas Parasitoides
 categories: laboratory performance fanzine
 intro: This is an experimental workshop in colaboration with Daniel Canet to reconfigure our digital identities and play with social media platforms.
-featured_image: /media/images/PPP.jpg
+featured_image: /media/images/PPPfanzine.jpg
 
 
 published: true
@@ -16,7 +16,7 @@ During the event, a huge ham was to be conquered by posting a picture with it on
 
 The workshop was comunicated through mostly private social media platforms and by analog posters on the streets of Barcelona.
 
-![image](/media/images/PPPvertikal.jpg)
+![image](/media/images/PPP.jpg)
 
 ![image](/media/images/PPPcartel2.jpg)
 
