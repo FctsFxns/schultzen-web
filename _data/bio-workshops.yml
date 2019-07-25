@@ -11,9 +11,33 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
+- title:    "Perder el tiempo o como levitar"
+  type:     'Laboratory of doing nothing'
+  venue:    'Can Felipa'
+  place:    'Barcelona, ES'
+  date:     'march 2019'
+  year:     2019
+  url:      'http://www.cccanfelipa.cat/arts-visuals/exposicio-en-curs/'
+
+- title:    "Piratas Profetas Parasitoides"
+  type:     'Workshop'
+  venue:    'Hangar'
+  place:    'Barcelona, ES'
+  date:     'oct 2018'
+  year:     2018
+  url:      'https://hangar.org/es/programa-hangar/formacio/taller-piratas-profetes-i-parasitoides-configura-la-teva-digital/'
+
+- title:    "Laboratory of Doing Nothing"
+  type:     'Intensive weekend'
+  venue:    'Mapamundistas 2018'
+  place:    'Pamplona, ES'
+  date:     'oct 2018'
+  year:     2018
+  url:      'http://www.mapamundistas.com/mapamundistas-2018/talleres/'
+
 - title:  'Jugadas del no hacer'
   type:   'Seminar'
-  venue:  'EINA, school of art and design'  
+  venue:  'EINA, school of art and design'
   place:  'Barcelona, ES'
   date:   'february 2018'
   year:   2018

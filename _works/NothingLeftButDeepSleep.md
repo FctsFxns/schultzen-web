@@ -6,7 +6,7 @@ featured_image: /media/images/SleepLikeArock1.jpg
 
 
 published: true
-home_show: true
+home_show: false
 date:  2017-07-18 00:00:00 +0100
 ---
 

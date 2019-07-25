@@ -12,6 +12,30 @@
 #   year:    2016, required
 #   url:     http://…
 
+- title:   'Je ne veux pas travailler'
+  author:  'Cristina Masanés'
+  medium:  'Mirador de les arts'
+  country: 'Spain'
+  date:    'feb 2019'
+  year:    2019
+  url:     'https://www.miradorarts.com/ca/je-ne-veux-pas-travailler/?fbclid=IwAR32Yr_oBoSxsegUQnIEpVqX5lcKUTlJ-hBgkhpF6Flf9QcfcLS3LiDySrw'
+
+
+- title:   'Entrevista'
+  author:  'Christina Schultz'
+  medium:  'Diario de navarra'
+  country: 'Spain'
+  date:    '21st october'
+  year:    2018
+  url: https://www.diariodenavarra.es/noticias/cultura-ocio/2018/10/21/christina-schultz-gente-quiere-tener-una-vida-tan-activa-que-perdido-control-617021-3188.html
+
+- title:   'No Consigues Descansar'
+  author:  'Christina Schultz'
+  medium:  'El Periodico'
+  country: 'Spain'
+  date:    '11th july'
+  year:    2017
+
 - title:   'El arte reabre el cinema Avenida de la Luz'
   author:  'Teresa Sesé'
   medium:  'La Vanguardia'
