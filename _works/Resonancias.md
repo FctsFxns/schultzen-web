@@ -18,44 +18,43 @@ At this time you can check the program and the credits of the project on its web
 
 This project was made possible by the support of:
 
-![image](/media/images/LogosHomeAndCaixa.jpg)
+* [HomeSession.org](https://homesession.org)
+* [Art for Change](https://obrasociallacaixa.org/es/cultura/art-for-change/)
 
 The following pictures were taken during the first presentation of 'Cuerpo de resonancias' at Graner, center for dance and movement in Barcelona.
 
 ![image](/media/images/Resonancias2.jpg)
 
-Photographer: Anke Luckmann
+<small>Photographer: Anke Luckmann</small>
 
 ![image](/media/images/Resonancias3.jpg)
 
-Photographer: Anke Luckmann
+<small>Photographer: Anke Luckmann</small>
 
 ![image](/media/images/Resonancias4.jpg)
 
-Photographer: Anke Luckmann
+<small>Photographer: Anke Luckmann</small>
 
 ![image](/media/images/Resonancias5.jpg)
 
-Photographer: Anke Luckmann
+<small>Photographer: Anke Luckmann</small>
 
 ![image](/media/images/Resonancias6.jpg)
 
-Photographer: Anke Luckmann
+<small>Photographer: Anke Luckmann</small>
 
 ![image](/media/images/Resonancias7.jpg)
 
-Photographer: Anke Luckmann
+<small>Photographer: Anke Luckmann</small>
 
 ![image](/media/images/Resonancias8.jpg)
 
-Photographer: Anke Luckmann
+<small>Photographer: Anke Luckmann</small>
 
 ![image](/media/images/Resonancias9.jpg)
 
-Photographer: Anke Luckmann
+<small>Photographer: Anke Luckmann</small>
 
-
-![image](/media/images/PPPfanzine.jpg)
 
 
 
