@@ -18,7 +18,7 @@ At this time you can check the program and the credits of the project on its web
 
 This project was made possible by the support of:
 
-* [HomeSession.org](https://homesession.org)
+* [Homesession.org](https://homesession.org)
 * [Art for Change](https://obrasociallacaixa.org/es/cultura/art-for-change/)
 
 The following pictures were taken during the first presentation of 'Cuerpo de resonancias' at Graner, center for dance and movement in Barcelona.
