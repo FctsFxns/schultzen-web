@@ -12,6 +12,22 @@
 #   year:    2016, required
 #   url:     http://…, optional
 
+- title:   'Art seen in BCN`19'
+  author:  'Eva Michalcakova'
+  medium:  'Art-locals'
+  country: 'Spain'
+  date:    'jan 2020'
+  year:    2020
+
+
+- title:   'Christina Schultz: "Es importante hacer cosas que parecen imposibles"'
+  author:  Gemma Tramullas
+  medium:  La Vanguardia
+  country: Barcelona, ES
+  date:    march 2019
+  year:    2019
+  url:     'https://www.elperiodico.com/es/entre-todos/20190315/christina-schultz-es-importante-hacer-cosas-que-parecen-imposibles-7356409'
+
 - title:   'El Manifiesto del NO Hacer'
   author:  Dustin Guerri
   medium:  Live Wire, interview

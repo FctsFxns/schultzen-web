@@ -12,6 +12,13 @@
 #   year:     2015, required
 #   url:      'http://www.google.es'
 
+- title:    'Historia i cultura italianes de l'edat mitjana'
+  teacher:  'Delfi Nieto, Salvatore Marino, Ida Mauro'
+  venue:    'Universidad de Barcelona'
+  place:    'Barcelona, ES'
+  date:     'sept- nov 2019'
+  year:     2019
+
 - title:    'Programa de Estudios Independientes'
   teacher:  'Claustro formado por Lucía Egaña, Emilio Muiños, Jaime Vindel, Marcelo Expósito, Dora García y Marina Garcés'
   venue:    'Museo de Arte Contemporaneo de Barcelona'
