@@ -1,7 +1,7 @@
 ---
 title: Sala “X” con PERRA PERDIDA
 categories: Project Performatic Cinematic Collage 2016
-intro: Sala “X” PERRA PERDIDA is a guided performatic tour on loss, abandoned and forgotten. Presented in public in the context of the project "Perturbating Distribution" by Francesc Ruiz. 
+intro: Sala “X” PERRA PERDIDA is a guided performatic tour on loss, abandoned and forgotten. Presented in public in the context of the project "Perturbating Distribution" by Francesc Ruiz.
 featured_image: /media/images/SalaXFeatured1.jpg
 
 
@@ -16,15 +16,15 @@ Sala “X” PERRA PERDIDA is a performatic mental and fisical walk on loss, por
 
 The additional events take place during 19h and 22h and th einformation will be distribuited the very same day at the tourist information point at Plaza Catalunya.
 
-Intervening artist are: Onofre Bachiller, Berta Canela, Sonia Fernández Pan – Paco Chanivet , Carlota Fuentevilla, Carmen Hurtado, Anna Pahissa, Francesc Ruiz, Christina Schultz, Jordi Vernis, Helena Vinent - Joan Palle 
+Intervening artist are: Onofre Bachiller, Berta Canela, Sonia Fernández Pan – Paco Chanivet , Carlota Fuentevilla, Carmen Hurtado, Anna Pahissa, Francesc Ruiz, Christina Schultz, Jordi Vernis, Helena Vinent - Joan Palle
 
 with the colaboration of Núria Gómez, Ariadna Guiteras, Anna Irina Limia and Xavi Ristol.  
 
-  
-![image](/media/images/SalaX5.jpg) 
+
+![image](/media/images/SalaX5.jpg)
 
 Meeting point for the performance at the telephone cell.
-  
+
 ![image](/media/images/SalaX6.jpg)
 
 Abandoned telephone cell with lost dog search paper.
@@ -46,8 +46,5 @@ Limited edition of a signed poetry piece, imitating a cinema programm with insin
 ![image](/media/images/SalaX8.jpg)
 
 The former Cinema is now a private exhibition room by regional train line of Catalunya.
-
-  
-[This is the project's tumblr](http://distribucionperturbadora.tumblr.com/)
 
 [This is the project's FBpage](https://www.facebook.com/distribucionperturbadora/)   
