@@ -1,13 +1,6 @@
 # The Artist Says
 
-Since over 20 years I have been working in different fields related to art and as an audiovisual artist and performer. Many of my projects are developed in broad ranges of collaborations and include the process as part of the desired outcome. I work with cinematographic, scenic and graphic elements but my main interest lies in the relations with people. Amongst other things I see **error**, **discomfort** and **clumsiness** as great possibilities for change and learning. 
+Christina Schultz (1972) is a transdisciplinary artist, oral performer and linguistic nomad. Her preferred art forms are: *the voice*, *scenic interpretation* and *drawings*. She develops collaborative projects motivated by the love for people, their desires and their doubts. The constructions of her stories are based on the wholeness of error, the knowledge of the stigmatized and the beauty of clumsiness.
+With long term collaborations she explores the possibilities of collectivity through *choir work*, *poetry* and *physical movement* as sources of community knowledge.
 
-Since three years I investigate on our tired working society and a counterproposal: **doing nothing** as an embodied critique. Lately I research on poetry and song as strategic devices.   
-  
-My work is made for the one and for all.   
-It is more radical than it looks like.  
-It asks a lot and over all - listens.
-
-If you'd like to know more, please don't hesitate to write me a card, a letter, a [mail](mailto:contact@christinaschultz.com).
-
-Do come and see me at my residency at [Piramidón](http://www.piramidon.com/en/), centre d'art contemporary.
+I am based in Barcelona since more then 20 years. If you'd like to know more, please don't hesitate to write me a card, a letter, a [mail](mailto:contact@christinaschultz.com) or come and visit me at my residency at [SaTorre](https://www.instagram.com/satorrecaputxes/), minimal space of maximum creativity.
