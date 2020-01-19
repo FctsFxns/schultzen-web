@@ -9,7 +9,7 @@ published: true
 home_show: true
 date:  2018-10-26 00:00:00 +0100
 ---
-This workshop/laboratory, in colaboration with Daniel Canet, software engineer, was held during three practice and theory based sessions at [Hangar](https://hangar.org/es/programa-hangar/formacio/taller-piratas-profetes-i-parasitoides-configura-la-teva-digital/) and presented it's experiments during the fourth date in form of a performative internet flea market, inspired by the concept of [Yami-Ichi](http://yami-ichi.biz/) at Sala Ricson, Hangar. We were also proud to hace Violeta Mayoral as a special guest to talk about her [no-face project](https://www.instagram.com/thenoface_project/).
+This workshop/laboratory, in colaboration with Daniel Canet, software engineer, was held during three practice and theory based sessions at [Hangar](https://hangar.org/es/publicacions/ppp/) and presented it's experiments during the fourth date in form of a performative internet flea market, inspired by the concept of [Yami-Ichi](http://yami-ichi.biz/) at Sala Ricson, Hangar. We were also proud to hace Violeta Mayoral as a special guest to talk about her [no-face project](https://www.instagram.com/thenoface_project/).
 
 As a result of the three sessions the participating group presented their digital life hacks brought to physical existence, prints, performances and games, mixed with 'pongos', a spanish word for useless objects you don't dare to throw away. Everything was on sale.
 During the event, a huge ham was to be conquered by posting a picture with it on Instagram and the group elaborated a fanzine of 40 pages reflecting the experiments and thoughts inspired by the workshop. You can consult it online on [Hangar's site for publications](https://hangar.org/es/category/publicacions/)
@@ -55,6 +55,3 @@ The performance by Tirso Orive Liarte
 Finally, all the experiments carried out by Susanna Rodilla, Estel Cristiá, Mar Merino, David Esteve, Marijn Bril, Gemma Tramullas, Helena Vinent, Tirso Orive Liarte, Carmen Hurtado, Anna Iau, Ricardo Padin and ourselves, Daniel and Christina gathered in a 40 pages fanzine.
 
 ![image](/media/images/PPPfanzine.jpg)
-
-
-
