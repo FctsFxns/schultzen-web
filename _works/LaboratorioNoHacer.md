@@ -29,7 +29,7 @@ Day1
 Ojos sin Tiempo by Kai Corvus
 
 ![image](/media/images/BlueMaria.jpg)
-La Vaga by [María Alcaide](http://mariaalcaide.com/index--1/buy/2017/la%20vaga.html)
+La Vaga by María Alcaide
 
 ![image](/media/images/Blue3.jpg)
 Doing Nothing by David Macho
@@ -76,14 +76,14 @@ Estar by Juliana Guerrero
 ![image](/media/images/Blue5nigra.jpg)
 Nigra Sum
 
-All pictures by Antonio R. Montesinos and Christina Schultz 
+All pictures by Antonio R. Montesinos and Christina Schultz
 
 The most extensive and elaborated version of the workshop was made in colaboration with Hangar, artistic center in Barcelona, the Blueproject Foundation and The GoodGood with Mar Merino. During almost two months the 15 participants, who subscribed through an open call with limited reserves, met every week to reflect on the four mayor pilars of the project: The concept of Work, The concept of Time, The concept of Play and The Concept of Not Doing.
 
 While most of the sessions were held as reading and discussion sessions at Hangar in private, the session on Time hosted Pol Capdevila, professor of artistic research and humanities as a special guest and was held in the geological Museum of Barcelona.
 The concept of Play also had a special format, it was a fusion with a workshop held paralelly at Hangar “The Ideal Game” with Constanza Mendoza and the collective, we both form part of “LPL”, Laboratoy of Ludic Thinking and was a game in itself. Through the interactive Game of Kin  elaborated within the collective, we imagined speculative futures of eco-unproductivity based on an apocalyptic scenery (now) guided by the marvellous thinker and eco-feminist Donna Haraway.
 
-The workshop opened the doors to it’s thinktank to the public durin three sleep-over days and nights at the Blueproject Foundation and converted the space itself in an ongoing visitable experimentation space. 
+The workshop opened the doors to it’s thinktank to the public durin three sleep-over days and nights at the Blueproject Foundation and converted the space itself in an ongoing visitable experimentation space.
 
 You can download the complete program of the three days and it’s participants HERE.
 
@@ -105,7 +105,7 @@ Day IV of the workshop
 ![image](/media/images/BlueLab4bgame.jpg)
 Day IV of the workshop
 
-A three day master seminar at EINA postgraduate school of arts and design introduced the concept of doing nothing to a class of about ten alumni and was composed of theoretical and practical exercices and thinking processes. 
+A three day master seminar at EINA postgraduate school of arts and design introduced the concept of doing nothing to a class of about ten alumni and was composed of theoretical and practical exercices and thinking processes.
 The pupils elaborated individual and collective proposals on doing nothing as a possible form of resistance, some of them taking material form at Barra del Ferro, artspace of EINA in Barcelona.
 
 ![image](/media/images/EinaTitol.jpg)
