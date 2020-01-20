@@ -6,7 +6,7 @@ featured_image: /media/images/PPPfanzine.jpg
 
 
 published: true
-home_show: true
+home_show: false
 date:  2018-10-26 00:00:00 +0100
 ---
 This workshop/laboratory, in colaboration with Daniel Canet, software engineer, was held during three practice and theory based sessions at [Hangar](https://hangar.org/es/publicacions/ppp/) and presented it's experiments during the fourth date in form of a performative internet flea market, inspired by the concept of [Yami-Ichi](http://yami-ichi.biz/) at Sala Ricson, Hangar. We were also proud to hace Violeta Mayoral as a special guest to talk about her [no-face project](https://www.instagram.com/thenoface_project/).
