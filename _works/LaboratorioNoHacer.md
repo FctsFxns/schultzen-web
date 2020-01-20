@@ -8,7 +8,7 @@ featured_image: /media/images/BlueLabTitol.jpg
 date:  2017-07-10 00:00:00 +0100
 
 published: true
-home_show: true
+home_show: false
 
 ---
 ![image](/media/images/BlueSala.jpg)
