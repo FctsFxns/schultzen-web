@@ -28,8 +28,8 @@ gems:
   - jekyll-assets
 
 # Custom var
-ga_analytics: UA-43853933-3
-ga_site:      www.christinaschultz.com
+# ga_analytics: UA-43853933-3
+# ga_site:      www.christinaschultz.com
 
 # Dependencies
 markdown:         kramdown
