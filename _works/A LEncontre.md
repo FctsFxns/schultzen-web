@@ -7,7 +7,7 @@ featured_image: /media/images/encontre1.jpg
 
 published: true
 home_show: true
-date:  2018-06-21 00:00:00 +0100
+date:  2020-06-21 00:00:00 +0100
 ---
 A route for four groups to meet on the 1st of july 2020 at the Art space Espai Nyamnyam in Mieres. The participating art centers, Nau Côclea, Festival Ü del Bac, the Cultural Rizoma cooperative and the Nyamnyam collective walk with the artists they usually work with.
 
