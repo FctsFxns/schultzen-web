@@ -6,17 +6,8 @@
     <!-- Only in development mode -->
     {% if site.env == 'development' %}
       <script src="//localhost:35729/livereload.js"></script>
-      {% else %}
-        <!-- Les google analytics @todo -->
-        <script>
-              (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-              function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-              e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-              e.src='//{{ site.ga_site }}/analytics.js';
-              r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-              ga('create','{{ site.ga_analytics }}', 'auto');ga('send','pageview');
-        </script>
-
+    {% else %}
+        <!-- Les google analytics @none -->
     {% endif %}
 
 </html>
