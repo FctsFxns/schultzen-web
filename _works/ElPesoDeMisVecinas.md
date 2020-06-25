@@ -5,7 +5,7 @@ intro: The Weight of my Neighbours is a project about the marginality and migrat
 featured_image: /media/images/3PesoVecinas.jpg
 
 
-published: true
+published: false
 home_show: true
 date:  2018-01-01 00:00:00 +0100
 ---
