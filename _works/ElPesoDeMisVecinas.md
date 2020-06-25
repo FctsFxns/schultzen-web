@@ -5,8 +5,8 @@ intro: The Weight of my Neighbours is a project about the marginality and migrat
 featured_image: /media/images/3PesoVecinas.jpg
 
 
-published: false
-home_show: true
+published: true
+home_show: false
 date:  2018-01-01 00:00:00 +0100
 ---
 'The weight of my neighbors' began in march 2017, as a study on the marginality and migration of Moroccan women and on the possibility of poetry and singing as narrative tools.
