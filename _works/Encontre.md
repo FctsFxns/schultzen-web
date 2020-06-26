@@ -1,5 +1,5 @@
 ---
-title:          El Encuentro
+title:          A l'encontre
 categories: Walking Drawing DoingNothing 2020 
 intro: Three day collective walk from Nau Côclea to Espai Nyamnyam
 
