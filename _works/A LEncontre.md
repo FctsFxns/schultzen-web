@@ -1,5 +1,5 @@
 ---
-title: A l’Encontre.
+title: Al Encontre.
 categories: Walking Drawing Doing Nothing 2020
 intro: Three day collective walk from Nau Côclea to Espai Nyamnyam
 featured_image: /media/images/encontre1.jpg
