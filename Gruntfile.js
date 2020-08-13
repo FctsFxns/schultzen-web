@@ -2,6 +2,27 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     secret: grunt.file.readJSON('secret.json'),
+    ftp_push: {
+      deploy: {
+        options: {
+          host: "<%= secret.host %>",
+          username: "<%= secret.username %>",
+          password: "<%= secret.password %>",
+          dest: "/web/",
+          port: 21,
+          incrementalUpdates: false
+        },
+        files: [
+          {
+            expand: true,
+            cwd: '_site/',
+            src: [
+              "**/*"
+            ]
+          }
+        ]
+      }
+    },
     sftp: {
       deploy: {
         files: {
@@ -139,10 +160,13 @@ module.exports = function(grunt) {
   });
   require('load-grunt-tasks')(grunt);
 
-  // Deployment with https://github.com/israelroldan/grunt-ssh
+  // Deployment with secure ftp https://github.com/israelroldan/grunt-ssh
   grunt.loadNpmTasks('grunt-ssh');
+  // Deployment with insecure ftp https://www.npmjs.com/package/grunt-ftp-push
+  grunt.loadNpmTasks('grunt-ftp-push');
 
   grunt.loadNpmTasks('grunt-contrib-clean');
+
 
   // grunt.registerTask('default', ['less', 'concat:css', 'cssmin:css', 'jekyll']);
   // grunt.registerTask('css', ['less', 'concat:css', 'cssmin:css']);
@@ -174,7 +198,10 @@ module.exports = function(grunt) {
   // Less -> sass + js -> jekyll -> _dist
 
   // grunt sftp:deploy --config production
-  grunt.registerTask('deploy', ['sftp:deploy']);
+  grunt.registerTask('deployold', ['sftp:deploy']);
+
+  // grunt ftp_push:deploy 
+  grunt.registerTask('deploy', ['ftp_push:deploy']);
 
 
 };
