@@ -13,7 +13,7 @@ module.exports = function(grunt) {
           host: "<%= secret.host %>",
           username: "<%= secret.username %>", 
           password: "<%= secret.password %>",
-          path: "/public_html",
+          path: "/web",
           showProgress: false
         }
       }
