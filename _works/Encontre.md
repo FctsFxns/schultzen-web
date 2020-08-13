@@ -6,8 +6,6 @@ intro: Three day collective walk from Nau Côclea to Espai Nyamnyam
 featured_image: /media/images/encontre1.jpg
 
 home_show: true
-home_call: go to the project website
-home_url:  http://XXXX
 
 published: true
 date:  2020-06-21 00:00:00 +0100
