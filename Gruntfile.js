@@ -10,7 +10,8 @@ module.exports = function(grunt) {
           password: "<%= secret.password %>",
           dest: "/web/",
           port: 21,
-          incrementalUpdates: false
+          incrementalUpdates: true,
+          keepAlive: 120000
         },
         files: [
           {

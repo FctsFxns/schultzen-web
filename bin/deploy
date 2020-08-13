@@ -24,7 +24,7 @@ if [[ $TRAVIS_BRANCH == 'deploy' ]] ; then
 	npm install 
 
 	# Build again, maybe it's not necessary at all	
-	# grunt build
+	grunt build
 	# Deploy through SFTP
 	grunt deploy
  
