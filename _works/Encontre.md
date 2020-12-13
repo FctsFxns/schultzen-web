@@ -7,7 +7,7 @@ featured_image: /media/images/encontre1.jpg
 
 home_show: true
 
-published: true
+published: false
 date:  2020-06-21 00:00:00 +0100
 ---
 

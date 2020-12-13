@@ -2,44 +2,6 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     secret: grunt.file.readJSON('secret.json'),
-    ftp_push: {
-      deploy: {
-        options: {
-          host: "<%= secret.host %>",
-          username: "<%= secret.username %>",
-          password: "<%= secret.password %>",
-          dest: "/web/",
-          port: 21,
-          incrementalUpdates: true,
-          keepAlive: 120000
-        },
-        files: [
-          {
-            expand: true,
-            cwd: '_site/',
-            src: [
-              "**/*"
-            ]
-          }
-        ]
-      }
-    },
-    sftp: {
-      deploy: {
-        files: {
-          "./": "_site/**"
-        },
-        options: {
-          srcBasePath: '_site/',
-          createDirectories: true,
-          host: "<%= secret.host %>",
-          username: "<%= secret.username %>", 
-          password: "<%= secret.password %>",
-          path: "/web",
-          showProgress: false
-        }
-      }
-    },
     less: {
       development: {
         options: {
@@ -52,7 +14,7 @@ module.exports = function(grunt) {
           "css/main.css": "_less/main.less"
         }
       }
-    },        
+    },
     concat: {
       css: {
         src: [
@@ -68,7 +30,7 @@ module.exports = function(grunt) {
       }
     },
     jekyll: {
-      options: {                          
+      options: {
         src: '.',
         dest: './_site',
         config: '_config.yml',
@@ -118,23 +80,23 @@ module.exports = function(grunt) {
       },
       html: {
         files: [
-          '.htaccess', 
-          '*.png', 
-          '*.ico', 
-          '*.txt', 
-          '*.xml', 
-          '*.html', 
-          '*.md', 
+          '.htaccess',
+          '*.png',
+          '*.ico',
+          '*.txt',
+          '*.xml',
+          '*.html',
+          '*.md',
           '_config.yml',
           '_assets/js/*',
           '_assets/stylesheets/*',
           'css/*.css',
-          '_includes/*.html', 
-          '_layouts/*.html', 
-          '_includes/components/*', 
-          '_includes/*', 
-          '_posts/*', 
-          '_works/*', 
+          '_includes/*.html',
+          '_layouts/*.html',
+          '_includes/components/*',
+          '_includes/*',
+          '_posts/*',
+          '_works/*',
           '_pages/*',
           'media/*',
           'media/images/*',
@@ -174,9 +136,9 @@ module.exports = function(grunt) {
 
   // Only compile the custom less->css for Christina's site theme
   // Using grunt 'grunt-contrib-less' + 'grunt-contrib-cssmin'
-  // resulting on -> css/main.min.css 
+  // resulting on -> css/main.min.css
   grunt.registerTask('css', ['less', 'cssmin:css']);
-  
+
   // Build the full site
   // Less -> sass + js -> jekyll -> _dist
   grunt.registerTask('build', ['clean','less','cssmin:css','jekyll:dist']);
@@ -187,7 +149,7 @@ module.exports = function(grunt) {
   grunt.registerTask('content', ['clean','less','cssmin:css','jekyll:devel']);
 
   // Server option: tails connect + watch
-  // "_assets" + "_less" asset pipeline will both work: 
+  // "_assets" + "_less" asset pipeline will both work:
   // [js + sass] + [less]
   grunt.registerTask('theming', ['build','connect', 'watch']);
 
@@ -201,7 +163,7 @@ module.exports = function(grunt) {
   // grunt sftp:deploy --config production
   grunt.registerTask('deployold', ['sftp:deploy']);
 
-  // grunt ftp_push:deploy 
+  // grunt ftp_push:deploy
   grunt.registerTask('deploy', ['ftp_push:deploy']);
 
 
