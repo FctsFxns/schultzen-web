@@ -1,6 +1,6 @@
 ---
 
-title: Shop/Tienda
+title: Shop / Tienda
 intro: Welcome to the Schultzen-Shop!
 permalink: /shop/
 layout: page
@@ -10,10 +10,10 @@ sitemap: 0
 
 ---
 Welcome to Christina Schultz's store of exclusive products at special prices.
-All the products in this shop are prints of original works made by the artist and are linked to Christina Schultz art projects and also benefit other collaborators.
+All the products in this shop are prints of original works made by the artist and are linked to her art projects. By purchasing you are also donating to other collaborators.
 
 Bienvenidas a la tienda de piezas exclusivas a precios especiales de Christina Schultz.
-Todos los productos de esta tienda son impresiones de obras originales hechas de la mano de Christina Schultz y están vinculados con proyectos artísticos de  la artista y benefician también otros colaboradores.
+Todos los productos de esta tienda son impresiones de obras originales hechas por la artista y están vinculados con sus proyectos artísticos. Con la compra estás haciendo también una donación a otros colaboradores.
 
 ### The charmed blanket / La manta conjurada
 
@@ -38,23 +38,23 @@ Esta manta te hará los abrazos que no te pude dar durante este año y estaré m
 
 In order to offer this product at a sustainable price, this campaign is based on collective support. As soon as we complete 13 payed orders for the blanket, the printing process will start and you will receive your order approx. 10 days later.
  
-> **In case the campaign is not successfull and does not arrive up to the necessary amount untill 31. of december, we will refund your money and you will receive a personalized postcard.**
-The status of the campaign will be communicated every three days.
+> **In case the campaign is not successfull and does not arrive up to the necessary amount untill 31. of december 2020, we will refund your money and you will receive a personalized, digital postcard.**
+The status of the campaign will be communicated two times per week.
 
 
 Para poder ofrecer este producto a un precio sostenible, esta campaña cuenta con el apoyo colectivo. Tan pronto como se completen 13 pedidos pagados de la manta, se iniciará el proceso de impresión y recibirás tu pedido aprox. 10 días después. 
 
-> **Si fuera el caso que la campaña no llegará a la cantidad necessaria hasta el 31 de diciembre te devolvemos tu dinero y recibirás una postal personalizada.** 
-Se comunicará el estado de la campaña cada tres días.
+> **Si fuera el caso que la campaña no llegará a la cantidad necessaria hasta el 31 de diciembre 2020 te devolvemos tu dinero y recibirás una postal digital personalizada.** 
+Se comunicará el estado de la campaña dos veces por semana.
 
 
 #### A donation to _Metzineres_ / Una donación para _Metzineres_ 
 
-The cost of this special blanket is 34,50€ + shipping costs. (please check transport conditions)
+The cost of this special blanket is 34,50€ + shipping costs. (please check packaging and transport)
 
 By purchasing this product you are donating 1 euro per blanket to the social proyect ["Metzineres, shelter for women who use drugs and survive violences"][metzineres]. You can find more information about our colaboration on the website.
 
-El coste de esta manta especial es 34,50€ + costes de envío. (por favor consulta las condiciones de transporte)
+El coste de esta manta especial es 34,50€ + costes de envío. (por favor consulta embalaje y transporte)
 
 Con la compra de este producto estás haciendo una donación de 1 euro por manta al proyecto social ["Metzineres, cobijo para mujeres que consumen drogas y sobreviven violencias"][metzineres]. Puedes conocer mejor nuestra colaboración en la pagina web.
 
@@ -63,7 +63,7 @@ Con la compra de este producto estás haciendo una donación de 1 euro por manta
 #### Packaging and transport / Embalaje y transporte
 
 This product is wrapped up in recyclable paper and has a personalized message inside.
-Shipping costs are added to the price of the product. (detailed costs below). It is sent as a certified letter through national postal service or small local “fair trade” transport cooperatives.
+Shipping costs are added to the price of the product. (detailed costs below). It is sent as **certified letter** through national postal service or small local fair trade transport cooperatives.
 Shipments are made from Barcelona, Spain towards the whole world.
 
 **Shipping costs**
@@ -78,7 +78,7 @@ All other countries have a certified shipping cost of 14.35€ per blanket.
 
 ___
 
-El producto está envuelto en papel reciclable y lleva un mensaje personalizado en su interior. Se añaden costes de envío al precio final (costes detallados más abajo). El envío es de carta certificada a través de correos o pequeñas cooperativas de transporte locales de “fair trade”.
+El producto está envuelto en papel reciclable y lleva un mensaje personalizado en su interior. Se añaden costes de envío al precio final (costes detallados más abajo). El envío es de **carta certificada** a través de correos o pequeñas cooperativas de transporte locales de “fair trade”.
 Los envíos se realizan desde Barcelona, España hacía todo el mundo.
 
 **Costes de envío**
