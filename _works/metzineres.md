@@ -1,7 +1,7 @@
 ---
 title: Charms and Potions, female cures by metzineres
 categories: Investigation Poetry Magic 2020
-intro: Charms and Potions or Conjuros y colocones in spanish is a poetic investigation on the spirituality by women who use drugs.
+intro: Charms and Potions or Conjuros y colocones in spanish is a poetic investigation on female spirituality by women who use drugs.
 featured_image: /media/images/metzineres3.jpg
 
 
