@@ -29,7 +29,7 @@ Esta manta te hará los abrazos que no te pude dar durante este año y estaré m
 
 - **Price / Precio**: 34,50€ 
 - **Size / Medidas**: 120x150cm
-- **Color**: black and white / blanco y negro
+- **Color**: black on white / negro sobre blanco
 - **Material**: Poliéster polar 100%
 - **Weight / Peso**: 200gr.
 - **Shipping / Transporte**: Check transportation costs / consulta costes de transporte.
@@ -94,7 +94,7 @@ El resto de los países tienen un coste de envío certificado de 14.35€ x cada
 
 #### Payment methods / Métodos de pago
 
-**We accept** different  payment methods: Paypal, Payoneer and bank transfer. Please leave the number of orders you whish to make, your complete name and address to asure your final payment price. You can iniciate your purchase by pressing the button below. 
+**We accept** different  payment methods: Paypal, Payoneer and bank transfer. Please leave the number of orders you wish to make, your complete name and address to asure your final payment price. You can iniciate your purchase by pressing the button below. 
 
 This is NOT a paid online store, we thank you for your patience with a slightly slower but personalized and always friendly service.
 
