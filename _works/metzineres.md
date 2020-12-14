@@ -26,3 +26,15 @@ This project counts with the support of the research grant by the catalan govern
 ![image](/media/images/metzineres5.jpg)
 
 ![image](/media/images/metzineres6.jpg)
+
+During the month of october the project was hosted during two weeks at the artist residency Can Serrat. During this time I did a full fasting with only liquids to investigate this spiritual technique to achieve more clarity. The result were a walk on Montserrat mountain to old witchy caves and tracks, a handwritten book with a selection of the charms and spells we created at 'Metzineres' and a semi-public performance the 31 of october 2020.
+
+![image](/media/images/metzineres7.jpg)
+
+![image](/media/images/metzineres8.jpg)
+
+![image](/media/images/metzineres9.jpg)
+
+![image](/media/images/metzineres10.jpg)
+
+![image](/media/images/metzineres11.jpg)
