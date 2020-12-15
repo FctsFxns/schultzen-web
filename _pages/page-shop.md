@@ -6,7 +6,7 @@ permalink: /shop/
 layout: page
 layout_class: page-shop
 published: true
-sitemap: 0
+sitemap: 1
 
 ---
 Welcome to Christina Schultz's store of exclusive products at special prices.
