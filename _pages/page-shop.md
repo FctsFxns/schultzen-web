@@ -20,7 +20,6 @@ Todos los productos de esta tienda son impresiones de obras originales hechas po
 
 [![producto manta](/media/images/MantaDibujo.jpg)](/shop/manta)
 
-[![producto manta](/media/images/MantaDibujo2.jpg)](/shop/manta)
 
 Here you find our special campaign for the winter solstice of 2020.
 A fleece blanket printed with a black and white drawing from the project "Charms and potions, female cures by metzineres".
@@ -29,6 +28,10 @@ This blanket will give you the hugs that I couldn't give you this year and it wi
 Aquí encuentras nuestra campaña especial de solsticio de invierno del 2020. 
 Una manta polar impresa con un dibujo en blanco y negro del proyecto “Conjuros y colocones, curas femeninas de las metzineres”. 
 Esta manta te hará los abrazos que no te pude dar durante este año y estaré muy contenta saber el dibujo en buenas manos.
+
+#### Manta polar 'The charmed blanket / La manta conjurada'
+
+[![producto manta](/media/images/MantaDibujo2.jpg)](/shop/manta)
 
 - **Price / Precio**: 34,50€ 
 - **Size / Medidas**: 120x150cm
@@ -97,10 +100,8 @@ This is NOT a paid online store, we thank you for your patience with a slightly 
 
 Esto NO es una tienda online de pago, te agradecemos tu paciencia con un trato más lento pero personalizado y siempre amable.
 
-**Paypal / Payoneer account**: schultzen101@yahoo.de
-
-**Bank transfer**: Caixa d'enginyers
-ES48 3025 0001 1614 3358 4166
+- **Paypal / Payoneer account**: schultzen101@yahoo.de
+- **Bank transfer**: Caixa d'enginyers / ES48 3025 0001 1614 3358 4166
 
 <p style="text-align:center">
 <a href=" mailto:contact@christinaschultz.com?subject=I%20would%20like%20to%20purchase%20a%20charmed%20blanket%20%2F%20Quiero%20comprar%20una%20manta%20conjurada&body=Hi%20Christina!%0D%0A%0D%0AI%20would%20like%20to%20purchase%20a%20charmed%20blanket.%0D%0A%0D%0AThis%20is%20my%20shipping%20address%3A%0D%0AJoana%20Doua%0D%0AEverybodystreet%2011%0D%0A80008%20Everbody%20town%0D%0A%0D%0AAs%20soon%20as%20I%20know%20the%20exact%20price%2C%20I%20will%20transfer%20the%20money%20via%20bank%0D%0Atransfer%20%2Fpaypal%20%2F%20payoneer%0D%0A%0D%0A%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0D%0A%0D%0A%C2%A1Hola%20Christina!%0D%0A%0D%0AQuiero%20comprar%20una%20manta%20conjurada.%0D%0A%0D%0AEsta%20es%20mi%20direcci%C3%B3n%20de%20env%C3%ADo%3A%0D%0AJoana%20Doua%0D%0Acalle%2F%20de%20todas%2011%0D%0A80008%20Pueblo%20de%20todas%0D%0A%0D%0ATan%20pronto%20como%20sepa%20el%20precio%20exacto%2C%20transferir%C3%A9%20el%20dinero%20mediante%0D%0Atransferencia%20bancaria%20%2F%20paypal%20%2F%20payoneer%0D%0A" class="btn">Buy / Comprar</a>

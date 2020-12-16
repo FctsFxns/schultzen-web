@@ -202,7 +202,7 @@ module.exports = function(grunt) {
   grunt.registerTask('deployold', ['sftp:deploy']);
 
   // grunt ftp_push:deploy
-  grunt.registerTask('deploy', ['ftp_push:deploy']);
+  grunt.registerTask('deploy', ['build', 'ftp_push:deploy']);
 
 
 };
