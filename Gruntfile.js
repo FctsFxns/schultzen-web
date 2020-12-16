@@ -2,6 +2,44 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     secret: grunt.file.readJSON('secret.json'),
+    ftp_push: {
+      deploy: {
+        options: {
+          host: "<%= secret.host %>",
+          username: "<%= secret.username %>",
+          password: "<%= secret.password %>",
+          dest: "/web/",
+          port: 21,
+          incrementalUpdates: true,
+          keepAlive: 120000
+        },
+        files: [
+          {
+            expand: true,
+            cwd: '_site/',
+            src: [
+              "**/*"
+            ]
+          }
+        ]
+      }
+    },
+    sftp: {
+      deploy: {
+        files: {
+          "./": "_site/**"
+        },
+        options: {
+          srcBasePath: '_site/',
+          createDirectories: true,
+          host: "<%= secret.host %>",
+          username: "<%= secret.username %>", 
+          password: "<%= secret.password %>",
+          path: "/web",
+          showProgress: false
+        }
+      }
+    },
     less: {
       development: {
         options: {
