@@ -18,6 +18,7 @@ Todos los productos de esta tienda son impresiones de obras originales hechas po
 ### The charmed blanket / La manta conjurada
 
 [![producto manta](/media/images/MantaDibujo.jpg)](/shop/manta)
+[![producto manta](/media/images/MantaDibujo2.jpg)](/shop/manta)
 
 Here you find our special campaign for the winter solstice of 2020.
 A fleece blanket printed with a black and white drawing from the project “Charms and potions, female cures by metzineres”.
