@@ -192,7 +192,7 @@ nav.navbar {
 }
 
 body {
-	padding-top: 136px !important;
+	// padding-top: 136px !important;
 	// Since the navigation is a <nav> element
 	// the first div comes at hand
 	& > div {
@@ -214,6 +214,7 @@ body.page-home {
 			transition: margin-top 0.6s cubic-bezier(0.7, 0.01, 0.3, 1);
 
 			margin-top: -85px;
+			margin-top: 0;
 			&.show {
 			  margin-top: 0;
 			} 
@@ -244,8 +245,6 @@ body.page-home {
 
 @media (max-width: @screen-md) {
 	body {
-		padding-top: 140px !important;
-
 		& > div {
 			margin-top: 3em;
 		}	
@@ -276,7 +275,7 @@ body.page-home {
 
 @media (max-width: @screen-xs) {
 	body {
-		padding-top: 86px !important;
+		// padding-top: 86px !important;
 
 		& > div {
 			margin-top: 2.5em;

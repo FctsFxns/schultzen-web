@@ -108,4 +108,6 @@ Esto NO es una tienda online de pago, te agradecemos tu paciencia con un trato m
 **Bank transfer**: Caixa d'enginyers
 ES48 3025 0001 1614 3358 4166
 
-<a href="mailto:" class="btn">Comprar</a>
+<a href="mailto:contact@christinaschultz.com?subject=I%20would%20like%20to%20purchase%20a%20Charmed%20Blanket%20%2F%20Quiero%20comprar%20una%20Manta%20Conjurada&body=Hi%20Christina!I%20would%20like%20to%20purchase%20a%20Charmed%20Blanket.This%20is%20my%20shipping%20address%3AYour%20NameYour%20Shipping%20Address%20hereTown%20-%20CountryAs%20soon%20as%20I%20know%20the%20exact%20price%2C%20I%20will%20transfer%20the%20money%20via%20banktransfer%20%2Fpaypal%20%2F%20payoneer%C2%A1Hola%20Christina!Quiero%20comprar%20una%20Manta%20Conjurada.Esta%20es%20mi%20direcci%C3%B3n%20de%20env%C3%ADo%3ATu%20Nombre%20completoTu%20direcci%C3%B3n%20de%20entregaC%C3%B3digo%20postal%20-%20Pa%C3%ADsTan%20pronto%20como%20sepa%20el%20precio%20exacto%2C%20transferir%C3%A9%20el%20dinero%20mediantetransferencia%20bancaria%20%2F%20paypal%20%2F%20payoneer" class="btn">Buy / Comprar</a>
+
+ 
