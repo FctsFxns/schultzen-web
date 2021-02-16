@@ -1,7 +1,7 @@
 ---
-title: Charms and Potions - female cures by metzineres
+title: Metzineres - women between remedies and poisons
 categories: Investigation Poetry Magic 2020
-intro: Charms and Potions or 'Conjuros y colocones' in spanish is a poetic investigation on female cures by women who use drugs.
+intro: This is a poetic investigation on female cures by women who use drugs.
 featured_image: /media/images/metzineres3.jpg
 
 
@@ -9,12 +9,12 @@ published: true
 home_show: true
 date:  2020-04-15 00:00:00 +0100
 ---
-'Charms and Potions, female cures by metzineres' is a project in collaboration with [Metzineres, shelter for women who use drugs and survive violences](http://metzineres.net/) a day care space for women who take drugs.
-This ongoing artistic project is recovering and inventing female knowledge on poetic cures through conspiring spells, charms, potions, rituals and magic objects to attract love, money, health and specific personal needs that hope to be fullfilled. During weekly workshops we create rimes and poems, herbal essences and conjured brooms, ritual masks and gestures to pronounce and achieve our desires. In a future not far away they will be published in different fanzine formats, drawings, rituals and private performances.
+'Metzineres - women between remedies and poisons' is a project in collaboration with [Metzineres, shelter for women who use drugs and survive violences](http://metzineres.net/) a day care space for women who take drugs.
+This artistic investigation is recovering and inventing female knowledge on poetic cures through conspiring spells, charms, potions, rituals and magic objects to attract love, money, health and specific personal needs that hope to be fullfilled. Through enchanted session during the pandemic year we created rimes and poems, herbal essences and conjured brooms, ritual masks and gestures to pronounce and achieve our desires. In a future not far away they will be published in a fanzine format covering some of the drawings, rituals and poetic writings we percieved.
 
 Soon we will inform you on further steps of the process.
 
-This project counts with the support of the research grant by the catalan government issued in 2020. (OSIC)
+This investigation counts with the support of the research grant by the catalan government issued in 2020. (OSIC)
 
 
 ![image](/media/images/metzineres4.jpg)
@@ -27,7 +27,7 @@ This project counts with the support of the research grant by the catalan govern
 
 ![image](/media/images/metzineres6.jpg)
 
-During the month of october the project was hosted during two weeks at the artist residency Can Serrat. During this time I did a full fasting with only liquids to investigate this spiritual technique to achieve more clarity. The result were a walk on Montserrat mountain to old witchy caves and tracks, a handwritten book with a selection of the charms and spells we created at 'Metzineres' and a semi-public performance the 31 of october 2020.
+During the month of october the proposal was hosted during two weeks at the artist residency Can Serrat. During this time I did a full fasting with only liquids to investigate this spiritual technique to achieve more clarity. The result were a walk on Montserrat mountain to old witchy caves and tracks, a handwritten book with a selection of the charms and spells we created at 'Metzineres' and a semi-public performance the 31 of october 2020.
 
 ![image](/media/images/metzineres7.jpg)
 

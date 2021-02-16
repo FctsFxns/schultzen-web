@@ -77,16 +77,16 @@ Los envíos se realizan desde Barcelona, España hacía todo el mundo.
 
 ##### Shipping costs
 
-- **National**: certified shipments in Spain have a cost of 5,55€ x per blanket.  
-- **International**: certified shipments in Europe have a cost of 10,70€ (including Groenland) per blanket.
-- **All other countries**: have a certified shipping cost of 14,35€ per blanket.
+- **National**: certified shipments in Spain have a cost of 5,95€ x per blanket.  
+- **International**: certified shipments in Europe have a cost of 11,10€ (including Groenland) per blanket.
+- **All other countries**: have a certified shipping cost of 14,95€ per blanket.
 - **Prices**: may be subjected to slight changes according to the official national postal rate.
 
 ##### Costes de envío
 
-- **Envíos nacionales**: certificados en España tienen un coste de 5,55€ x cada manta.
-- **Envíos internacionales**: certificados en Europa tienen un coste de 10,70€ x cada manta (incluido Groenlandia).
-- **Resto de los países**: tienen un coste de envío certificado de 14,35€ x cada manta.
+- **Envíos nacionales**: certificados en España tienen un coste de 5,95€ x cada manta.
+- **Envíos internacionales**: certificados en Europa tienen un coste de 11,10€ x cada manta (incluido Groenlandia).
+- **Resto de los países**: tienen un coste de envío certificado de 14,95€ x cada manta.
 - **Precios**: pueden estar sujetos a ligeros cambios según la tarifa oficial de correos de España.
 
 
