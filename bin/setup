@@ -7,13 +7,13 @@
 set -e
 
 # Set up Ruby dependencies via Bundler.
-gem install bundler --conservative 
+gem install bundler --conservative
 bundle check || bundle install
 
 # 26/sept/2018: removed support to bower.
 # On further theme development 'yarn' or vanilla download would be advised
-# We decide to add the 'bower' download directory to the repo, to solve 
-# straightforward the dependency to this 
+# We decide to add the 'bower' download directory to the repo, to solve
+# straightforward the dependency to this
 # Set up JS dependencies via Bower.
 # bower --version > /dev/null || npm install -g bower
 # bower install
@@ -21,6 +21,9 @@ bundle check || bundle install
 # Set variable
 export JEKYLL_ENV=development
 
-# Not necessary to build the Less files since they're in the repo already
-# npm install -g
+# Not necessary to build the Less files since they're in the repo already?
+npm install -g
 # npm install -g --silent
+
+# Build the site
+grunt build
