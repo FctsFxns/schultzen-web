@@ -1,8 +1,8 @@
 ---
-title:          Perder el tiempo o como levitar
+title: Wasting time or how to levitate
 categories: Performatic Drawing 
 intro: Drawings, a mural and a performative reflection on the concept of wasting time and levitation as an answer.
-featured_image: /media/images/Levitardibujo3.jpg
+featured_image: /media/images/Levitardibujo3b.jpg
 featured_video: 
 
 home_show: true
