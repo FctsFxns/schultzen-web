@@ -22,8 +22,9 @@ bundle check || bundle install
 export JEKYLL_ENV=development
 
 # Not necessary to build the Less files since they're in the repo already?
-npm install -g
+npm install -g grunt-cli
+npm install
 # npm install -g --silent
 
 # Build the site
-grunt build
+# grunt build
