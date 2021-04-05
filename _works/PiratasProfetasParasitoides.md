@@ -12,7 +12,7 @@ date:  2018-10-26 00:00:00 +0100
 This workshop/laboratory, in colaboration with Daniel Canet, software engineer, was held during three practice and theory based sessions at [Hangar](https://hangar.org/es/publicacions/ppp/) and presented it's experiments during the fourth date in form of a performative internet flea market, inspired by the concept of [Yami-Ichi](http://yami-ichi.biz/) at Sala Ricson, Hangar. We were also proud to hace Violeta Mayoral as a special guest to talk about her [no-face project](https://www.instagram.com/thenoface_project/).
 
 As a result of the three sessions the participating group presented their digital life hacks brought to physical existence, prints, performances and games, mixed with 'pongos', a spanish word for useless objects you don't dare to throw away. Everything was on sale.
-During the event, a huge ham was to be conquered by posting a picture with it on Instagram. 
+During the event, a huge ham was to be conquered by posting a picture with it on Instagram.
 The result was a fanzine of 40 pages reflecting the experiments and thoughts inspired by the workshop. You can consult it online on [Hangar's site for publications](https://hangar.org/es/category/publicacions/)
 
 
