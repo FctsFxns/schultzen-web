@@ -1,0 +1,22 @@
+#!/usr/bin/env sh
+PATH="/usr/local/bin:$PATH"
+DIRECTORY=$(cd `dirname $0` && pwd)
+cd $DIRECTORY
+cd ..
+
+# Exit if any subcommand fails
+set -e
+
+# Set up Ruby dependencies via Bundler.
+# gem install bundler --conservative
+# bundle check || bundle install
+
+# Set variable
+export JEKYLL_ENV=development
+
+# Not necessary to build the Less files since they're in the repo already?
+# npm install -g grunt-cli
+# npm install
+
+# Build the site
+grunt

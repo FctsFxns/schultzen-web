@@ -1,0 +1,29 @@
+#!/usr/bin/env sh
+PATH="/usr/local/bin:$PATH"
+
+DIRECTORY=$(cd `dirname $0` && pwd)
+cd $DIRECTORY
+cd ..
+
+# Set up the Jekyll site.
+# Run this script immediately after cloning the codebase.
+
+# Exit if any subcommand fails
+set -e
+
+# Set up Ruby dependencies via Bundler.
+# gem install bundler --conservative
+# bundle check || bundle install
+
+# Not necessary to build the Less files since they're in the repo already?
+# npm install -g grunt-cli
+# npm install
+
+# Set variable
+export JEKYLL_ENV=production
+
+# Build the site
+grunt build
+
+# Deploy the site
+grunt deploy
