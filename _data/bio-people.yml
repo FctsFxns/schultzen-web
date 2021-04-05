@@ -8,6 +8,12 @@
 # - name:   'Daniel Canet'
 #   url:     'http://www.danielca.net'
 
+- name:   'José Carlos Bouso'
+  url:    'https://www.iceers.org/our-people/'
+
+- name:   'Aura Roig'
+  url:    'http://metzineres.net/'
+
 - name:   'Nicolás Vatiu Koralsky'
 
 - name:   'Pau Cata'
@@ -19,7 +25,7 @@
 - name:   'Mireia Sallarés'
   url:    'http://www.mireiasallares.com/'
 
-- name:   'Amanda Masha Caminals'  
+- name:   'Amanda Masha Caminals'
 
 - name:   'Pol Capdevila'
 

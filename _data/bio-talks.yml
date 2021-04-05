@@ -11,6 +11,20 @@
 #   date:     'oct-nov 2015'
 #   year:     2015
 #   url:      'http://www.google.es'
+- title:    'Magic Masks'
+  type:     'Fotocall'
+  venue:    'Metzineres'
+  place:    'Barcelona'
+  date:     'jan 2021'
+  year:     2021
+
+- title:    'The vioces of my neighbours'
+  type:     'singing performance'
+  venue:    'Festival Errant'
+  place:    'Vilaller'
+  date:     'sept 2020'
+  year:     2020
+
 - title:    'Resonancias'
   type:     'closure presentation of research residency'
   venue:    'MACBA'

@@ -11,6 +11,19 @@
 #   date:     '2015', necessary
 #   year:     2015, required
 #   url:      'http://www.google.es'
+- title:    Write now, drama writing for people related to drugs
+  teacher:  'Stuart and Hannah'
+  venue:    'Outside Edge Theater'
+  place:    'London, GB'
+  date:     'feb 2021-'
+  year:     2021
+
+- title:    Movement class
+  teacher:  'Julie Mayo'
+  venue:    'Movement research institute'
+  place:    'New York, USA'
+  date:     'march-april 2020'
+  year:     2020
 
 - title:    Historia i cultura italianes de l'edat mitjana
   teacher:  'Delfi Nieto, Salvatore Marino, Ida Mauro'

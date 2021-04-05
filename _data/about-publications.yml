@@ -12,6 +12,15 @@
 #   year:    2016, required
 #   url:     http://…
 
+- title:   'El peso de mis vecinas'
+  author:  Christina Schultz
+  medium:  40 pages book
+  country: Spain
+  date:    sept 2018
+  year:    2018
+  LD:      B- 11291-2018
+  ISBN:    '978-84-9156-116-3'
+
 - title:   'Paratext Vol.1'
   author:  Hangar, Fundació Banc Sabadell
   medium:  Catalog
@@ -19,7 +28,7 @@
   date:    dec 2016
   year:    2016
   LD:      B- 23697-2016
-  ISBN:     '978-84-617-6320-7'
+  ISBN:    '978-84-617-6320-7'
 
 - title:   'Footnote #1: A Close Reading of Robinson Crusoe'
   author:  Renan Laru-an

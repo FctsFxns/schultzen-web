@@ -12,6 +12,15 @@
 #   year:    2016, required
 #   url:     http://…, optional
 
+- title:   'Nacidos para trabajar'
+  author:  Gemma Tramullas
+  medium:  El periodico
+  country: 'Spain'
+  date:    'dec 2020'
+  year:    2020
+  url:     'https://www.elperiodico.com/es/cuaderno/20201213/trabajo-siglo-xxi-40-de-europeos-no-tienen-horario-contrato-fijo-11381293'
+
+
 - title:   'Art seen in BCN`19'
   author:  'Eva Michalcakova'
   medium:  'Art-locals'
@@ -22,7 +31,7 @@
 
 - title:   'Christina Schultz: "Es importante hacer cosas que parecen imposibles"'
   author:  Gemma Tramullas
-  medium:  La Vanguardia
+  medium:  El periodico
   country: Barcelona, ES
   date:    march 2019
   year:    2019

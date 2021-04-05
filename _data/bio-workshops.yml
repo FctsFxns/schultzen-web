@@ -11,6 +11,21 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
+- title:    "Borrar es dibujar"
+  type:     'stop motion workshop'
+  venue:    'Sant Lluc, cercle artistic'
+  place:    'Barcelona, ES'
+  date:     'april 2021'
+  year:     2021
+  url:      'https://www.santlluc.cat/nou-workshop-esborrar-es-dibuixar/'
+
+- title:    "Othering and representation by Pau Cata"
+  type:     'seminar'
+  venue:    'Metàfora, art school'
+  place:    'Barcelona, ES'
+  date:     'nov 2020'
+  year:     2020
+
 - title:    "Perder el tiempo o como levitar"
   type:     'Laboratory of doing nothing'
   venue:    'Can Felipa'
@@ -63,7 +78,7 @@
   place:    'Barcelona, ES'
   date:     'may-jun 2017'
   year:     2017
-  
+
 
 - title:    'Biat Beit Bait - the burden of the border'
   type:     'Workshop at Escuela de Calor de Esther Planas'
