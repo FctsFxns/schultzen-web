@@ -18,14 +18,13 @@ Todos los productos de esta tienda son impresiones de obras originales hechas po
 
 #### The charmed blanket / La manta conjurada
 
-[![producto manta](/media/images/MantaDibujo.jpg)](/page-shop-manta)
+![image](/media/images/MantaDibujo.jpg)
 
 
 
 #### The double-sided posters / Los pósters de doble cara
 
-[![producto poster](/media/images/posterconjuros.jpg)](/page-shop-poster-conjuros)
-
+![image](/media/images/posterconjuros.jpg)
 
 
 
