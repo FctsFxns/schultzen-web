@@ -1,36 +1,36 @@
 ---
-title: Manta conjurada
-intro: Manta polar con un dibujo en impressión digital
-permalink: /shop/manta
-layout: page
-layout_class: page-shop-product
-published: false
-sitemap: 0
+title: The double-sided posters
+intro: Lorem ipsum
+permalink: /shop-posters/
+layout: page-shop
+layout_class: page-shop
+published: true
+sitemap: 1
 
 ---
 
-[![producto poster](/media/images/PosterBack.jpg)](/shop)
+[![producto posters](/media/productos/PosterBack.jpg)](/shop-posters)
 
 Three posters printed both sides with spells and magical poetries written by the women of ["Metzineres, shelter for women who use drugs and survive violences"][metzineres] and three drawings made by the artist.
 
 Tres pósteres impresas de dos caras con conjuros y poesías mágicas escritas por las mujeres ["Metzineres, cobijo para mujeres que consumen drogas y sobreviven violencias"] [metzineres]y tres dibujos de la artista.
 
-#### Pósteres: 'Amor y Bienestar' 'Salud y Prosperidad' 'Dinero y Felizidad' 
+#### Pósteres: 'Amor y Bienestar' 'Salud y Prosperidad' 'Dinero y Felicidad'
 
-[![producto manta](/media/images/PosterFront.jpg)](/shop)
+[![producto posters](/media/productos/PosterFront.jpg)](/shop-posters)
 
-- **Price / Precio**: 3 posters - 15€ 
+- **Price / Precio**: 3 posters - 15€
 - **Size / Medidas**: 3 x DIN 3 29,7 x 42 cm printed both sides/impressión de dos caras
 - **Color**: black and red on eggwhite/ negro y rojo sobre blanco roto
 - **Material**: Paper Mun
 - **Weight / Peso**: 3 x 150gr.
 - **Shipping / Transporte**: Check transportation costs / consulta costes de transporte.
--
+
 #### A donation to _Metzineres_ / Una donación para _Metzineres_
 
 The cost of the three posters is 15€ + shipping costs. (please check packaging and transport)
 
-The benefits of this product are entirely shared with the social proyect ["Metzineres, shelter for women who use drugs and survive violences"][metzineres]. You can find more information about our colaboration on the website.
+The benefits of this product are entirely shared with the social project ["Metzineres, shelter for women who use drugs and survive violences"][metzineres]. You can find more information about our collaboration on the website.
 
 El coste de los tres pósteres es 15€ + costes de envío. (por favor consulta embalaje y transporte)
 
@@ -57,7 +57,7 @@ los beneficios de este producto se comparten equitativamente con el proyecto soc
 
 **Please** leave the number of orders you wish to make, your complete name and address to asure your final payment price. You can iniciate your purchase by pressing the button below.
 
-**We accept** different  payment methods: In hand, Bizum, Paypal, Payoneer and bank transfer. 
+**We accept** different  payment methods: In hand, Bizum, Paypal, Payoneer and bank transfer.
 
 This is NOT a paid online store, we thank you for your patience with a slightly slower but personalized and always friendly service.
 

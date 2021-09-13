@@ -1,15 +1,15 @@
 ---
 title: Manta conjurada
 intro: Manta polar con un dibujo en impressión digital
-permalink: /shop/manta
-layout: page
-layout_class: page-shop-product
-published: false
-sitemap: 0
+permalink: /shop-manta/
+layout: page-shop
+layout_class: page-shop
+published: true
+sitemap: 1
 
 ---
 
-[![producto manta](/media/images/MantaDibujo.jpg)](/shop)
+[![producto manta](/media/productos/MantaDibujo.jpg)](/shop-manta)
 
 A white fleese blanket with a large size, b/w printed drawing produced as part of the artistic project " Metzineres - women between poisons and remedies". This blanket will embrace you all you couldn't be during 2020 and the drawing will be in good hands with you.
 
@@ -18,7 +18,7 @@ Esta manta te hará los abrazos que no te pudiste recibir durante el 2020 y cont
 
 #### Manta polar 'The charmed blanket / La manta conjurada'
 
-[![producto manta](/media/images/MantaDibujo2.jpg)](/shop)
+[![producto manta](/media/productos/MantaDibujo2.jpg)](/shop-manta)
 
 - **Price / Precio**: 34,50€
 - **Size / Medidas**: 120x150cm
@@ -26,7 +26,7 @@ Esta manta te hará los abrazos que no te pudiste recibir durante el 2020 y cont
 - **Material**: Poliéster polar 100%
 - **Weight / Peso**: 200gr.
 - **Shipping / Transporte**: Check transportation costs / consulta costes de transporte.
--
+
 #### A donation to _Metzineres_ / Una donación para _Metzineres_
 
 The cost of this special blanket is 34,50€ + shipping costs. (please check packaging and transport)
@@ -53,12 +53,11 @@ Con la compra de este producto estás haciendo una donación de 1 euro por manta
 - **Resto de los países**: tienen un coste de envío certificado de 14,95€ x cada manta.
 - **Precios**: pueden estar sujetos a ligeros cambios según la tarifa oficial de correos de España.
 
-
 #### Payment methods / Métodos de pago
 
 **Please** leave the number of orders you wish to make, your complete name and address to asure your final payment price. You can iniciate your purchase by pressing the button below.
 
-**We accept** different  payment methods: In hand, Bizum, Paypal, Payoneer and bank transfer. 
+**We accept** different  payment methods: In hand, Bizum, Paypal, Payoneer and bank transfer.
 
 This is NOT a paid online store, we thank you for your patience with a slightly slower but personalized and always friendly service.
 

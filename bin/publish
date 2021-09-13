@@ -23,7 +23,7 @@ set -e
 export JEKYLL_ENV=production
 
 # Build the site
-grunt build
+# grunt build
 
 # Deploy the site
 grunt deploy
