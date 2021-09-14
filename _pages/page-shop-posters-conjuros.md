@@ -1,6 +1,6 @@
 ---
 title: Posters
-intro: Three poster with spells for love, health and prosperity.
+intro: Three poster with spells for love, health and prosperity
 permalink: /shop-posters/
 layout: page-shop
 layout_class: page-shop
@@ -9,15 +9,15 @@ sitemap: 1
 
 ---
 
-[![producto posters](/media/productos/PosterBack.jpg)](/shop-posters)
+[![producto posters](/media/images/PosterBack.jpg)](/shop-posters)
 
-Three posters printed both sides with spells and magical poetries written by the women of ["Metzineres, shelter for women who use drugs and survive violences"][metzineres] and three drawings made by the artist.
+Three posters, printed both sides, with spells and magical poetries written by the women of ["Metzineres, shelter for women who use drugs and survive violences"][metzineres] and three drawings made by the artist.
 
-Tres pósteres impresas de dos caras con conjuros y poesías mágicas escritas por las mujeres ["Metzineres, cobijo para mujeres que consumen drogas y sobreviven violencias"] [metzineres]y tres dibujos de la artista.
+Tres pósteres, impresas de dos caras, con conjuros y poesías mágicas escritas por las mujeres ["Metzineres, cobijo para mujeres que consumen drogas y sobreviven violencias"] [metzineres]y tres dibujos de la artista.
 
 #### Pósteres: 'Amor y Bienestar' 'Salud y Prosperidad' 'Dinero y Felicidad'
 
-[![producto posters](/media/productos/PosterFront.jpg)](/shop-posters)
+[![producto posters](/media/images/PosterFront.jpg)](/shop-posters)
 
 - **Price / Precio**: 3 posters - 15€
 - **Size / Medidas**: 3 x DIN 3 29,7 x 42 cm printed both sides/impressión de dos caras

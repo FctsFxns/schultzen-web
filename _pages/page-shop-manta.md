@@ -1,6 +1,6 @@
 ---
 title: Manta conjurada
-intro: Manta polar con un dibujo en impressión digital
+intro: Fleese blanket with black on white print + personalized spell
 permalink: /shop-manta/
 layout: page-shop
 layout_class: page-shop
@@ -9,18 +9,18 @@ sitemap: 1
 
 ---
 
-[![producto manta](/media/productos/MantaDibujo.jpg)](/shop-manta)
+[![producto manta](/media/images/MantaDibujo.jpg)](/shop-manta)
 
-A white fleese blanket with a large size, b/w printed drawing produced as part of the artistic project " Metzineres - women between poisons and remedies". This blanket will embrace you all you couldn't be during 2020 and the drawing will be in good hands with you.
+A white fleese blanket with a large size, b/w printed drawing produced as part of the artistic project " Metzineres - women between poisons and remedies". This blanket will embrace you all you couldn't be during 2020 and the drawing will be in good hands with you. Every blanket goes with a personalized spell.
 
 Una manta polar impresa con un dibujo en blanco y negro del proyecto “Metzineres - mujeres entre remedios y venenos”.
-Esta manta te hará los abrazos que no te pudiste recibir durante el 2020 y contigo el dibujo estará en buenas manos.
+Esta manta te hará los abrazos que no te pudiste recibir durante el 2020 y contigo el dibujo estará en buenas manos. Cada manta se envia con un conjuro personalizado.
 
 #### Manta polar 'The charmed blanket / La manta conjurada'
 
-[![producto manta](/media/productos/MantaDibujo2.jpg)](/shop-manta)
+[![producto manta](/media/images/MantaDibujo2.jpg)](/shop-manta)
 
-- **Price / Precio**: 34,50€
+- **Price / Precio**: 44,50€
 - **Size / Medidas**: 120x150cm
 - **Color**: black on white / negro sobre blanco
 - **Material**: Poliéster polar 100%
@@ -29,11 +29,11 @@ Esta manta te hará los abrazos que no te pudiste recibir durante el 2020 y cont
 
 #### A donation to _Metzineres_ / Una donación para _Metzineres_
 
-The cost of this special blanket is 34,50€ + shipping costs. (please check packaging and transport)
+The cost of this special blanket is 44,50€ + shipping costs. (please check packaging and transport)
 
 By purchasing this product you are donating 1 euro per blanket to the social proyect ["Metzineres, shelter for women who use drugs and survive violences"][metzineres]. You can find more information about our colaboration on the website.
 
-El coste de esta manta especial es 34,50€ + costes de envío. (por favor consulta embalaje y transporte)
+El coste de esta manta especial es 44,50€ + costes de envío. (por favor consulta embalaje y transporte)
 
 Con la compra de este producto estás haciendo una donación de 1 euro por manta al proyecto social ["Metzineres, cobijo para mujeres que consumen drogas y sobreviven violencias"][metzineres]. Puedes conocer mejor nuestra colaboración en la pagina web.
 

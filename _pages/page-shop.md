@@ -1,7 +1,7 @@
 ---
 
 title: Shop / Tienda
-intro: Works meant to be owned by many.
+intro: Works meant to be owned by many
 permalink: /shop/
 layout: page-shop
 layout_class: page-shop
@@ -18,8 +18,8 @@ Todos los productos de esta tienda son **impresiones** de obras originales hecha
 
 #### The charmed blanket / La manta conjurada
 
-[![The charmed blanked](/media/productos/MantaDibujo.jpg)](/shop-manta)
+[![The charmed blanked](/media/images/MantaDibujo.jpg)](/shop-manta)
 
 #### The double-sided posters / Los pósters de doble cara
 
-[![The double-sided poster](/media/productos/posterconjuros.jpg)](/shop-posters)
+[![The double-sided poster](/media/images/posterconjuros.jpg)](/shop-posters)
