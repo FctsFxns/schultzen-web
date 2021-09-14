@@ -1,7 +1,7 @@
 ---
 
 title: Shop / Tienda
-intro: Welcome to the Schultzen-Shop!
+intro: Works meant to be owned by many.
 permalink: /shop/
 layout: page-shop
 layout_class: page-shop
@@ -11,10 +11,10 @@ sitemap: 1
 ---
 
 Welcome to Christina Schultz's store of exclusive products at special prices.
-All the products in this shop are prints of original works made by the artist and are linked to her art projects. By purchasing you are also donating to other collaborators.
+All the products in this shop are **prints** of original works made by the artist and are linked to her art projects. By purchasing you are also donating to other collaborators.
 
 Bienvenidas a la tienda de piezas exclusivas a precios especiales de Christina Schultz.
-Todos los productos de esta tienda son impresiones de obras originales hechas por la artista y están vinculados con sus proyectos artísticos. Con la compra estás haciendo también una donación a otros colaboradores.
+Todos los productos de esta tienda son **impresiones** de obras originales hechas por la artista y están vinculados con sus proyectos artísticos. Con la compra estás haciendo también una donación a otros colaboradores.
 
 #### The charmed blanket / La manta conjurada
 

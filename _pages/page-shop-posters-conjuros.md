@@ -1,6 +1,6 @@
 ---
-title: The double-sided posters
-intro: Lorem ipsum
+title: Posters
+intro: Three poster with spells for love, health and prosperity.
 permalink: /shop-posters/
 layout: page-shop
 layout_class: page-shop
