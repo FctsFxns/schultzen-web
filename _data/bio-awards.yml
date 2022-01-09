@@ -9,8 +9,14 @@
 #   year:         2015
 #   url:          https://hangar.org/en/residents/artistes-residents/
 - title:        Artistic Research Grant
+  organization: Centre d'Arts Santa Mònica
+  place:        Barcelona
+  date:         july 2021 - july 2022
+  year:         2021
+
+- title:        Artistic Research Grant
   organization: Generalitat de Catalunya
-  place:        exposicion
+  place:        Barcelona
   date:         2020
   year:         2020
 
@@ -28,7 +34,7 @@
 
 - title:        Artistic Research Grant
   organization: Generalitat de Catalunya
-  place:        exposicion
+  place:        Barcelona
   date:         2018
   year:         2018
 
