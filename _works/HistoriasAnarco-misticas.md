@@ -25,9 +25,11 @@ Upcoming dates to see an open rehearsal are;
 
 Please write en email to contact@christinaschultz.com for reservation and further information
 
+Front picture by Kati Riquelme
+
 ![image](/media/images/HistoriasAnarco.jpg)
 
-Images from the first open rehearsal at the MACBA (museum for contemporary art of Barcelona)
+Images from the first open rehearsal at the MACBA (museum for contemporary art of Barcelona) all pictures by Anke Luckmann
 
 ![image](/media/images/HistoriasAnarco2.jpg)
 
