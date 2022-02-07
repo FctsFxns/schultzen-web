@@ -26,3 +26,25 @@ Upcoming dates to see an open rehearsal are;
 Please write en email to contact@christinaschultz.com for reservation and further information
 
 ![image](/media/images/HistoriasAnarco.jpg)
+
+Images from the first open rehearsal at the MACBA (museum for contemporary art of Barcelona)
+
+![image](/media/images/HistoriasAnarco2.jpg)
+
+![image](/media/images/HistoriasAnarco3.jpg)
+
+![image](/media/images/HistoriasAnarco4.jpg)
+
+![image](/media/images/HistoriasAnarco5.jpg)
+
+![image](/media/images/HistoriasAnarco6.jpg)
+
+![image](/media/images/HistoriasAnarco7.jpg)
+
+![image](/media/images/HistoriasAnarco8.jpg)
+
+![image](/media/images/HistoriasAnarco9.jpg)
+
+![image](/media/images/HistoriasAnarco10.jpg)
+
+![image](/media/images/HistoriasAnarco11.jpg)

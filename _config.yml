@@ -61,7 +61,7 @@ paginate_path:   /page:num
 #paginate:        3
 timezone:        'ES'
 future:          true
-incremental:     false
+incremental:     true
 
 
 # Collections
