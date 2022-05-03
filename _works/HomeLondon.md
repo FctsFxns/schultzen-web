@@ -9,7 +9,7 @@ home_show: true
 
 published: true
 
-date:  2022-12-12 00:00:00 +0100
+date:  2019-01-01 00:00:00 +0100
 ---
 
 The London theatre scene is THE best at the time and I want to be in it. That’s why I decided to pack my three bags and stay, study and write in the epicentre of drama writing for a period of approx. three to six months, starting at the beginning of October.
@@ -23,9 +23,9 @@ Have you ever thought about bringing out your creative and relational traits wor
 Maybe you are more in need of intellectual stimulation? Reading and discussing books (or let them read to you), philosophy classes or art history? 
 As well as in my art practice as in my extended experience in tutoring advanced German conversation I trained myself to be a great listening and interlocutory partner.
 
-Or could you actually use somewhat more practical support? Such as in archiving family memories or libraries, companionship for your pets, attention for an elderly person or broadening your knowledge of one of the following languages: German, Spanish or Catalan.
+Or could you actually use somewhat more practical support? Such as in archiving family memories or libraries, a video documentation of your work or a content update of your website. I also love caregiving activities such as companionship for your pets, attention for an elderly person or broadening your comunication knowledge of one of the following languages: German, Spanish or Catalan.
 
-I do not only have extensive but also documented experience on all of these skills, acquired through years of tutoring practice and a midlife career in contemporary Arts in Barcelona. 
+I do not only have extensive but also documented experience on all of these skills, acquired through years of my own art practice within a midlife career in contemporary Arts in Barcelona and over 700 hours of tutoring. 
 
 Do these skills resonate with you or have maybe raised the desire to perceive a new goal and now is just the right moment?
 I am sure together we can find out what would fit best for your life situation.
