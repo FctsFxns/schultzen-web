@@ -9,7 +9,7 @@ home_show: true
 
 published: true
 
-date:  2019-01-01 00:00:00 +0100
+date:  2019-05-05 00:00:00 +0100
 ---
 
 The London theatre scene is THE best at the time and I want to be in it. That’s why I decided to pack my three bags and stay, study and write in the epicentre of drama writing for a period of approx. three to six months, starting at the beginning of October.
