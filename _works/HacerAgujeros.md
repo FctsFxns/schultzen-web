@@ -7,7 +7,7 @@ featured_image: /media/images/hacerAgujeros1.jpg
 
 published: true
 home_show: true
-date:  2021-11-11 00:00:00 +0100
+date:  2022-07-11 00:00:00 +0100
 ---
 
 ![image](/media/images/hacerAgujeros2.jpg)
