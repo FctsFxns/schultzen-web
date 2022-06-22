@@ -1,7 +1,7 @@
 ---
-title: Metzineres - women between remedies and poisons
+title: Conjuros y Colocones
 categories: Investigation Poetry Magic 2020
-intro: This is a poetic investigation on female cures by women who use drugs.
+intro: A mistic and poetic investigation on spells and potions as female cures by women who use drugs.
 featured_image: /media/images/metzineres3.jpg
 
 
@@ -9,12 +9,12 @@ published: true
 home_show: true
 date:  2020-04-15 00:00:00 +0100
 ---
-'Metzineres - women between remedies and poisons' is a project in collaboration with [Metzineres, shelter for women who use drugs and survive violences](http://metzineres.net/) a day care space for women who take drugs.
+'Conjuros y Colocones' or 'Spells and Potions' in English is a project in collaboration with [Metzineres, shelter for women who use drugs and survive violences](http://metzineres.net/) a day care space for women who take drugs.
 This artistic investigation is recovering and inventing female knowledge on poetic cures through conspiring spells, charms, potions, rituals and magic objects to attract love, money, health and specific personal needs that hope to be fullfilled. Through enchanted session during the pandemic year we created rimes and poems, herbal essences and conjured brooms, ritual masks and gestures to pronounce and achieve our desires. In a future not far away they will be published in a fanzine format covering some of the drawings, rituals and poetic writings we percieved.
 
 Soon we will inform you on further steps of the process.
 
-This investigation counts with the support of the research grant by the catalan government issued in 2020. (OSIC)
+This investigation counts with the support of the research grant by the catalan government issued in 2020 (OSIC), the MACBA, museum of contemporary art in Barcelona and the artist residencies of Can Serrat and Escoles Velles at Palautordera as well as private financing.
 
 
 ![image](/media/images/metzineres4.jpg)
