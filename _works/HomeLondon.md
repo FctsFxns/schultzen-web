@@ -1,7 +1,7 @@
 ---
 title: How to become a playwright
 categories: Home in London 2022 
-intro: Looking for a temporary home in London from October 2022 onwards. 
+intro: Dear universe, thank you for providing a low cost living space in London for me and my writing activity for four months in 2023. 
 
 featured_image: /media/images/HomeLondon.jpg
 
@@ -12,9 +12,10 @@ published: true
 date:  2019-05-05 00:00:00 +0100
 ---
 
-The London theatre scene is THE best at the time and I want to be in it. That's why I decided to pack my three bags and stay, study and write in the epicentre of drama writing for a period of approx. three to six months, starting at the beginning of October.
 
-Hello! I am looking for a quiet, peaceful and warm home.
+The London theatre scene is THE best at the time and I want to be in it. That's why I decided to pack my three bags and stay, study and write in the epicentre of drama writing for a period of approx. three to six months, starting anytime from 2023.
+
+Are you the hand of the universe? 
 
 My financial income is tailored to my dedication to the fine arts and Barcelona living costs and not yet at the height of London standards.
 Yet, I have a lot of talents to offer in exchange for a decent place to live, write and keep up offering my online, matinal German classes.
