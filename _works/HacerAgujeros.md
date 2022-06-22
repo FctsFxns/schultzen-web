@@ -1,7 +1,7 @@
 ---
 title: Hacer Agujeros
 categories: Investigation Poetry Philosohy 2021
-intro: Una investigación colaborativa sobre un "espacio otro", las Ramblas y su gentrificación peligrosa a través de la escritura. 
+intro: A colaborative research project about Barcelona's most famous yet gentrified alley through transversal writing.
 featured_image: /media/images/hacerAgujeros1.jpg
 
 
