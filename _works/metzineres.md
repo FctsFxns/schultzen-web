@@ -1,7 +1,7 @@
 ---
 title: Conjuros y Colocones
 categories: Investigation Poetry Magic 2020
-intro: A mistic and poetic investigation on spells and potions as female cures by women who use drugs.
+intro: A mistic and poetic investigation on spells and potions as female cures by women who use drugs, the Metzineres.
 featured_image: /media/images/metzineres3.jpg
 
 
