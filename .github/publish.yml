@@ -56,7 +56,7 @@ jobs:
 #        uses: socram8888/ftp-hash-sync@v1
 #        if: ${{ github.event_name != 'schedule' }}
 #        with:
-#            host: ${{ secrets.FTP_SERVER }}
+#            host: "christinaschultz.com"
 #            username: ${{ secrets.FTP_USERNAME }}
 #            source: "_dist"
 #            password: ${{ secrets.FTP_PASSWORD }}
