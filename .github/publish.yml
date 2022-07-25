@@ -1,0 +1,63 @@
+# cicd.yml
+# This workflow builds the website using Jekyll 4.2.1
+# and publishes to the web hosting using FTP.
+
+name: Build and publish website (FTP)
+
+# Run this workflow when pushing to the 'deploy' branch or on demand. 
+# It also executes every morning at 6:30 so we're the first to know if the build is failing.
+# The scheduled job never publishes anything to the server.
+on:
+  workflow_dispatch:
+  push:
+    # It will publish changes on the 'deploy' branch, only.
+    branches:
+      - deploy
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 01. Checkout the repo.
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      # 01. Setup cache.
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      # 02. Set up node to version 14.
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+
+      # 03. Install dependencies (node).
+      - name: Install dependencies
+        run: npm install
+
+
+      # 03. Set up Ruby and Install dependencies.
+      - name: 'Setup Ruby'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7.3' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+      # 04. Build the website
+      - name: Build the website using Hexo
+        run: grunt build
+
+#      # 04. Deploy the website using FTP
+#      - name: Upload ftp using ftp-sync
+#        uses: socram8888/ftp-hash-sync@v1
+#        if: ${{ github.event_name != 'schedule' }}
+#        with:
+#            host: ${{ secrets.FTP_SERVER }}
+#            username: ${{ secrets.FTP_USERNAME }}
+#            source: "_dist"
+#            password: ${{ secrets.FTP_PASSWORD }}
+#            destination: ${{ secrets.FTP_REMOTE }}
