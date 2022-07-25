@@ -8,6 +8,8 @@ name: Build and publish website (FTP)
 # It also executes every morning at 6:30 so we're the first to know if the build is failing.
 # The scheduled job never publishes anything to the server.
 on:
+  schedule:
+    - cron: '30 6 * * *'
   workflow_dispatch:
   push:
     # It will publish changes on the 'deploy' branch, only.
@@ -52,12 +54,12 @@ jobs:
         run: grunt build
 
 #      # 04. Deploy the website using FTP
-#      - name: Upload ftp using ftp-sync
-#        uses: socram8888/ftp-hash-sync@v1
-#        if: ${{ github.event_name != 'schedule' }}
-#        with:
-#            host: "christinaschultz.com"
-#            username: ${{ secrets.FTP_USERNAME }}
-#            source: "_dist"
-#            password: ${{ secrets.FTP_PASSWORD }}
-#            destination: ${{ secrets.FTP_REMOTE }}
+      - name: Upload ftp using ftp-sync
+        uses: socram8888/ftp-hash-sync@v1
+        if: ${{ github.event_name != 'schedule' }}
+        with:
+            host: "christinaschultz.com"
+            username: ${{ secrets.FTP_USERNAME }}
+            source: "_dist"
+            password: ${{ secrets.FTP_PASSWORD }}
+            destination: ${{ secrets.FTP_REMOTE }}

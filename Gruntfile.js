@@ -1,7 +1,8 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-    secret: grunt.file.readJSON('secret.json'),
+    // IMPORTANT: Uncomment this to enable manual deploys again
+    // secret: grunt.file.readJSON('secret.json'),
     ftp_push: {
       deploy: {
         options: {
