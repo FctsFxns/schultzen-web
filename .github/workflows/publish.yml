@@ -50,7 +50,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
 
       # 04. Build the website
-      - name: Build the website using Hexo
+      - name: Build the website using Grunt + Jekyll
         run: grunt build
 
 #      # 04. Deploy the website using FTP
@@ -60,6 +60,6 @@ jobs:
         with:
             host: "christinaschultz.com"
             username: ${{ secrets.FTP_USERNAME }}
-            source: "_dist"
+            source: "_site"
             password: ${{ secrets.FTP_PASSWORD }}
             destination: ${{ secrets.FTP_REMOTE }}
