@@ -16,9 +16,8 @@ date:  2022-07-11 00:00:00 +0100
 A rehearsal in form of a three session workshop, financed by a grant of the artist organised platform of Catalunya PAAC, took place with a small group of women gathered to practise transversal writing about the physical and emotional condition of the Rambla and ourselves. La Rambla (from the Arabic word ramla, sandy area or hole of sand) was literally perforated or excavated with words following first gestures of human writing. 
 
 During spring of 2022 five persons were invited to form part of the second research group, called **Qalbi** (mi heart in Arab): Mar Merino, Ricardo Cardenas, Carlos Clemente and Diego Ballestrini joined the experiment to meet weekly during 3 months, write dialogs, relate to each other and get to know the place that surrounds us, the Ramblas.
-
-![image](/media/images/hacerAgujerosQalbi1.jpg)
 ![image](/media/images/hacerAgujerosQalbi2.jpg)
+![image](/media/images/hacerAgujerosQalbi1.jpg)
 ![image](/media/images/hacerAgujeros3.jpg) 
  
 During this first cycle of six transversal writing sessions we created a literary base and a philosophical tendency to give rise to the possibility of a philosophical debate based on the fictitious and collectivized writings. Each meeting proposed different exercises, or rather 'proposals with shared limitations', to write dramatized dialogues and monologues dealing more or less directly with one of the three suggested topics in order to generate a non-homogeneous constructive debate. 
@@ -45,4 +44,5 @@ The collective idea of producing a somewhat heterotypic publication, in honour t
 ![image](/media/images/HacerAgujerosPubli4.jpg)
 ![image](/media/images/HacerAgujerosPubli5.jpg)
 ![image](/media/images/HacerAgujerosPubli6.jpg)
+![image](/media/images/HacerAgujerosPubli7.jpg)
 
