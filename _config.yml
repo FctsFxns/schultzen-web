@@ -132,9 +132,3 @@ compress_html:
 current_version:  1.0.0
 repo:             https://bitbucket.org/schultzen/christina-schultz-site
 
-#minimagik
-mini_magick:
-    thumbnail:
-        source: media/images
-        destination: media/images/thumbnail
-        resize: "600x"
