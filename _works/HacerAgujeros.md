@@ -1,6 +1,6 @@
 ---
 title: Hacer Agujeros
-categories: Investigation Poetry Philosohy 2021
+categories: Investigation Poetry Philosohy 2021/22
 intro: A colaborative research project about Barcelona's most famous yet gentrified alley, the Ramblas, through transversal and collective writing.
 featured_image: /media/images/hacerAgujeros1.jpg
 
