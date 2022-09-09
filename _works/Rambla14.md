@@ -1,7 +1,8 @@
 ---
 title: Rambla 14, walking fragments in three times
-categories: Performance Colaboration Performance 2022
+categories: Performance Instalation Colaboration 2022
 intro: is a performance that narrates the experiential change of the residents of the Rambla based on real events throughout the last 50 years.
+
 featured_image: /media/images/Rambla14_0.jpg
 
 

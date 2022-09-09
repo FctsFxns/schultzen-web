@@ -1,5 +1,5 @@
 ---
-title: Hacer Agujeros
+title: Fer Forats
 categories: Investigation Poetry Philosohy 2021/22
 intro: A colaborative research project about Barcelona's most famous yet gentrified alley, the Ramblas, through transversal and collective writing.
 featured_image: /media/images/hacerAgujeros1.jpg
@@ -7,7 +7,7 @@ featured_image: /media/images/hacerAgujeros1.jpg
 
 published: true
 home_show: true
-date:  2022-07-11 00:00:00 +0100
+date:  2022-02-02 00:00:00 +0100
 ---
 
 ![image](/media/images/hacerAgujeros2.jpg)
