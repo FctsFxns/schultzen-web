@@ -2,7 +2,7 @@
 title: Fer Forats
 categories: Investigation Poetry Philosohy 2021/22
 intro: A colaborative research project about Barcelona's most famous yet gentrified alley, the Ramblas, through transversal and collective writing.
-featured_image: /media/images/hacerAgujeros1.jpg
+featured_image: /media/images/Rambla14_0Intro3.jpg
 
 
 published: true
@@ -10,7 +10,7 @@ home_show: true
 date:  2022-02-02 00:00:00 +0100
 ---
 
-![image](/media/images/Rambla14_0Intro3.jpg)
+![image](/media/images/hacerAgujeros1.jpg)
 
 **Fer Forats** or **Making holes** in english is a cross-sectional, philosophical-poetic and artistic investigation on the capacity of transversal writing to create meaningful relationships. It became a tool to engage with the dangerously overwhelming gentrification process and dehumanization of the Rambla. The process began during my longterm research residency at the [Santa Monica Art Center](https://artssantamonica.gencat.cat/ca/detall/Rambla-14-fragments-itinerants-en-tres-temps), the geolocated heart of this project due to its position right at the Ramblas, Barcelonas most emblematic yet heavily gentrified alley. 
 A first workshop, financed by a grant of the artist organised platform of Catalunya PAAC, was offered to a small group of women to practise transversal writing about the physical and emotional condition of the Rambla and ourselves. La Rambla (from the Arabic word ramla, sandy area or hole of sand) was literally perforated or excavated with words following first gestures of human writing. 
@@ -51,4 +51,7 @@ The collective idea of producing a somewhat heterotypic publication, in honour t
 ![image](/media/images/HacerAgujerosPubli6.jpg)
 
 ![image](/media/images/HacerAgujerosPubli7.jpg)
+
+![image](/media/images/Rambla14_21dibuix.jpg)
+![image](/media/images/Rambla14_21dibuix2.jpg)
 
