@@ -1,15 +1,19 @@
 ---
 title: Resonancias
-categories: performance long-term-project exhibition
+categories: performance long-term-project exhibition 2019
 intro: Resonancias is a choral, collaborative and experimental project on sexual diversity and pleasure from an LGTBI+ point of view.
 featured_image: /media/images/Resonancias1.jpg
 
 
 published: true
-home_show: true
+
+home_call: go to the project website
 home_url:  http://resonancias.christinaschultz.com/
+
 date:  2019-07-25 00:00:00 +0100
+
 ---
+
 This project has a [proper website](http://resonancias.christinaschultz.com/) where you can enjoy it's process, works and outcomes.
 
 Here's a short summary:
