@@ -22,7 +22,9 @@ The dramatic writings designed for that specific building were conceived by a sm
 The characters were inspired by real people from the present yet also freely interpreted based on 400 love letters from 1973 between a former neighbour of the building next door to Rambla 14 and her fiancé stationed in the Spanish Sahara. 
 
 The authors: Christina Schultz, Carlos Clemente, Diego Ballestrini, Mar Merino, Ricardo Cardenas and Aida Gonzalez
-Facilitators and participants: Eduard Elias, Ana Moreno and Pep, former and actual neighbours of the Ramblas and Angela, Fernando and Nadia, who sporadically joined the writing sessions (thank you!). 
+
+Facilitators and participants: Eduard Elias, Ana Moreno and Pep, former and actual neighbours of the Ramblas and Angela, Fernando and Nadia, who sporadically joined the writing sessions (thank you!).
+ 
 The actors: Carol Muakuku, Cinta Moreno, David Anguera, Gemma Charines and Lisa Reventós.
 
 Last but not least a *heterotopic* publication was confectionized by and for the Santa Monica Art Centre: six white curtains, printed on them five 10-line-dialogs between the fictional characters of the piece. The curtains are meant to allow to divide the meeting place as needed by the new residents of the Art Centre. Again I recommend to check out the project [Fer Forats or Making Holes](https://www.christinaschultz.com/works/HacerAgujeros/).
