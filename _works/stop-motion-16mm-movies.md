@@ -1,9 +1,9 @@
 ---
-title: 16mm Stop Motion
+title: My Stop Motion past in 16mm
 
 categories: Cinematic Collage before2000
 
-intro: These short movies were produced during 4 years and were never conceptualized. They are very pure and naif expressions of the will to communicate painful situations playfully.
+intro: These short movies were produced between 1996-2001 and are very pure and naif expressions of the will to communicate painful situations playfully.
 
 featured_image: /media/images/16mm.jpg
 
@@ -14,13 +14,13 @@ date:  2000-01-29 00:00:00 +0100
 ---
 
 
-The first is called **Maria del Aire**. A dreamy, slow adventure of an angellike human, driven by curiosity advances through diferent realistic and surrealistic worlds. Made with 16mm Shadow animation.
+The first is called **Maria del Aire**. A dreamy, slow adventure of an angellike human, driven by curiosity advances through diferent realistic and surrealistic worlds. Made with 16mm shadow animation.
 
 The second is called **FleischBeSchau**. A rythmic dance on beauty and eating disorder. Made with 16mm and paper doll animation.
 
-The third is called **Corre**. A hunted human being in a wood. Made with16mm Charcoal drawing and 3d puppet animation.
+The third is called **Corre**. A hunted human being in a wood. Made with 16mm charcoal drawing and 3d puppet animation.
 
-You can order the code to see them on vimeo.
+You can order the password to see them on vimeo.
 
 Maria del Aire
 

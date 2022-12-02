@@ -1,7 +1,7 @@
 ---
 title:          Heroes
 categories: Collage 2000
-intro: A series of 6 oversized collages portraying childhood heroes. Idols and overcrowded references. All works are wooden framed. 
+intro: A series of 6 oversized collages portraying childhood heroes. Idols and overcrowded references. All works are framed. 
 featured_image: /media/images/heroes160x141.jpg
 
 home_show: true
@@ -11,7 +11,7 @@ published: true
 date:  2000-01-01 00:00:00 +0100
 ---
 
-This series started in 2000 and finished a couple of years later and was hardly exposed. Some of the works are leased by a production enterprise in Barcelona, one was rented for antother project and two can be visited in my studio.
+This series started in 2000 and finished a couple of years later and was hardly exposed. The wooden framed works are held into deposit by art lovers and art residencies. You can still see the others at my studio.
 
 Starfighter
 160 x 141 x 4
