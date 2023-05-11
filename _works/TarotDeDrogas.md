@@ -2,7 +2,7 @@
 title: Tarot de Drogas
 categories: Investigation Poetry Performance 2023
 intro: The Drug Tarot and other thematic fortune teller games were devised as part of the project Conjuros y Colocones.
-featured_image: /media/images/metzineres3.jpg
+featured_image: /media/images/DrugTarot20.jpg
 
 
 published: true
