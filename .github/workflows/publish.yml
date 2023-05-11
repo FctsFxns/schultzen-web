@@ -4,7 +4,7 @@
 
 name: Build and publish website (FTP)
 
-# Run this workflow when pushing to the 'deploy' branch or on demand. 
+# Run this workflow when pushing to the 'deploy' branch or on demand.
 # It also executes every morning at 6:30 so we're the first to know if the build is failing.
 # The scheduled job never publishes anything to the server.
 on:
@@ -54,12 +54,23 @@ jobs:
         run: grunt build
 
 #      # 04. Deploy the website using FTP
+      #- name: Upload ftp using ftp-sync
+      #  uses: socram8888/ftp-hash-sync@v1
+      #  if: ${{ github.event_name != 'schedule' }}
+      #  with:
+      #      host: "christinaschultz.com"
+      #      username: ${{ secrets.FTP_USERNAME }}
+      #      source: "_site"
+      #      password: ${{ secrets.FTP_PASSWORD }}
+      #      destination: ${{ secrets.FTP_REMOTE }}
+
       - name: Upload ftp using ftp-sync
-        uses: socram8888/ftp-hash-sync@v1
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         if: ${{ github.event_name != 'schedule' }}
         with:
-            host: "christinaschultz.com"
+            server: "christinaschultz.com"
             username: ${{ secrets.FTP_USERNAME }}
-            source: "_site"
+            local-dir: "_site"
             password: ${{ secrets.FTP_PASSWORD }}
-            destination: ${{ secrets.FTP_REMOTE }}
+            server-dir: ${{ secrets.FTP_REMOTE }}
+            log-level: standard
