@@ -70,7 +70,7 @@ jobs:
         with:
             server: "christinaschultz.com"
             username: ${{ secrets.FTP_USERNAME }}
-            local-dir: "_site"
+            local-dir: "_site/"
             password: ${{ secrets.FTP_PASSWORD }}
             server-dir: ${{ secrets.FTP_REMOTE }}
             log-level: standard
