@@ -27,7 +27,7 @@ The performance was presented as three dress rehearsals.
 
 You can watch a documentation of the performance [HERE](https://vimeo.com/662552033). Please ask us for the password and write to contact@christinaschultz.com
 
-The script of the piece will soon be available as a downloadable pdf under the rights of open source creative commons. Let us know if you want to use it.
+You [can download the script of the piece](/media/pdf/SCRIPTanaromistic.pdf) under the rights of open source creative commons. Out of curiosity, let us know if you are going to use it.
 
 
 ![image](/media/images/HistoriasAnarco.jpg)

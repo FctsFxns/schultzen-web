@@ -14,6 +14,7 @@ The Drug Tarot (now available in three languages) was released during a performa
 The other oracles, performed during our own Oracle Fair at L'Estranger, included: a Trans Oracle, a BDSM oracle, a Lucky Charm Oracle, a Stone Oracle and a Make Up Oracle. All of these fortune tellings where created in colaboration with participants of the Metzineres space and performed by their very authors during an exhibitive event at L'Estranger, art space in Barcelona.
 The conceptual work on the oracles sets base to talk about hopes and desires of  the person asking and also raises a discussion about estigmatized topics, such as drugs, transgender and transsexuality, BDSM erotic practices, immigration and anything that can emerge between the teller and the questioner.
 
+
 If you are interested in pursuing a deck of cards please go to [![the shop](/media/images/DrugTarot1.jpg)](/shop-tarot).
 
 Reading of the Drug Tarot at the Oracle Fair at L'Estranger, Barcelona
