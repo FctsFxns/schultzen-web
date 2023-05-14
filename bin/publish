@@ -1,29 +1,33 @@
-#!/usr/bin/env sh
-PATH="/usr/local/bin:$PATH"
-
-DIRECTORY=$(cd `dirname $0` && pwd)
-cd $DIRECTORY
-cd ..
-
-# Set up the Jekyll site.
-# Run this script immediately after cloning the codebase.
+#!/bin/bash
 
 # Exit if any subcommand fails
 set -e
 
-# Set up Ruby dependencies via Bundler.
-# gem install bundler --conservative
-# bundle check || bundle install
+# gem install bundler --conservative
+# bundle check || bundle install
 
-# Not necessary to build the Less files since they're in the repo already?
-# npm install -g grunt-cli
-# npm install
-
-# Set variable
+# Set variable
 export JEKYLL_ENV=production
 
-# Build the site
-# grunt build
+# DEPLOY with credentials as TRavis ENV
+# touch secret.json
+# FTP_HOST=${ftp_server}
+# FTP_USERNAME=${ftp_username}
+# FTP_PASSWORD=${ftp_password}
+# JSON_FMT='{\n"host":"%s",\n"username":"%s",\n"password":"%s"\n}\n'
+# printf "$JSON_FMT" "$FTP_HOST" "$FTP_USERNAME" "$FTP_PASSWORD" >> secret.json
 
-# Deploy the site
-grunt deploy
+# Build again, maybe it's not necessary at all
+grunt build
+
+# Commit changes
+git add .
+git commit -m "Added new changes from local branch"
+git push --force-with-lease 
+
+
+# Deploy changes
+git checkout deploy 
+git merge origin/master --ff-only 
+git push --force-with-lease 
+git checkout master

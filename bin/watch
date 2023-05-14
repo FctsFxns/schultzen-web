@@ -14,9 +14,5 @@ set -e
 # Set variable
 export JEKYLL_ENV=development
 
-# Not necessary to build the Less files since they're in the repo already?
-# npm install -g grunt-cli
-# npm install
-
-# Build the site
+# Build (and watch) the site
 grunt

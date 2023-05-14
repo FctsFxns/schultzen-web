@@ -1,45 +1,6 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
-//    secret: grunt.file.readJSON('secret.json'),
-//    ftp_push: {
-//      deploy: {
-//        options: {
-//          host: "<%= secret.host %>",
-//          username: "<%= secret.username %>",
-//          password: "<%= secret.password %>",
-//          dest: "/web/",
-//          port: 21,
-//          incrementalUpdates: true,
-//          keepAlive: 120000
-//        },
-//        files: [
-//          {
-//            expand: true,
-//            cwd: '_site/',
-//            src: [
-//              "**/*"
-//            ]
-//          }
-//        ]
-//      }
-//    },
-//    sftp: {
-//      deploy: {
-//        files: {
-//          "./": "_site/**"
-//        },
-//        options: {
-//          srcBasePath: '_site/',
-//          createDirectories: true,
-//          host: "<%= secret.host %>",
-//          username: "<%= secret.username %>", 
-//          password: "<%= secret.password %>",
-//          path: "/web",
-//          showProgress: false
-//        }
-//      }
-//    },
     less: {
       development: {
         options: {
@@ -160,12 +121,6 @@ module.exports = function(grunt) {
     }
   });
   require('load-grunt-tasks')(grunt);
-
-  // Deployment with secure ftp https://github.com/israelroldan/grunt-ssh
-  grunt.loadNpmTasks('grunt-ssh');
-  // Deployment with insecure ftp https://www.npmjs.com/package/grunt-ftp-push
-  grunt.loadNpmTasks('grunt-ftp-push');
-
   grunt.loadNpmTasks('grunt-contrib-clean');
 
 

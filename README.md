@@ -1,34 +1,36 @@
 # Christina Schultz
 
-The website for artist and performer Christina Schultz using 
+The website for artist and performer Christina Schultz.
 
-[![Build Status](https://travis-ci.org/FctsFxns/schultzen-web.png)](https://travis-ci.org/FctsFxns/schultzen-web)
+## Instalación
 
+- Ruby y Bundle
+- npm
+- Grunt
 
+```bash
+npm install
+npm run setup
+```
 
-## Tech stack
+## Ver sitio web
 
-The application backend is [Jekyll](http://jekyllrb.com/), an application written in the Ruby language using the Ruby on Rails framework. I've added Bundle to manage the dependencies if you need a development environment.
+```bash
+npm start
+```
 
-Frontend tools used include LESS over Bootstrap for the styles, ~~[Bower](http://bower.io/) for the javascript dependencies~~ and [Grunt](http://gruntjs.com/) for the tasks.
+## Publicar cambios
 
-The testing and deployment of changes is made throught [Travis](http://travis-ci.org/) with our own recipe.
+```bash
+npm run publish
+```
 
-The site is currently hosted in [Hetzner](https://www.hetzner.de/) and their datacenter are located in Nuremberg and in Falkenstein/Vogtland.
 
 ## ¿Cómo gestionar el contenido del sitio web?
-
-@todo 
-
-- media
-- _data
-- _includes
-- _works
 
 ### 01. Carpeta 'media'
 
 En esta carpeta están los materiales media que vamos emplear en la web: imágenes, pdf's, …
-
 
 ### 02. Carpeta '_data'
 
@@ -63,39 +65,7 @@ Encontrarás una serie de ficheros para gestionar los contenidos de la [sección
 - More Press
 
 
-### 03. Carpeta '_includes'
-
-##### ¿Cómo cambiamos el texto del statement y de la bio?
-
-Estos dos textos se encuentran en un sitio un poco especial.
-
-Concretamente en la carpeta _includes/
-
-Puedes usar un editor de Markdown para cambiar el contenido de estos textos.
-
-
-
-## Instalación
-
-### Dependencias
-
-- Ruby y Bundle
-- Bower
-- Grunt
-
-
-sh bin/setup
-
-Then 
-
-> grunt --help
-> 
-> grunt build
-> 
-> grunt theming
-
-
-## Development varibles
+## Development variables
 
 Use this variables to take advantadge of livereload.
 
