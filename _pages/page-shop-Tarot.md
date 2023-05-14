@@ -11,16 +11,16 @@ sitemap: 1
 
 [![product Tarot](/media/images/DrugTarot18.jpg)](/shop-tarot)
 
-The Drug Tarot is a deck of 37 cards ( + four contextualizing cards) designed with archetipes of drug related topics. The were devised by the artist in colaboration with the women of ["Metzineres, shelter for women who use drugs and survive violences"][metzineres]. The Drug Tarot is available in three languages, Catalan, Spanish and English, all of them making use of proper "street" slang.
+The Drug Tarot is a deck of 37 cards ( + four contextualizing cards) designed with archetipes of drug related topics. They were devised by the artist in colaboration with the women of ["Metzineres, shelter for women who use drugs and survive violences"][metzineres]. The Drug Tarot is available in three languages, Catalan, Spanish and English, all of them making use of proper "street" slang.
 
 #### Drug Tarot/ Tarot de Drogas / Tarot de Drogues
 
 [![producto Tarot de Drogas](/media/images/DrugTarot2.jpg)](/shop-posters)
 
 - **Price / Precio**: 25 € (+ shipping)
-- **Size / Medidas**: 7,6 cm x 12,6 cm 
+- **Size / Medidas**: 7,6 cm x 12,6 cm
 - **Material**: 41 cards in paper hardcase
-- **Weight / Peso**: 
+- **Weight / Peso**:
 - **Shipping / Transporte**: Check transportation costs / consulta costes de transporte.
 
 #### A donation to _Metzineres_ / Una donación para _Metzineres_
