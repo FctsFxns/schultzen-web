@@ -1,4 +1,8 @@
-#!/bin/bash
+#!/usr/bin/env sh
+PATH="/usr/local/bin:$PATH"
+DIRECTORY=$(cd `dirname $0` && pwd)
+cd $DIRECTORY
+cd ..
 
 # Exit if any subcommand fails
 set -e
@@ -17,17 +21,14 @@ export JEKYLL_ENV=production
 # JSON_FMT='{\n"host":"%s",\n"username":"%s",\n"password":"%s"\n}\n'
 # printf "$JSON_FMT" "$FTP_HOST" "$FTP_USERNAME" "$FTP_PASSWORD" >> secret.json
 
-# Build again, maybe it's not necessary at all
-grunt build
-
 # Commit changes
 git add .
 git commit -m "Added new changes from local branch"
-git push --force-with-lease 
+git push --force-with-lease
 
 
 # Deploy changes
-git checkout deploy 
-git merge origin/master --ff-only 
-git push --force-with-lease 
+git checkout deploy
+git merge origin/master --ff-only
+git push --force-with-lease
 git checkout master
