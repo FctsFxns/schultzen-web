@@ -18,20 +18,25 @@ The piece was presented the 16th of august as an invitation of the [Grand Tour 2
 
 All pictures were taken by @JordiLafon
 
-![image](/media/images/Aixopluc2.jpg) 
+ 
 
-![image](/media/images/Aixopluc3.jpg)
+![image](/media/images/Aixopluc3a.jpg)
 
-![image](/media/images/Aixopluc4.jpg)
+![image](/media/images/Aixopluc3b.jpg)
 
 ![image](/media/images/Aixopluc5.jpg)
 
 ![image](/media/images/Aixopluc6.jpg)
+
+![image](/media/images/Aixopluc4.jpg)
 
 ![image](/media/images/Aixopluc7.jpg)
 
 ![image](/media/images/Aixopluc8.jpg)
 
 ![image](/media/images/Aixopluc9.jpg)
+
+![image](/media/images/Aixopluc2.jpg)
+
 
  
