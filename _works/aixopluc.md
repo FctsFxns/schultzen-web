@@ -14,7 +14,8 @@ The performance "Aixopluc" ("shelter" in Catalan) is part of the ongoing project
 
 The physical poem reflects on water as an empowering element for the imprisoned women, as a bridge to our profound not-knowing about their situation, referencing the Nereids, the daughters of the god of the seas in Greek mythology. Although they are direct descendants of an important god in mythology writings, they were never given much attention other than insisting on their extreme beauty. So close yet so far away, just like women in the penalty system.
 
-The piece was presented on the 16th of August as an invitation to the [Grand Tour 2023](https://elgrandtour.net/en/) by Nau Côclea and Clara Garí.
+
+The piece was developed in residency at [CeRRCa](https://www.cercca.cat/) at Llorenç del Penedés and presented on the 16th of August as an invitation to the [Grand Tour 2023](https://elgrandtour.net/en/) by Nau Côclea and Clara Garí.
 
 All pictures were taken by @JordiLafon
 
