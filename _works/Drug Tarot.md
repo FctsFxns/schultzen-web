@@ -1,7 +1,7 @@
 ---
 title: Drug Tarot
 categories: Investigation Poetry Performance 2023
-intro: The Drug Tarot is an archtypical oracle around situations of drug use.
+intro: The Drug Tarot is a deck of cards representing archetypes involved in situations of drug use.
 featured_image: /media/images/DrugTarot20.jpg
 
 
