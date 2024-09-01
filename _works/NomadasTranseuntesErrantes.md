@@ -11,7 +11,7 @@ date:  2024-08-29 00:00:00 +0100
 ---
 **Nomads, transients and wanderers, an odyssey in objects** was launched for the first time at the [International AIDS congres in Munich](https://www.iasociety.org/conferences/aids2024/programme/global-village). It was presented by Aura Roig, Silvie Ojeda and myself at a [Stattpark Olga](https://olga089.de/2024/07/20/eine-odysee-in-objekten-mittwoch-24-7-trash-test-donnerstag-25-7/), an alternative cultural melting spot and place to shelter trucks for living.
 
-The suitcase was build and presented with the support of many people. Lars gets a special mentioning for the exellent and perfectly fitting woodwork.
+The suitcase was build and presented with the support of many people. [Lars Petrova Taylor](https://www.maker-community.org/) gets a special mentioning for the exellent and perfectly fitting woodwork.
 
 ![image](/media/images/Nomads3.jpg)
 ![image](/media/images/Nomads5.jpg)
