@@ -36,5 +36,5 @@ Artworks specifically made for the suitcase and soon as prints available.
 
 ![image](/media/images/Nomads6.jpg)
 
-
+Nomads, transients and wanderers: an odyssey in objects came to life and was developed in collaboration with some Metzineres participants: Many thanks to Andre, Angelica, Belén, Catalina, Dakota, Fia, Isabel, Jazmin, Maria, Marta, Mia, Monica, Melody, Nadia, Nuria, Oued, Samir, Sophie, Silvie and other satellites.
 
