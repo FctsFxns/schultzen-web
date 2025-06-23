@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v4
 
       # 01. Setup cache.
-      - uses: actions/cache@vv4
+      - uses: actions/cache@v4
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
