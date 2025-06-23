@@ -2,7 +2,7 @@
 title:          Walls of Breath, from inside out
 categories: Research Performance Installation Publication
 intro: A poetic investigation about personal intimacy and safe spaces in the female prison environment of Wad Ras, Barcelona.
-featured_image: /media/images/WallsOfBreath1.jpg
+featured_image: /media/images/WallsOfBreath1a.jpg
 featured_video:
 
 home_show: true
@@ -17,7 +17,7 @@ As we build up a corpse of literary intimacy spaces the participants were portra
 
 The project awaits to present the whole of its outcomes in 2027 at the Felicia Fuster Foundation and will be presented at many different venues during 2025 and 2026: 3 Civic Centres, Baró de Viver, Can Basté and Navas in Barcelona and the Biennale of Andorra. There are more collaboration still to confirm.
 
-![image](/media/images/WallsOfBreath2.jpg)
+![image](/media/images/WallsOfBreath2a.jpg)
 
 ![image](/media/images/WallsOfBreath3.jpg)
 
