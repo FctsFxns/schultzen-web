@@ -22,10 +22,10 @@ jobs:
     steps:
       # 01. Checkout the repo.
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       # 01. Setup cache.
-      - uses: actions/cache@v2
+      - uses: actions/cache@vv4
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
@@ -33,7 +33,7 @@ jobs:
             ${{ runner.os }}-gems-
 
       # 02. Set up node to version 14.
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v4
         with:
           node-version: 12
 
@@ -65,7 +65,7 @@ jobs:
       #      destination: ${{ secrets.FTP_REMOTE }}
 
       - name: Upload ftp using ftp-sync
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         if: ${{ github.event_name != 'schedule' }}
         with:
             server: "christinaschultz.com"
