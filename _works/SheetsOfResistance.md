@@ -6,8 +6,6 @@ featured_image: /media/images/SheetsOfResistance1.jpg
 featured_video:
 
 home_show: true
-home_call: go to the project website
-home_url:  http://XXXX
 
 published: true
 date:  2025-06-23 00:00:00 +0100
