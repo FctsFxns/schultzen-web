@@ -12,6 +12,19 @@
 #   year:     2015
 #   url:      'http://www.google.es'
 
+
+- title:    Des d'endins cap afora
+  venue:    CC Baró de Viver
+  place:    Barcelona, Spain
+  date:     Març 2025
+  year:     2025
+
+- title:    Aixopluc
+  venue:    Gran Tour 2024
+  place:    Barcelona, Spain
+  date:     Agost 2024
+  year:     2024
+
 - title:    'The Drug Tarot'
   type:     'performative lecture'
   venue:    'Liverpool Hope University'
