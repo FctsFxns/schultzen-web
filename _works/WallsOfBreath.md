@@ -1,5 +1,5 @@
 ---
-title:          Walls of Breath, from inside out
+title:          Walls of Breath - from inside out
 categories: Research Performance Installation Publication
 intro: A poetic investigation about personal intimacy and safe spaces in the female prison environment of Wad Ras, Barcelona.
 featured_image: /media/images/WallsOfBreath1a.jpg
