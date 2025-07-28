@@ -21,6 +21,9 @@ export JEKYLL_ENV=production
 # JSON_FMT='{\n"host":"%s",\n"username":"%s",\n"password":"%s"\n}\n'
 # printf "$JSON_FMT" "$FTP_HOST" "$FTP_USERNAME" "$FTP_PASSWORD" >> secret.json
 
+# Add identity
+ssh-add --apple-use-keychain ~/.ssh/github_rsa
+
 # Commit changes
 git add .
 git commit -m "Added new changes from local branch"
