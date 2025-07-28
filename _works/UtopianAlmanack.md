@@ -19,15 +19,17 @@ A series of drawings by the artist of geometric watches (original drawings are b
 
 You can find the entire collages made for this project on [this website](http://Metzicollage.christinaschultz.com/).
 
-![image](/media/images/UtopianAlmanack0.jpg)
-![image](/media/images/UtopianAlmanack2.jpg)
-![image](/media/images/UtopianAlmanack3.jpg)
-![image](/media/images/UtopianAlmanack4.jpg)
-![image](/media/images/UtopianAlmanack5.jpg)
-![image](/media/images/UtopianAlmanack6.jpg)
+![image](/media/images/UtopianAlmanack0.jpeg)
+![image](/media/images/UtopianAlmanack2.jpeg)
+![image](/media/images/UtopianAlmanack3.jpeg)
+![image](/media/images/UtopianAlmanack4.jpeg)
+![image](/media/images/UtopianAlmanack5.jpeg)
+![image](/media/images/UtopianAlmanack6.jpeg)
 
 You can order this calendar for 20 euros (+ shipping) sending a mail to contact@christinaschultz.com
 
-![image](/media/images/UtopianAlmanack7.jpg)
-![image](/media/images/UtopianAlmanack8.jpg)
+![image](/media/images/UtopianAlmanack7.jpeg)
+
+![image](/media/images/UtopianAlmanack8.jpeg)
+
 ![image](/media/images/UtopianAlmanack9.jpg)
