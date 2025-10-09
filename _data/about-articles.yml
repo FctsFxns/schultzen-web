@@ -11,6 +11,21 @@
 #   date:    feb 2016, necessary
 #   year:    2016, required
 #   url:     http://…, optional
+- title:   'Grandtouristes del segle XXI'
+  author:  Clara Garí
+  medium:  Nuvol
+  country: 'Spain'
+  date:    'October 2025'
+  year:    2025
+  url:     'https://www.nuvol.com/art/grandtouristes-del-segle-xxi-453383'
+
+- title:   'El Grand tour'
+  author:  Marc Caellas
+  medium:  Tea-tron
+  country: 'Spain'
+  date:    'September 2025'
+  year:    2025
+  url:     'https://www.tea-tron.com/mambo/blog/2025/09/15/el-grand-tour/'
 
 - title:   'Territori Clandestí'
   author:  Marta Molina
