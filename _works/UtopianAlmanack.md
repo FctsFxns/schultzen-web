@@ -2,7 +2,7 @@
 title:          Utopian Almanack
 categories: Publication Video Collage
 intro: This visionary calendar is the result of reflection on the origins of our measures of time and our future.
-featured_image: /media/images/UtopianAlmanack1.jpg
+featured_image: /media/images/UtopianAlmanack0.jpg
 featured_video:
 
 home_show: true
@@ -17,14 +17,16 @@ In this calendar in three languages (Catalan, Spanish and English) you will find
 
 A series of drawings by the artist of geometric watches (original drawings are black ink on A4 Art paper) dialogue with 12 collages representing desires of the participatimg person.
 
+![image](/media/images/UtopianAlmanack1.jpeg)
+
 You can find the entire collages made for this project on [this website](http://Metzicollage.christinaschultz.com/).
 
-![image](/media/images/UtopianAlmanack0.jpeg)
 ![image](/media/images/UtopianAlmanack2.jpeg)
 ![image](/media/images/UtopianAlmanack3.jpeg)
 ![image](/media/images/UtopianAlmanack4.jpeg)
 ![image](/media/images/UtopianAlmanack5.jpeg)
 ![image](/media/images/UtopianAlmanack6.jpeg)
+
 
 You can order this calendar for 20 euros (+ shipping) sending a mail to contact@christinaschultz.com
 

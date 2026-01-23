@@ -2,7 +2,7 @@
 title: Tomatl - the red gold
 categories: Performance Drawings 2018
 intro: Tomatl - the red gold was a performance about the historic and contemporary cultivation and consumption and the political circumstances of the tomato fruit.
-featured_image: /media/images/Tomatl7.jpg
+featured_image: /media/images/Tomatl13a.jpg
 
 
 published: true
@@ -39,7 +39,7 @@ Some of the drawings
 
 ![image](/media/images/Tomatl12.jpg)
 
-![image](/media/images/Tomatl13.jpg)
+![image](/media/images/Tomatl1.jpg)
 
 Rose's orchard
 

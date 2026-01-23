@@ -1,8 +1,8 @@
 ---
-title: Nomads, transients and wanderers, an odyssey in objects
+title: Odyssey of objects
 categories: Installation Poetry Performance 2024
 intro: A Suitcase with objects, audio testimonials and portraits that represent what makes a journey an odyssey for womxn in vulnerable situations.
-featured_image: /media/images/Nomads0.jpg
+featured_image: /media/images/Nomads8.jpg
 
 
 published: true

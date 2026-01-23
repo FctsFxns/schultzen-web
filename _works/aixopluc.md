@@ -1,8 +1,8 @@
 ---
 title: Aixopluc
-categories: Performance Instalation 
+categories: Performance Instalation
 intro: A performance about the possibility to create domestic intimacy in the female prison of Wad Ras, Barcelona.
-featured_image: /media/images/Aixopluc01.jpg
+featured_image: /media/images/Aixopluc02.jpg
 
 published: true
 home_show: true
@@ -19,7 +19,7 @@ The piece was developed in residency at [CeRRCa](https://www.cercca.cat/) at Llo
 
 All pictures were taken by @JordiLafon
 
- 
+ ![image](/media/images/Aixopluc01.jpg)
 
 ![image](/media/images/Aixopluc03a.jpg)
 
@@ -38,6 +38,3 @@ All pictures were taken by @JordiLafon
 ![image](/media/images/Aixopluc09.jpg)
 
 ![image](/media/images/Aixopluc02.jpg)
-
-
- 

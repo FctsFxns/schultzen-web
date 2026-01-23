@@ -1,8 +1,8 @@
 ---
-title: Drug Tarot
+title: Oracles for Otherings Part I
 categories: Investigation Poetry Performance 2023
-intro: The Drug Tarot is a deck of cards representing archetypes involved in situations of drug use.
-featured_image: /media/images/DrugTarot20.jpg
+intro: The first and most intense oracle is the Drug Tarot, a deck of cards played with archetypes of drug use.
+featured_image: /media/images/DrugTarot2.jpg
 
 
 published: true

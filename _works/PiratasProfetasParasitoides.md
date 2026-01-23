@@ -2,7 +2,7 @@
 title: Piratas Profetas Parasitoides
 categories: laboratory performance fanzine
 intro: This is an experimental workshop in colaboration with Daniel Canet to reconfigure our digital identities and play with social media platforms.
-featured_image: /media/images/PPPcartel2.jpg
+featured_image: /media/images/PPPthink2.jpg
 
 
 published: true
@@ -30,7 +30,7 @@ Hard thinking and hacking
 
 ![image](/media/images/PPPthink.jpg)
 
-![image](/media/images/PPPthink2.jpg)
+![image](/media/images/PPPcartel2.jpg)
 
 The analog fleamarket of new digital identities. [Here's](https://www.facebook.com/events/1905706412827834/) the FB-event.
 
