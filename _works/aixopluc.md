@@ -31,7 +31,7 @@ The first idea of the performance was developed in residency at [CeRRCa](https:/
 
 All pictures were taken
 
- ![image](/media/images/AixoplucPerform1.jpg)
+![image](/media/images/AixoplucPerform1.jpg)
 
 ![image](/media/images/AixoplucPerform2.jpg)
 
@@ -43,10 +43,14 @@ All pictures were taken
 
 ![image](/media/images/Aixopluc07.jpg)
 
-![image](/media/images/Aixopluc08.jpg)
-
-![image](/media/images/Aixopluc09.jpg)
-
-![image](/media/images/Aixopluc02.jpg)
-
 Pic by @JordiLafon
+
+![image](/media/images/AixoplucNEW1.png)
+
+![image](/media/images/AixoplucNEW2.png)
+
+Pics by CC Sagrada Familia
+
+![image](/media/images/AixoplucNEW3.png)
+
+Pics by Villa Waldberta
