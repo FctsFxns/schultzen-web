@@ -1,9 +1,11 @@
-# About
+# Bio
 
-Christina Schultz was born on a Saturday noon, February the 5th, in Munich, Germany 1972.
+Christina Schultz (b. 1972, Munich) is based in Barcelona and works internationally.
 
-During the last years she has been able to deepen her practice in various international artistic contexts, with several independent projects, with alternative distributions, performance actions and multipurpose exhibitions.
-She has received several supports for her creations through such grants as: Künstlerhaus Villa Waldberta by the city of Munich, CREA by the city of Barcelona, “Art for Change” from “LaCaixa” and “Homesession”, OSIC by the Generalitat de Catalunya, “LaCapella and Barcelona Producció 2019”. Also by multiple artistic and research residences such as: MACBA,museum for contemporary art in Barcelona, Graner, center of investigation for dance and movement, Can Serrat, CerCCa, Nau Côclea , Hangar.org, La Escocesa, Piramidón, Jiser and Jiwar and the Nau Estruch, art centers in Catalunya.
+Her practice has been developed through projects across Spain, Germany, the UK, and Morocco, in dialogue with cultural institutions, independent spaces, and site-specific contexts. She has received support from institutions including the City of Munich (Künstlerhaus Villa Waldberta), the City of Barcelona (CREA), “Art for Change” – La Caixa Foundation, and OSIC (Generalitat de Catalunya), among others.
 
-She manages herself autonomously in some cases and in others is being sponsored by cultural and educational organizations such as:  Kösç Kulturlabor, Munich, The Blueproject Foundation, EINA university for art and design, the College 4Cantons, Casa Elizalde, cultural house, Subarna, a local Auction House and the Fundació Tàpies amongst others.
-She expanded her technical and intellectual knowledge with: **José Bouso**, scientist at ICEERS, **Aura Roig**, director of Metzineres, PEI students and lecturers, especially **Nicolás Vatiu Koralsky**, curator; **Pau Cata**, coordinator of NACCM; **Amanda Masha Caminals**,curator; **Pol Capdevila**, professor of humanities at Pompeu Fabra; **Marina Garcés** philosopher and teacher of critical thinking; **Pep Dardanyá**, artist; **Tere Badía**, former director of Hangar; **Clara Garí**, director of the Nau Côclea; **Mar Merino**, cultural manager; **Daniel Canet**, software engineer; **Paola Marugán**, curator; **Claus Strigel** and **Matthias Zentner** documentary filmmakers, extraordinary **friends** and very special **kin**.
+She has undertaken residencies and research projects at institutions such as MACBA (Barcelona Museum of Contemporary Art), Graner (Centre for Dance and Movement Research), Hangar, La Escocesa, and Nau Côclea, among others.
+
+Her work is developed both independently and in collaboration with cultural and educational organisations including Kösç Kulturlabor (Munich), Blueproject Foundation, EINA University of Design and Art, and Fundació Antoni Tàpies.
+
+Her work moves between independent production and collaborations with cultural and educational organisations.

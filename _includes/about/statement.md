@@ -1,5 +1,12 @@
-# The Artist Says
+# Artistic statement
 
-I am a transdisciplinary artist, oral performer and linguistic nomad. My artistic practice pays attention to the things we take for granted or find insignificant. It focuses on those inconspicuous actions that are essential components of our lives, and addresses everyday issues that irk us, thus becoming a guardian of small gestures to make the most of them. In my research, I often take on the role of a host to facilitate connections between people, places, and topics on various levels and to form communities that create a sense of belonging, make us more whole, and resonate with the artistic results. My strategies and methodologies are intentionally harmless and unspectacular. I use literary fiction as a place of trust and safety, writing and drawing as acts of demand, and my own body in performance as a medium for evoking, visualising, and constellating the presence of others. My work is in constant dialogue with what I am and what I am not, what I can contribute, and where my limits lie.
+Christina Schultz is an audiovisual artist and performer working across installation, writing, and voice-based performance. Her practice unfolds through acts of hosting: she creates situations in which encounters take place and relations take shape.
+
+Working across different locations, she approaches hosting and neighbourhood as constructed forms of proximity—building trust and connecting people across distances, languages, and lived realities. Her projects develop between contexts such as Barcelona and Morocco, Germany, and the UK, tracing how relationships can be formed beyond physical closeness.
+
+Grounded in her lived experience, her research develops through intimate, situated encounters. From these, she creates installations, images, and performances shaped through her own formal vocabulary. Working with voices and texts encountered in this process, she composes performative situations in which they are re-staged, translated, and set into relation.
+
+Hospitality, in her work, is a method: a way of structuring access, negotiating presence, and holding space for expression to circulate without being fixed. Her practice explores how voice moves between people, and how proximity can be constructed and negotiated through language.
+
 
 I am based in Barcelona since 28 years. If you'd like to know more, please don't hesitate to write me a card, a letter, a [mail](mailto:contact@christinaschultz.com) or come and visit me at my studio at [SaTorre](https://www.instagram.com/satorrecaputxes/), minimal space of maximum creativity.
