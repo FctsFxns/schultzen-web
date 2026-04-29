@@ -1,13 +1,13 @@
 ---
-title: Oracles / Oráculos de los Márgenes
+title: Oráculos de los Márgenes
 categories: Instalation Performance Drawings 2023
-intro: Series of performative and material works within **Spells and Poisons**, exploring ritual, and circulation of mystic knowledge across marginalised practices
+intro: Series of performative and material works within **Spells and Potions**, exploring ritual, and circulation of mystic knowledge across marginalised practices
 featured_image: /media/images/Oracles1.jpg
 
 
 published: true
 home_show: true
-date:  2023-05-23 00:00:00 +0100
+date:  2023-05-22 00:00:00 +0100
 ---
 
 Oracles / Oráculos de los Márgenes is a series of works that emerges from the research developed in [Spells and Potions](https://www.christinaschultz.com/works/SpellsAndPotions/), engaging with practices of interpretation, ritual, and symbolic language as ways of accessing and transmitting situated knowledge.
@@ -45,8 +45,15 @@ It forms part of a broader inquiry into alternative epistemologies and the ways 
 The Drug Tarot is available in three languages.
 If you are interested in acquiring a deck, please [visit the shop](https://www.christinaschultz.com/shop-tarot/)
 
-![image](/media/images/DrugTarot1.jpg)]
+**Credits**
 
+Concept and direction: Christina Schultz
+
+Developed in collaboration with: Metzineres
+
+Participants and collaborators: members of the Metzineres community
+
+![image](/media/images/DrugTarot1.jpg)]
 
 ![image](/media/images/Oracles2.jpg)
 

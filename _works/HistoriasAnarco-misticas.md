@@ -1,7 +1,7 @@
 ---
 title: Anarcomistical Herstories
 categories: Fiction Performance Magic 2021
-intro: Performance within **Spells and Poisons (Conjuros y Colocones)**, translating its hosted encounters into a performative and narrative form
+intro: Performance within **Spells and Poisons**, translating its hosted encounters into a performative and narrative form
 featured_image: /media/images/HistoriasAnarco1.jpg
 
 
