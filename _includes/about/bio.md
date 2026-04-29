@@ -9,3 +9,5 @@ She has undertaken residencies and research projects at institutions such as MAC
 Her work is developed both independently and in collaboration with cultural and educational organisations including Kösç Kulturlabor (Munich), Blueproject Foundation, EINA University of Design and Art, and Fundació Antoni Tàpies.
 
 Her work moves between independent production and collaborations with cultural and educational organisations.
+
+For a full list of exhibitions, residencies, and projects, see the CV page.
