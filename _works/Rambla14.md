@@ -1,7 +1,7 @@
 ---
 title: Rambla 14, wandering fragments
 categories: Performance Instalation Colaboration 2022
-intro: A performance within Hacer Agujeros (Fer Forats), emerging from its writing processes in relation to La Rambla and its inhabitants
+intro: A performance within **Hacer Agujeros (Fer Forats)**, emerging from its writing processes in relation to La Rambla and its inhabitants
 
 featured_image: /media/images/Rambla14_titulo.jpg
 

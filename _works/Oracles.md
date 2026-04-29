@@ -1,7 +1,7 @@
 ---
-title: Oracles for Otherings Part II
+title: Oracles
 categories: Instalation Performance Drawings 2023
-intro: A BDSM Oracle, a Trans Oracle and a Drug Tarot were interpreted in three stand resembling a medieval art fair.
+intro: Series of performative and material works within **Spells and Poisons**, exploring collective interpretation and circulation of mystic knowledge
 featured_image: /media/images/Oracles4.jpg
 
 
@@ -10,7 +10,9 @@ home_show: true
 date:  2023-05-24 00:00:00 +0100
 ---
 
-The drawings of this performative exhibition at the MACBA museum were inspired by medieval imagery representing the three thematic oracles sourrounding BDSM practices, Transgender transitions and drug use. The three kiosks enabled performative readings of the future:
+Oracles is a series of works that emerges from the research developed in [Conjuros y Colocones](https://www.christinaschultz.com/works/metzineres/). It engages with practices of interpretation, ritual, and symbolic language as ways of accessing and transmitting embodied knowledge.
+
+Drawing on narratives, experiences, and conversations developed within the Metzineres context, the project reconfigures these materials into a system of signs, images, and performative actions. Moving between fiction and lived experience, Oracles proposes a space where knowledge is not fixed but continuously interpreted and re-articulated.
 
 The Drug Tarot represents 37 archetypes sourrounding situations of drug use. From the spiritual and the high one to the hang over and the lost. You can read about this deck of cards in [Oracles of Otherings Part I](https://www.christinaschultz.com/works/Oracles part I/).
 
