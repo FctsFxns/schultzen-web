@@ -1,7 +1,7 @@
 ---
 title:          Sheets of resistance
 categories: Script Performance Model building Mural
-intro: A communal project about memory and belonging and the Spanish Transition around 1980 in Grácia, BCN.
+intro: A project on memory, belonging, and resistance during the Spanish Transition in Gràcia, Barcelona
 featured_image: /media/images/Llencols1.jpg
 featured_video:
 
@@ -11,8 +11,31 @@ published: true
 date:  2025-06-23 00:00:00 +0100
 ---
 
-Sheets of resistance was conceived in the framework of Murals of Transition, a artistic investigation on the Spanish Transition between 1976 to 1985. In this second edition I was invited by EART and the Neighbourhood Association of Grácia to manifest an investigatio in a mural with people recommended by Social Services of Grácia neighbourhood in Barcelona. During 4 months a group of 7-10 people created a sense of belonging towards the memory of the neighbourhood through poetry and history, fiction writing, modeling and painting. We dedicated the research specifically to the women in resistance during the Spanish transition and ourselves.
-The results are a theater script (performed by the neighbourhood association in honor of women suffering from violence on the 27N), imagining relations and conversations before an act of resistance in 1985. Also build a architectonic model of a public place in Grácia, where all of us could live and finally recreated a mural painting with a message from 1986 that still resonates with us.
+Sheets of Resistance is a collaborative artistic research project developed in the framework of Murals of Transition, an investigation into the Spanish Transition between 1976 and 1985. The project engages with collective memory and neighbourhood belonging in Gràcia, focusing on histories of resistance and their resonance in the present. It centres particularly on the experiences of women during the Transition, connecting these narratives to contemporary lived realities.
+
+**Process**
+
+The project unfolded over four months through a series of hosted encounters with a group of participants from the neighbourhood, brought together in collaboration with local social services and the neighbourhood association of Gràcia.
+
+Through writing, conversation, modelling, and painting, participants developed a shared engagement with the memory of the neighbourhood. The process combined historical research with fictional and poetic writing, allowing personal and collective narratives to intersect.
+
+Grounded in lived experience, the sessions generated a relational body of texts and images that reimagined moments of resistance during the Spanish Transition, while situating them in relation to the present.
+
+**Forms**
+
+The research is translated into performative, spatial, and textual forms:
+
+Script / Performance: a theatrical text imagining conversations prior to an act of resistance in 1985, later performed by members of the neighbourhood association in the context of the 27N (International Day for the Elimination of Violence against Women)
+
+Mural: a reinterpretation of a message from 1986, reactivated in the present through collective painting
+
+Architectural model: a speculative model of a shared public space in Gràcia, conceived as a place of collective inhabitation
+
+These forms do not document the process directly, but re-articulate it through narrative, spatial, and symbolic constructions.
+
+**Context**
+
+The project was developed in Gràcia, Barcelona, in collaboration with EART and the neighbourhood association, and in dialogue with local social and cultural networks. It forms part of a broader investigation into memory, resistance, and the transmission of collective histories across generations.
 
 ![image](/media/images/Llencols2.jpg)
 

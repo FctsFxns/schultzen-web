@@ -1,7 +1,7 @@
 ---
 title: Rambla 14, wandering fragments
 categories: Performance Instalation Colaboration 2022
-intro: is a performance that narrates the experiential change of the residents of the Rambla based on real events throughout the last 50 years.
+intro: A performance within Hacer Agujeros (Fer Forats), emerging from its writing processes in relation to La Rambla and its inhabitants
 
 featured_image: /media/images/Rambla14_titulo.jpg
 
@@ -11,25 +11,29 @@ home_show: true
 date:  2022-07-07 00:00:00 +0100
 ---
 
-This performance simulates a journey through time, starting in the year 1973 passing through the present and arriving in the near future, 2072, where glimpses of the daily life of some neighbours (fictional and real) who inhabit the building on Rambla 14 can be captured. 
+Rambla 14, wandering fragments is a performance that translates the research of [Fer Forats or Making Holes](https://www.christinaschultz.com/works/HacerAgujeros/) into a narrative and performative form.
 
-Starting in front of the building at the [Art Centre Santa Monica](https://artssantamonica.gencat.cat/ca/detall/Rambla-14-fragments-itinerants-en-tres-temps) the audience is guided across the Rambla by two neighbours sharing daily life episodes. After entering the building the audience keeps moving up the stairs to discover seven fictional situations at each floor. 
+The piece draws on writings, conversations, and archival material developed throughout the project, including fictionalised dialogues and testimonies shaped by the lived experience of La Rambla. Professional actors were invited to interpret these collectively produced texts, bringing the voices of the writing process into a staged and embodied form.
 
-The itinerant performance was made possible thanks to the support of the Santa Monica art centre and especially the collaboration of the neighbourhood association SOS Ramblas. 
-During their ongoing activist work to save the Rambla from a detonating gentrification process, they detected a building that is currently half empty and shared in property between the Catalan Government, the Generalitat, and four private owners. 
-The dramatic writings designed for that specific building were conceived by a small group of people, invited to investigate transversal writing. During three months we gathered each Tuesday and wrote dialogs occupying and inhabiting the building with literary characters based on reality. I recommend to check out the complex project [Fer Forats or Making Holes](https://www.christinaschultz.com/works/HacerAgujeros/).
+It traces the transformation of the neighbourhood and its inhabitants over time, reflecting on the gradual disappearance of residential life in a space increasingly defined by tourism and displacement.
 
-The characters were inspired by real people from the present yet also freely interpreted based on 400 love letters from 1973 between a former neighbour of the building next door to Rambla 14 and her fiancé stationed in the Spanish Sahara. 
+Through voice and performative narration, the work stages fragments of these materials, bringing together different temporalities and perspectives into a shared space of listening. Rather than constructing a linear story, the performance assembles dispersed voices, allowing the Rambla to emerge as a layered and contested space.
 
-**The authors**: Christina Schultz, Carlos Clemente, Diego Ballestrini, Mar Merino, Ricardo Cardenas and Aida Gonzalez
+The dramaturgy follows the theatrical score developed in the writing process, translating collective texts into an authored performative structure.
 
-**Facilitators and participants**: Eduard Elias, Ana Moreno and Pep, former and actual neighbours of the Ramblas and Angela, Fernando and Nadia, who sporadically joined the writing sessions (thank you!).
- 
-**The actors**: Carol Muakuku, Cinta Moreno, David Anguera, Gemma Charines and Lisa Reventós.
+**Credits**
 
-Last but not least a *heterotopic* publication was confectionized by and for the Santa Monica Art Centre: six white curtains, printed on them five 10-line-dialogs between the fictional characters of the piece. The curtains are meant to allow to divide the meeting place as needed by the new residents of the Art Centre. Again I recommend to check out the project [Fer Forats or Making Holes](https://www.christinaschultz.com/works/HacerAgujeros/).
+Concept and direction: Christina Schultz
 
-Here are images of the two performances shown in july 2022 extracted from a recording by Carlos Clemente and myself.
+Developed with: Carlos Clemente, Diego Ballestrini, Mar Merino, Ricardo Cardenas, Aida Gonzalez
+
+Participants and collaborators: Eduard Elias, Ana Moreno, Pep (former and current neighbours of La Rambla), Angela, Fernando, Nadia
+
+Performers: Carol Muakuku, Cinta Moreno, David Anguera, Gemma Charines, Lisa Reventós
+
+
+Go back to the project of [Fer Forats or Making Holes](https://www.christinaschultz.com/works/HacerAgujeros/)
+
 
 ![image](/media/images/Rambla14_0Intro1.jpg)
 
@@ -81,5 +85,3 @@ Here are images of the two performances shown in july 2022 extracted from a reco
 
 ![image](/media/images/Rambla14_21dibuix.jpg)
 ![image](/media/images/Rambla14_21dibuix2.jpg)
-
-

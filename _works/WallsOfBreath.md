@@ -1,7 +1,7 @@
 ---
 title:          Walls of Breath - from inside out
 categories: Research Performance Installation Publication
-intro: A poetic investigation about personal intimacy and safe spaces for women in prison
+intro: A translocal artistic research on intimacy, voice, and the construction of safe spaces within and beyond prison environments
 featured_image: /media/images/WallsOfBreath0.jpg
 featured_video:
 
@@ -11,15 +11,35 @@ published: true
 date:  2025-06-23 00:00:00 +0100
 ---
 
-This investigation is a collaborative and international transdisciplinary project about personal intimacy and safe spaces with women in prison. From 2023 to 2026 several poetry writing workshops were held at the female Penitentiary Center Wad Ras in Barcelona, the female JVA Stadelheim in Munich and the female Theatre project Clean Break with HMP Askam Grange in London. Since 2025 the workshops were extended to outside places, such as various Civic Centres in Barcelona and the cultural organization Koesk in Munich. A growing fictional letter-writing movemnet was created that aims to build bridges between people's ideas and concepts about personal intimacy and feeling safe. The project works from inside out, writing letters from the perspectives of intimacy of a Penitentiary environment (the bed, the window, the sheet, the shower) which are given to other people in different contexts. People answer these letters from their own personal intimacy ideas (music, reading, walks, water) and a cross-over dialog happens connecting and disconnecting people, objects, spaces and activities.
+Walls of Breath, from inside out is an ongoing transdisciplinary project (2023–2026) that develops through writing, exchange, and performative translation. It engages with women in prison and outside contexts to explore how intimacy and safety can be imagined, shared, and transformed across distance.
 
-As we build up a corpse of literary intimacy spaces the participants were portrayed during the act of writing as sort of an homage to representing women pursuing intellectual activities. These portraits now form part of a transitable installation that aims to build an ephemeral and vague space of intimacy - as vague and diffuse as our ideas and concepts of personal safe spaces.
+**Process**
 
-The project counts with the performance AIXOPLUC, a video-installation and a series of 12 fotographs.
+The project unfolds through a series of writing encounters developed in different locations, including the Penitentiary Centre Wad Ras in Barcelona, JVA Stadelheim in Munich, and Clean Break / HMP Askham Grange in London. At its core is a fictional letter-writing process: participants write from intimate perspectives shaped by their environments—such as the bed, the window, or the shower—and these letters circulate across contexts. Others respond from their own lived experiences, creating an ongoing exchange that connects and displaces notions of intimacy, safety, and space. Through this process, a shared yet fragmented body of texts emerges, forming a network of voices that are relational rather than unified.
 
-These outcomes were installed seperately at the Biennale L'Andart 25 in Andorra, the Civic centers of Can Basté, Torre Baró and Sagrada Familia in Barcelona as well as at the artist residency Villa Waldberta in Munich.
+The project operates through acts of hosting, creating situations where encounters take place across separation and difference. Grounded in lived experience, these exchanges develop through shared conditions and are shaped by trust, distance, and translation.
 
-The project awaits to present the whole of its outcomes in 2027 at the Felicia Fuster Foundation in Barcelona.
+**Forms**
+
+The research is translated into a series of artistic forms, including:
+
+Performance: [Aixopluc](https://www.christinaschultz.com/works/aixopluc/).
+
+Installation: a series of 18 portraits sewn onto transparent organza sheets
+
+Photography: a series of 12 images developed in relation to the performance
+
+Text: letters and readings emerging from the writing processes
+
+These works do not document the process directly but re-articulate it through distinct formal languages.
+
+**Context**
+
+The different forms have been presented across contexts including Barcelona, London, Munich, and Andorra, and developed in dialogue with institutional and independent partners. The project has also been part of a residency at Villa Waldberta in Munich.
+
+A complete exhibition / presentation of Walls of Breath, from inside out is planned for 2027 at the Felica Fuster Foundation in Barcelona.
+
+
 
 ![image](/media/images/WallsOfBreath1.jpg)
 

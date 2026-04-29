@@ -1,7 +1,7 @@
 ---
 title: Aixopluc
 categories: Performance Instalation
-intro: A performative lecture about intimacy and safe spaces for women in prison
+intro: A performance about intimacy and safe spaces for women in prison within Walls of Breath, from inside out
 featured_image: /media/images/Aixopluc0.jpg
 
 published: true
@@ -10,26 +10,28 @@ home_show: true
 date:  2025-12-30 00:00:00 +0100
 ---
 
-AIXOPLUC is a performance about safe spaces and a sense of security for women in prison. It explores protection within a system of limitation, breath within walls, and the inner spaces that can emerge despite external confinement.
+Aixopluc is a text based performance that translates the research of [Walls of breath, from inside out](https://www.christinaschultz.com/works/WallsOfBreath/) into an embodied and narrative form.
 
-The title plays with shifts in perspective—inside and outside, visibility and reversal. At its core lies the question: Where does safety arise when freedom is restricted? And how can a sense of security be imagined in a context shaped by control and isolation?
+The work engages with questions of intimacy and the construction of safe spaces within contexts shaped by restriction. It reflects on how a sense of protection can emerge within systems of control, and how inner spaces are formed in relation to external limits.
 
-The performance is part of the transdisciplinary project WALLS OF BREATH – from inside out by Christina Schultz. The project brings together performance, installation, text, and photography, engaging artistically with imprisonment, the body, breath, and spaces of resonance.
+Through voice, text, and performative narration, Aixopluc stages fragments of the project’s writing processes. Voices and texts emerging from different encounters are re-articulated and brought into a shared space of listening, where proximity is produced through language.
 
-AIXOPLUC was created during Christina Schultz’s residency as an artist-in-residence at Villa Waldberta of the City of Munich.
+The performance was developed from earlier research phases and took its final form during the artist residency at Villa Waldberta in Munich.
 
-Open Studios at Villa Waldberta, artist residency of Munich – March 21, 2:00–7:00 pm
-Performance at 4:00 pm, reading at 5:00 pm
+It has been presented alongside other forms of the project, including installation, photographic works, and readings of participant texts.
 
-As part of the Open Studios, additional works from WALLS OF BREATH – from inside out will be presented alongside the performance:
-● an installation
-● photographic works
-● as well as a reading featuring letters from the writing workshop at KÖSK, in which participants will read their own texts or make them available to be read
+Back to project [Walls of breath, from inside out](https://www.christinaschultz.com/works/WallsOfBreath/)
 
+**Credits**
 
-The first idea of the performance was developed in residency at [CeRRCa](https://www.cercca.cat/) at Llorenç del Penedés and the [Grand Tour 2023](https://elgrandtour.net/en/) by Nau Côclea and Clara Garí and found its final form during the artist residency of Villa Waldberta.
+Concept and direction: Christina Schultz
 
-All pictures were taken
+Developed with: Centre Penitenciari Wad Ras, Barcelona, Kunstlabor Kösç, Dona i Presó
+
+Musicians: Manuela Rzytki, Jordi Rallo
+
+Participants and collaborators: Petronilia, Montserrat, Elisabet, Esperanza, Mercedes, Stefania, Estela, Jennifer, Carmen, Silvia, Mirela, Tabata, Guadalupe and Cristina, Fatima, Saida, Yanira, Gisela, Andrea, Cynthia, Noemí, Marisa, Kamila, Belén, Natalya, Saliha, Montse, Nuria, Sonia, Olga, Eva, Maite, Annie, Julie, Maite, Rosa, Ana, Txus, Irina, Aisa, Jasmin
+
 
 ![image](/media/images/AixoplucPerform1.jpg)
 
@@ -53,4 +55,4 @@ Pics by CC Sagrada Familia
 
 ![image](/media/images/AixoplucNEW3.png)
 
-Pics by Villa Waldberta
+Pics by @FedericoPedrotti
