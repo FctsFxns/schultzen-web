@@ -1,7 +1,7 @@
 ---
 title: Aixopluc
 categories: Performance Instalation
-intro: A performance about intimacy and safe spaces for women in prison within Walls of Breath, from inside out
+intro: A performance about intimacy and safe spaces for women in prison within **Walls of Breath, from inside out**
 featured_image: /media/images/Aixopluc0.jpg
 
 published: true
