@@ -12,7 +12,7 @@ date:  2022-02-02 00:00:00 +0100
 
 ![image](/media/images/hacerAgujeros1.jpg)
 
-Hacer Agujeros is a collaborative artistic research project developed through transversal writing processes in relation to La Rambla in Barcelona.
+Fer Forats or Making holes is a collaborative artistic research project developed through transversal writing processes in relation to La Rambla in Barcelona.
 
 The project engages with the Rambla as a contested and transformed space—marked by tourism, displacement, and the gradual disappearance of its residents. Through writing, it seeks to reopen the Rambla as a lived environment and a shared space of imagination.
 
