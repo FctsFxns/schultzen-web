@@ -1,7 +1,7 @@
 ---
 title:          Utopian Almanack
 categories: Publication Video Collage
-intro: This visionary calendar is the result of reflection on the origins of our measures of time and our future.
+intro: A collective publication constructing speculative futures through situated knowledge and shared imagination.
 featured_image: /media/images/UtopianAlmanack0.jpg
 featured_video:
 
@@ -11,15 +11,52 @@ published: true
 date:  2025-01-31 00:00:00 +0100
 ---
 
-An almanack is a calendar, a popular encyclopaedia, a practical and poetic guide that shares recipes, proverbs, important dates, and other knowledge to face daily life. Its visions and predictions for the future aim to engage in our destiny and thus influence the course of life, including those who dwell on the margins, on the borderlines.
+Utopian Almanack is a collaborative publication that takes the form of a calendar, reimagining time as a space of speculation, prediction, and collective projection.
 
-In this calendar in three languages (Catalan, Spanish and English) you will find a compilation of poetic predictions, celestial events in the Mediterranean, and some unique holidays for the next 50 years (from 2024-2074). In addition to no-kitchen recipes and urban proverbs, Raval-style. All of this was created through the collaborative effort of participants and workers from the Metzineres, through the proposal of the artist Christina Schultz.
+Drawing on the structure of traditional almanacs—combining practical knowledge, poetic language, and future-oriented thinking—the work reflects on how systems of time are constructed and how they shape our understanding of the present and the future.
 
-A series of drawings by the artist of geometric watches (original drawings are black ink on A4 Art paper) dialogue with 12 collages representing desires of the participatimg person.
+Developed in collaboration with participants from Metzineres, the project proposes alternative temporalities grounded in lived experience, particularly from positions situated at the margins.
+
+**Process**
+
+The project unfolds through a series of hosted encounters, in which participants engage in writing, reflection, and speculative exercises.
+
+Together, they generate predictions, proverbs, recipes, and fictional future events, constructing a shared body of knowledge that moves between imagination and lived reality. These contributions are not unified into a single narrative but remain plural, reflecting different perspectives and experiences.
+
+Through this process, hosting becomes a way of producing time collectively—allowing alternative futures to emerge from situated voices.
+
+**Forms**
+
+The research is translated into a publication that operates across visual and textual forms:
+
+Almanack / calendar: a trilingual publication (Catalan, Spanish, English) presenting predictions, celestial events, and fictional holidays spanning the years 2024–2074
+
+Drawings: a series of geometric clock-like images by the artist, reflecting on systems of time and measurement
+
+Collages: visual compositions developed from participants’ desires and projections, forming a speculative archive of future imaginaries
+
+These elements operate together as a temporal device, combining narrative, visual, and speculative structures.
+
+**Context**
+
+The project was developed in collaboration with Metzineres in Barcelona and forms part of a broader inquiry into marginalised knowledge, collective imagination, and alternative ways of constructing reality.
+
+It extends the artist’s practice into the field of publication as a space for hosting, narration, and the circulation of shared visions.
+
+**Credits**
+
+Concept and direction: Christina Schultz
+
+Developed in collaboration with: Metzineres
+
+Participants and collaborators: members of the Metzineres community
+
+**Archive**
+
+A complete selection of the collages developed for this project can be accessed [here](http://Metzicollage.christinaschultz.com/).
+
 
 ![image](/media/images/UtopianAlmanack1.jpeg)
-
-You can find the entire collages made for this project on [this website](http://Metzicollage.christinaschultz.com/).
 
 ![image](/media/images/UtopianAlmanack2.jpeg)
 ![image](/media/images/UtopianAlmanack3.jpeg)
