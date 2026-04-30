@@ -18,7 +18,7 @@ Todos los productos de esta tienda son **impresiones** de obras originales hecha
 
 #### Utopian Almanack / Almanaque Utopico / Almanac Utopic
 
-[![Tarot de Drogas](/media/images/DrugTarot1.jpg)](/UtopianAlmanack)
+[![Tarot de Drogas](/media/images/AlmanaqueShop1.png)](/shop-UtopianAlmanack)
 
 #### The Drug Tarot / Tarot de Drogas /Tarot de Drogues
 
