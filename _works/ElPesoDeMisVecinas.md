@@ -1,27 +1,80 @@
 ---
 title: El Peso de mis Vecinas
 categories: Investigation Song 2018
-intro: The Weight of my Neighbours is a project about the marginality and migration of my moroccan neighbours in Barcelona and at the Melilla border through poetry and song.
+intro: A project on voice, proximity, and the shared weight of lived experience within cross-border neighbourhood contexts
 featured_image: /media/images/3PesoVecinas.jpg
 
 
 published: true
 home_show: false
-date:  2018-01-01 00:00:00 +0100
+date:  2019-04-04 00:00:00 +0100
 ---
-'The weight of my neighbors' began in march 2017, as a study on the marginality and migration of Moroccan women and on the possibility of poetry and singing as narrative tools.
+El Peso de Mis Vecinas is an artistic research project that engages with women whose lives are shaped by cross-border movement and informal labour, particularly in relation to practices of carrying goods across borders.
 
-This artistic project has investigated the female activity of the Moroccan migrant and marginalized community of the Born neighbourhood in Barcelona and the female cartes of the spanish border with Melilla, and of the possibility of singing and poetry as strategic tools.
+The project explores how these forms of labour—often invisible, precarious, and physically demanding—produce specific conditions of proximity, where relationships are formed through shared routes, risks, and experiences.
 
-The research is based on the collective ability of Moroccan women to compose and sing biographical verses and inquires about the relations of closeness, proximity, distance and encounter that occur between women.
+The notion of “weight” operates both literally and metaphorically: referring to the physical burden of transported goods, as well as the emotional, social, and political dimensions carried by those who perform this labour.
 
-The narratives about the border lives of our neighbors were woven through daily activities such as cooking, singing and gossiping and were interpreted with songs, drawings and recipes poems.
+Through the project, these experiences are articulated not only through speech but through singing, allowing personal and collective narratives to emerge in embodied and rhythmic forms.
 
-the results of the project were a solo exhibition during june and july at the gallery space of [Piramidón art center](http://www.piramidon.com/es/artistas/residentes/173-christina-schultz), a publication financed by LaCapella and a oral performance 'The voices of trabando' presented as final tesis of the Independent Study Program (PEI) at the MACBA (museum of contemporary art in Barcelona). Also various performatic events, such as a cooking workshop at Fundación Comtal, a singing intervention at Idensidades /Espei E and a performance at 365 ehibition in Viena.
+Developed through close engagement with these contexts, the project also reflects on the position of the artist, for whom hosting becomes a process of learning—shaped by existing forms of care, exchange, and mutual support.
 
-The investigation of this project is made possible especially by a grant from [Barcelona Producció 2017/2018](http://lacapella.barcelona/en/el-peso-de-mis-vecinas-presentation-and-exhibition-drawings) by La Capella and the [PEI study program](https://www.macba.cat/). It was also supported vitally by Pau Cata and the artistic residency [CeRRCa](https://cercca.com/), Jiwar, creació i societat, the artist residency in Marrakech [Le18](https://le18marrakech.com/objects-desires/?v=7516fd43adaa), Institut Ramón Llull and [Nau Côclea](http://naucoclea.net/) in Camallera.
+The project builds on earlier research into the circulation and meaning of objects across borders, particularly [Objects and Desires](https://www.christinaschultz.com/works/ObjectsAndDesires/), which explores value and desire through objects moving between Spain and Morocco.
 
-The opening of the exhibition of drawings and a wallpainting and the official presentation of the publication.
+**Process**
+
+The project unfolds through periods of cohabitation developed in relation to these cross-border dynamics.
+
+Living alongside the participants, the artist enters existing networks of relation shaped by movement, labour, and survival. These shared conditions create a space of proximity in which experiences are exchanged not only through conversation, but through everyday coexistence.
+
+In parallel, cooking sessions developed in collaboration with Fundació Comtal created additional spaces of encounter with Moroccan women living in Barcelona, where practices of sharing, care, and daily exchange became part of the project’s methodology.
+
+Through listening, conversation, and collective singing, participants articulate fragments of their lived experience. Singing becomes a central method, allowing experiences to be expressed through rhythm, repetition, and breath, beyond purely verbal language.
+
+These voices are not stabilised into fixed accounts, but remain multiple, embodied, and in transformation.
+
+In this context, hosting is not imposed but learned: it emerges through the negotiation of presence, trust, and proximity within already existing forms of exchange, support, and interdependence.
+
+**Form**
+
+The research is translated into performative, visual, and narrative forms:
+
+A performance: Las voces de mis vecinas stages fragments of the collected voices through singing, performative narration, and vocal composition
+
+Drawings: series of 18 white-on-black ink drawings that translate the shared experiences into visual forms, condensing gestures, movements, and emotional states into symbolic compositions
+
+Animation documentary (12 min): an unpublished short film structured as a musical composition, in which the songs and drawings developed during the research become the primary narrative material.
+
+Notebook: a working and narrative space in which fragments of text, reflections, and observations are gathered, tracing the development of the project and its encounters
+
+A publication: structured through the format of recipes, bringing together songs, writings, and narratives as scores for transmission. Developed through the encounters, it reconfigures lived experiences into instructional and poetic forms, articulating a multiplicity of voices and their resonance.
+
+These forms do not document the encounters directly, but re-articulate them across different media: voice, image, and writing; allowing experiences to remain open, embodied, and in transformation.
+
+**Context**
+
+The project was developed in dialogue with women engaged in cross-border practices of carrying goods, forming neighbourhood relations that extend beyond fixed geographic boundaries.
+
+It forms part of a broader inquiry into how voice constructs relational space, and how neighbourhood can be understood as a network of lived connections shaped by movement, labour, and shared conditions.
+
+The work was presented in different contexts, including exhibitions and performances at [Piramidón art center](http://www.piramidon.com/es/artistas/residentes/173-christina-schultz), MACBA, Festival Errant, the Museu de Sant Pol de Mar, and internationally at 365 Gallery in Viena.
+
+The project received support from the Generalitat de Catalunya and the PEI Program MACBA.
+
+**Credits**
+
+Concept and direction: Christina Schultz
+
+Developed in collaboration with: Nadia, Aisha, Fatima, Zhor, Sahra, Mileda, Hafeda, Regina, Stti
+
+In collaboration with: Fundació Comtal
+
+**Support**
+
+The investigation of this project was made possible by the [Barcelona Producció 2017/2018 grant](http://lacapella.barcelona/en/el-peso-de-mis-vecinas-presentation-and-exhibition-drawings) and the [PEI study program by MACBA](https://www.macba.cat/).
+
+The project was further supported by Pau Cata, as well as through residencies and collaborations with [CeRRCa](https://cercca.com/), Jiwar Creació i Societat, [Le18](https://le18marrakech.com/objects-desires/?v=7516fd43adaa) in Marrakech, the Institut Ramon Llull, and [Nau Côclea](http://naucoclea.net/).
+
 
 ![image](/media/images/4PesoVecinas.jpg)
 
@@ -67,9 +120,4 @@ Both of the travels were made by boat, minimum 25 timeless hours floating slowly
 
 ![image](/media/images/11PesoVecinas.jpg)
 
-As I said in the beginning, this is a multiple formated narrative with many things to talk and think about. I am working on the posibility to produce a audiovisual format. If you want contribute in whatever way, let me know.
-
 ![image](/media/images/12PesoVecinas.jpg)
-
-
-[This is the project's instagram ](https://www.instagram.com/schultz_and_more/)   
