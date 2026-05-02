@@ -1,7 +1,7 @@
 ---
 title: Piratas Profetas Parasitoides
 categories: laboratory performance fanzine
-intro: This is an experimental workshop in colaboration with Daniel Canet to reconfigure our digital identities and play with social media platforms.
+intro: A project on digital identity, value, and the translation of online life into performative and material forms.
 featured_image: /media/images/PPPthink2.jpg
 
 
@@ -9,14 +9,47 @@ published: true
 home_show: false
 date:  2018-10-26 00:00:00 +0100
 ---
-This workshop/laboratory, in colaboration with Daniel Canet, software engineer, was held during three practice and theory based sessions at [Hangar](https://hangar.org/es/publicacions/ppp/) and presented it's experiments during the fourth date in form of a performative internet flea market, inspired by the concept of [Yami-Ichi](http://yami-ichi.biz/) at Sala Ricson, Hangar. We were also proud to hace Violeta Mayoral as a special guest to talk about her [no-face project](https://www.instagram.com/thenoface_project/).
 
-As a result of the three sessions the participating group presented their digital life hacks brought to physical existence, prints, performances and games, mixed with 'pongos', a spanish word for useless objects you don't dare to throw away. Everything was on sale.
-During the event, a huge ham was to be conquered by posting a picture with it on Instagram.
-The result was a fanzine of 40 pages reflecting the experiments and thoughts inspired by the workshop. You can consult it online on [Hangar's site for publications](https://hangar.org/es/category/publicacions/)
+Piratas Profetas Parasitoides is an artistic research project developed in collaboration with Daniel Canet, exploring how digital identities are constructed, performed, and circulated across online and physical environments.
 
+The project engages with the instability of digital self-representation, approaching identity as a mutable and hackable structure. It reflects on how personal data, online behaviors, and symbolic gestures can be reconfigured, appropriated, and materialised.
 
-The workshop was comunicated through mostly private social media platforms and by analog posters on the streets of Barcelona.
+Rather than treating the digital as immaterial, the work proposes a translation into physical and performative forms, exposing the economies, desires, and absurdities embedded in online life.
+
+**Process**
+
+The project unfolds through a series of laboratory sessions combining practical experimentation and theoretical reflection.
+
+Participants are invited to analyse, manipulate, and reconfigure their digital identities, generating what are described as “digital life hacks.” These processes explore how online personas can be altered, exaggerated, or subverted.
+
+Through collective experimentation, digital behaviours are translated into physical actions, objects, and performative gestures, creating a space where online and offline logics intersect.
+
+**Forms**
+
+The research is translated into performative, material, and editorial forms:
+
+Performative flea market: an event inspired by [Yami-Ichi](http://yami-ichi.biz/), where digital identities and practices are transformed into physical objects, actions, and exchanges. Participants present and sell their “hacks,” mixing performances, games, and objects
+
+Material artefacts: prints, objects, and hybrid items emerging from digital practices, including so-called pongos (objects of uncertain value, kept despite their uselessness)
+
+Publication (40 pages): [a fanzine](https://hangar.org/es/publicacions/ppp/) compiling the experiments, reflections, and visual material developed during the project, functioning as both archive and narrative device
+
+These forms operate as a system of translation, in which digital life is materialised, performed, and circulated through alternative economies of exchange.
+
+**Context**
+
+The project was developed at [Hangar](https://hangar.org/es/publicacions/ppp/) through a series of workshops and presented at Sala Ricson as a performative event inspired by [Yami-Ichi](http://yami-ichi.biz/).
+
+It forms part of a broader inquiry into identity, value, and the circulation of meaning across digital and physical environments.
+
+**Credits**
+
+Concept and direction: Daniel Canet and Christina Schultz
+
+Collaborators: [Violeta Mayoral](https://www.instagram.com/thenoface_project/) and Hangar
+
+Participants: Susanna Rodilla, Estel Cristiá, Mar Merino, David Esteve, Marijn Bril, Gemma Tramullas, Helena Vinent, Tirso Orive Liarte, Carmen Hurtado, Anna Iau, Ricardo Padin
+
 
 ![image](/media/images/PPP.jpg)
 

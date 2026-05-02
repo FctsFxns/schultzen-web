@@ -1,19 +1,56 @@
 ---
 title: Tomatl - the red gold
 categories: Performance Drawings 2018
-intro: Tomatl - the red gold was a performance about the historic and contemporary cultivation and consumption and the political circumstances of the tomato fruit.
+intro: A project on food, value, and the political economies embedded in everyday consumption
 featured_image: /media/images/Tomatl13a.jpg
 
 
 published: true
 home_show: false
-date:  2018-08-17 00:00:00 +0100
+date:  2019-03-30 00:00:00 +0100
 ---
-This performance was part of the [Grand Tour 18](http://www.elgrandtour.net/) by Clara Garí and [Nau Côclea](http://naucoclea.net/) as goal of the fourth stage towards [CeRRCa](https://cercca.com/), the artist residency at Llorenç del Penedés.
-It was narrated through a series of 37 acrylic ink drawings of different tomatoes and the preparation of 12 tomato preserves. The tomatoes used for preservation were a donation of Rose’s orchard, one of the four sisters born at the village house that is now an artist residency directed by Pau Cata Marlés.
+Tomatl - The Red Gold is an artistic research project that explores the tomato as a global commodity, tracing its historical and contemporary conditions of cultivation, circulation, and consumption.
 
-Tomatl is the original name of a fruit that was brought to Europe through bloody colonisation as a souvenir and became one of the most efficient and unscrupulous cultivations of our times. The performance questions the doubtful idea of identity and nationality of the tomato and brings back to mind our tendencies to enslave workers. The preservation and cultivation of vegetables in an orchard is presented as a deeply political act and putting it into practice as a possible way to make a counter-capitalist statement and be better humans.
-Thanks to all the participants, guests and supporters of this project.
+The project questions the unstable notions of identity and nationality attached to the tomato a common food item and a highly politicised object, shaped by systems of labour, trade, and industrial agriculture. Through its trajectories, the work reflects on how everyday consumption is embedded in complex networks of extraction, migration, and economic value.
+
+The term “red gold” points to the tomato’s status as a commodity whose production involves invisible forms of labour and uneven global relations.
+
+**Process**
+
+The project unfolds through research into the historical, economic, and social conditions surrounding tomato production and distribution.
+
+This includes an investigation of agricultural practices, labour structures, and global trade systems, as well as the cultural meanings attached to the tomato across different contexts.
+
+Rather than presenting this information directly, the project was conceived through a workshop focused on the preparation of tomato preserves (conservas), engaging participants in collective practices of cultivation, transformation, and care.
+
+This process connects everyday domestic actions with broader questions of labour, sustainability, and political responsibility, situating food preparation as both a practical and critical activity.
+
+**Forms**
+
+The research is translated into performative, visual, and material forms:
+
+Performance — a live work structured through narration, the preparation of tomato preserves, and the activation of visual material
+Drawings (series of 37) — acrylic ink drawings of different tomatoes, forming a visual sequence through which the narrative of the performance unfolds
+Conservas (12 tomato preserves) — produced during the process and activated within the performance, reflecting practices of preservation, care, and transformation
+
+These forms operate together as a narrative and material system, in which cultivation, representation, and preservation intersect.
+
+**Context**
+
+The project was developed as part of a broader inquiry into value, material culture, and the political dimensions of everyday objects.
+
+It connects to other works exploring circulation and exchange, such as Objects and Desires, extending this investigation into the field of food and agriculture.
+
+**Context**
+
+The performance was developed as part of the [Grand Tour 18](http://www.elgrandtour.net/), curated by Clara Garí, as the fourth stage of a trajectory towards [CeRRCa](https://cercca.com/).
+
+
+**Credits**
+
+Concept and direction: Christina Schultz
+
+Collaborators: The tomatoes used for the preserves were donated by Rose’s orchard, linked to the house that now hosts the residency directed by Pau Cata Marlés.
 
 Some of the drawings
 
