@@ -1,7 +1,7 @@
 ---
 title: Perra Perdida
 categories: Project Performatic Cinematic Collage 2016
-intro: A guided performatic tour on loss, abandoned and forgotten. Presented in public in the context of the project **Disturbing Distribution** by Francesc Ruiz.
+intro: A performative guided tour on loss, disappearance, language and the activation of forgotten histories of communication, sexuality, and public life.
 featured_image: /media/images/SalaXFeatured1.jpg
 
 
@@ -10,15 +10,41 @@ home_show: true
 date:  2016-07-21 00:00:00 +0100
 ---
 
-Disturbing Distribution is a set of interventions around circuits, flows and distribution system in the central square of barcelona, the Plaza Catalunya.
+Perra Perdida is a site-specific performative tour that unfolds through a sequence of urban locations in Barcelona marked by disappearance, displacement, and layered histories.
 
-Sala X - PERRA PERDIDA is a performatic mental and fisical walk on loss, porn and cinema at the Plaza Catalunya. We invite you to meet with “Perra Perdida” the 21st of july at 20h at the last remaining public telephone cell at the Plaza Catalunya, as is anounced by this flyer at the surroundings the days before.
+The tour begins at one of the last remaining public telephone booths in Plaça Catalunya—an obsolete infrastructure on the verge of removal—and continues through underground spaces: a former commercial gallery now absorbed into the metro system, and a disused cinema that survives as part of the public transport network. These sites are activated as carriers of memory, revealing how urban space holds traces of what has been erased or transformed.
 
-The additional events take place during 19h and 22h and th einformation will be distribuited the very same day at the tourist information point at Plaza Catalunya.
+The title Perra Perdida (lost bitch / lost dog) introduces a double meaning that connects abandonment, gendered language, and sexuality. It refers to the past use of the underground cinema for pornographic screenings, bringing into play suppressed histories of desire and marginal public cultures embedded in the city.
 
-Intervening artist are: Onofre Bachiller, Berta Canela, Sonia Fernández Pan – Paco Chanivet , Carlota Fuentevilla, Carmen Hurtado, Anna Pahissa, Francesc Ruiz, Christina Schultz, Jordi Vernis, Helena Vinent - Joan Palle
+**Process**
 
-with the colaboration of Núria Gómez, Ariadna Guiteras, Anna Irina Limia and Xavi Ristol.  
+The project originates in a workshop led by Francesc Ruiz at Hangar, where participating artists developed works in relation to Plaça Catalunya in Barcelona.
+
+Within this framework, Perra Perdida was conceived as a site-specific response, focusing on spaces surrounding the square marked by disappearance, transformation, and overlooked histories.
+
+The project unfolds as a guided performative walk led by the artist.
+
+Through narration, movement, and pauses, the tour creates a shared situation in which participants collectively engage with the spaces and their latent histories. The artist operates as host and narrator, structuring proximity and attention while allowing multiple interpretations to emerge.
+
+Rather than reconstructing a fixed narrative, the work activates fragments—spatial, linguistic, and historical—placing them in relation through the act of walking together.
+
+**Forms**
+
+Guided performative tour: a live, site-specific walk connecting a telephone booth, underground passages, and a former cinema, activated through narration and collective movement
+
+Publication: a booklet listing titles of historical pornographic films, functioning as an alternative archive of the cinema’s erased programme
+
+Flyers: distributed in the format of lost-and-found animal posters, circulating the project in public space and echoing its themes of disappearance, misplacement, and language
+
+These forms extend the project beyond the walk, creating different modes of circulation and engagement.
+
+**Context**
+
+The project was presented in the framework of Perturbating Distribution, curated by [Francesc Ruiz](http://francescruiz.com/).
+
+**Credits**
+
+Concept and direction: Christina Schultz
 
 
 ![image](/media/images/SalaX5.jpg)
@@ -31,7 +57,7 @@ Abandoned telephone cell with lost dog search paper.
 
 ![image](/media/images/SalaX1.jpg)
 
-Poster of Lost Doggie.
+Poster of lost doggie.
 
 ![image](/media/images/SalaX7.jpg)
 
