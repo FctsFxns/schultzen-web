@@ -6,7 +6,7 @@
 {% endif %}
 
 <h3><a href="{{ work.url | prepend: site.baseurl }}">{{ work.title }}</a></h3>
-{{ work.intro | markdownify }}
+{{ work.intro | default: "" | markdownify }}
 
 {% if work.home_call %}
   <p><a class="more" href="{{ work.home_url }}">{{ work.home_call }}</a></p>
