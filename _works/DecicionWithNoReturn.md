@@ -2,7 +2,7 @@
 title: Decision with no Return or A Sense of Territory
 categories: A project on territory, political rupture of Br-exit, and the construction of identity through fiction and evidence.
 featured_image: /media/images/DistributionNoReturnII.jpg
-
+intro: Decision with no Return or A Sense of Territory is a video and installation piece, an investigative detective story on the new relationship between England and Europe after Brexit.
 
 published: true
 home_show: true
