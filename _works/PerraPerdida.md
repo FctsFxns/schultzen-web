@@ -1,16 +1,16 @@
 ---
-title: PERRA PERDIDA
+title: Perra Perdida
 categories: Project Performatic Cinematic Collage 2016
-intro: PERRA PERDIDA is a guided performatic tour on loss, abandoned and forgotten. Presented in public in the context of the project **Disturbing Distribution** by Francesc Ruiz.
+intro: A guided performatic tour on loss, abandoned and forgotten. Presented in public in the context of the project **Disturbing Distribution** by Francesc Ruiz.
 featured_image: /media/images/SalaXFeatured1.jpg
 
 
 published: true
-home_show: false
+home_show: true
 date:  2016-07-21 00:00:00 +0100
 ---
 
-'Disturbing Distribution' is a set of interventions around circuits, flows and distribution system in the central square of barcelona, the Plaza Catalunya.
+Disturbing Distribution is a set of interventions around circuits, flows and distribution system in the central square of barcelona, the Plaza Catalunya.
 
 Sala X - PERRA PERDIDA is a performatic mental and fisical walk on loss, porn and cinema at the Plaza Catalunya. We invite you to meet with “Perra Perdida” the 21st of july at 20h at the last remaining public telephone cell at the Plaza Catalunya, as is anounced by this flyer at the surroundings the days before.
 
