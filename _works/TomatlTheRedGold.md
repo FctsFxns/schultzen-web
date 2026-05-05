@@ -1,7 +1,7 @@
 ---
 title: Tomatl - the red gold
 categories: Performance Drawings 2018
-intro: A project on food, value, and the political economies embedded in everyday consumption
+intro: A project on food, value, and the political economies around the world embedded in everyday consumption.
 featured_image: /media/images/Tomatl13a.jpg
 
 

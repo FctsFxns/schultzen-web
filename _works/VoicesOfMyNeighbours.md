@@ -1,7 +1,7 @@
 ---
 title: The Voices of my Neighbours
 categories: Investigation Song 2018
-intro: Performance and animated documentary within **El Peso de Mis Vecinas**, translating lived experience into vocal, performative and musical form.
+intro: Performance and animated documentary within **El Peso de Mis Vecinas**, translating lived experience into vocal and performative form.
 featured_image: /media/images/VoicesVecinas5.png
 
 

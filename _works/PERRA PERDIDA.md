@@ -1,7 +1,7 @@
 ---
-title: Sala “X” con PERRA PERDIDA
+title: PERRA PERDIDA
 categories: Project Performatic Cinematic Collage 2016
-intro: Sala “X” PERRA PERDIDA is a guided performatic tour on loss, abandoned and forgotten. Presented in public in the context of the project "Perturbating Distribution" by Francesc Ruiz.
+intro: PERRA PERDIDA is a guided performatic tour on loss, abandoned and forgotten. Presented in public in the context of the project "Perturbating Distribution" by Francesc Ruiz.
 featured_image: /media/images/SalaXFeatured1.jpg
 
 
