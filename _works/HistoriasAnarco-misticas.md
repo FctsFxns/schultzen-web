@@ -9,7 +9,7 @@ published: true
 home_show: true
 date:  2021-11-21 00:00:00 +0100
 ---
-'Anarco-mistical Herstories' (Historias Anarco-misticas) is a performance that emerges from the research developed in [Conjuros y Colocones](https://www.christinaschultz.com/works/metzineres/), engaging with embodied knowledge, care practices, and alternative forms of healing.
+Anarco-mistical Herstories (Historias Anarco-misticas) is a performance that emerges from the research developed in [Conjuros y Colocones](https://www.christinaschultz.com/works/metzineres/), engaging with embodied knowledge, care practices, and alternative forms of healing.
 
 The piece draws on narratives, conversations, and texts developed through the encounters at [Metzineres, shelter for women who use drugs and survive violences](http://metzineres.net/), where experiences related to drug use, pleasure, dependency, and survival are shared and transformed. These materials move between testimony, fiction, and ritual language, forming the basis of the performance.
 

@@ -27,11 +27,11 @@ In parallel, the artist collects and constructs physical “evidence” from the
 
 The research is translated into audiovisual, material, and visual forms:
 
-Video (8 min) — a mashup composed of 49 different sources, assembling a fictional detective narrative in which iconic characters investigate the consequences of Brexit
+Video (8 min): a mashup composed of 49 different sources, assembling a fictional detective narrative in which iconic characters investigate the consequences of Brexit
 
-Physical clues — objects collected and presented as evidence, including toy bullet cases, empty nitrous oxide cartridges, and traces of DNA, forming a speculative crime scene
+Physical clues: objects collected and presented as evidence, including toy bullet cases, empty nitrous oxide cartridges, and traces of DNA, forming a speculative crime scene
 
-Paintings (series of 9) — small acrylic canvases depicting question marks, functioning as visual markers of uncertainty and unresolved meaning
+Paintings (series of 9):small acrylic canvases depicting question marks, functioning as visual markers of uncertainty and unresolved meaning
 
 These elements operate together as an investigative system, where narrative, material traces, and symbolic forms construct a fragmented understanding of territory and decision.
 
@@ -45,7 +45,7 @@ Credits
 
 Concept and direction: Christina Schultz
 Music: [Mirim Casal Madinabeita](https://www.facebook.com/Ea7_dmZ-290629557628051/)
-Hommage to: 'Why can't we live together' by Timmy Thomas
+Hommage to: Why can't we live together by Timmy Thomas
 
 
 ![image](/media/images/DistributionNoReturnI.jpg)
