@@ -1,7 +1,7 @@
 ---
 title: Limbic Trilogy
 categories:  Projects Performatic Cinematic Collage 2014
-intro: A cycle of live audiovisual performances exploring desire, emotional projection, and sensory excess through collage, animation, and real-time image-making
+intro: A cycle of audiovisual performances exploring desire, emotional projection, and sensory excess through real-time image-making
 featured_image: /media/images/LimbicLovePerformance.jpg
 
 published: true

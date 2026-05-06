@@ -1,7 +1,7 @@
 ---
 title: Who is she?
 categories: Performatic Cinematic Collage 2012
-intro: a performance exploring autobiographical projection, identity, and emotional transformation through animation and performative image-making.
+intro: A performance exploring autobiographical projection, identity, and emotional transformation through performative animation
 featured_image: /media/images/WhoIsShe.jpg
 
 published: true
