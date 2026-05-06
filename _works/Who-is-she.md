@@ -6,7 +6,7 @@ featured_image: /media/images/WhoIsShe.jpg
 
 published: true
 
-date:  2014-12-31 00:00:00 +0100
+date:  2014-9-31 00:00:00 +0100
 ---
 Who is She? is a live audiovisual performance developed as an autobiographical and cathartic investigation into the unstable construction of identity.
 
