@@ -44,7 +44,7 @@ A local Spanish landline number and a classified advertisement published under �
 
 A written manifesto proposing “doing nothing” as a collective and political gesture, distributed as a textual intervention and public statement within the broader research framework of the laboratory.
 
-**I Would Prefer Not To**
+**[I Would Prefer Not To]((https://www.christinaschultz.com/works/Lab-IwouldPreferNotTo/)**
 
 A performative action inspired by Herman Melville’s Bartleby, developed through gestures of refusal, non-participation, and deliberate inactivity within everyday productive situations.
 
@@ -55,6 +55,7 @@ A public performative action exploring apparently useless activities, suspended 
 **The do nothing Way**
 
 A performative disappearance piece developed through temporary withdrawals from social visibility and translated into a photographic series documenting absent bodies, emptied spaces, and traces of interrupted presence.
+
 
 **Forms**
 

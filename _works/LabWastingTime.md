@@ -1,7 +1,7 @@
 ---
 title: Wasting time or how to levitate
 categories: Performatic Drawing
-intro: Drawings, a mural and a performative reflection on the concept of wasting time and levitation as an answer.
+intro: A collective performative experiment developed within **Doing Nothing Lab**, on wasting time, suspension, and collective levitation as speculative acts of resistance.
 featured_image: /media/images/Levitardibujo3b.jpg
 featured_video:
 
@@ -13,7 +13,7 @@ date:  2017-04-17 00:00:00 +0100
 
 In the frame of the exhibition "Perder el tiempo y encima procurarse de un reloj para este proposito" at Can Felipa, the two curators Cláudia Eliés and Marc Mela hosted a mural of the  [Manifiesto de no hacer](https://www.christinaschultz.com/works/Manifesto/) and a 2 hour experimental sesión to reflect on the concept of wasting time with the intention to levitate colectively. There is no proof left for the succes of this intention.
 
-![Perder el tiempo o cómo levitar](/media/images/Perdertiempo.jpg)
+
 
 A series of drawings formed part of the experiment to levitate. A selection of them is on sale through the galery [Cientomásuna](https://cientomasuna.com/christina-schultz/) by Luisa Ortinez.
 With some exceptions the drawings are:

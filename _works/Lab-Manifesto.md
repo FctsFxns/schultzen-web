@@ -1,7 +1,7 @@
 ---
 title: El Manifiesto Del No Hacer
 categories: Print 2017
-intro: A textual and performative declaration developed within **Doing Nothing Lab**, proposing non-productivity, refusal, and intentional inactivity as collective and political gestures.
+intro: A textual declaration developed within **Doing Nothing Lab**, reclaiming non-productivity as a collective and political gesture
 featured_image: /media/images/ManifiestoNoHacer1.jpg
 
 home_show: true
@@ -50,3 +50,5 @@ Back to main project[Doing Nothing Lab]((https://www.christinaschultz.com/works/
 
 ![image](/media/images/Manifesto1.png)
 ![image](/media/images/Manifesto2.png)
+
+![image](/media/images/Perdertiempo.jpg)
