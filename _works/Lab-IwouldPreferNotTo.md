@@ -1,7 +1,7 @@
 ---
 title: I would prefer not to
 categories: Installation Performance 2017
-intro: A telephone performance developed within **Doing Nothing Lab**, exploring fragmented narration, and participation through collective listening
+intro: A telephone performance developed within **Doing Nothing Lab**, exploring fragmented narration through collective listening
 featured_image: /media/images/IWouldPreferNotTo1.jpg
 
 

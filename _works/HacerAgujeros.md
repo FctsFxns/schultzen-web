@@ -7,7 +7,7 @@ featured_image: /media/images/Rambla14_0Intro3.jpg
 
 published: true
 home_show: true
-date:  2022-02-02 00:00:00 +0100
+date:  2023-06-06 00:00:00 +0100
 ---
 
 ![image](/media/images/hacerAgujeros1.jpg)

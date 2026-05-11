@@ -1,6 +1,6 @@
 ---
 title:          Utopian Almanack
-categories: Publication Video Collage
+categories: Publication Video Collage 2025
 intro: A collective publication constructing speculative futures through situated knowledge and shared imagination.
 featured_image: /media/images/UtopianAlmanack0.jpg
 featured_video:
@@ -8,7 +8,7 @@ featured_video:
 home_show: true
 
 published: true
-date:  2025-01-31 00:00:00 +0100
+date:  2020-04-15 00:00:00 +0100
 ---
 
 Utopian Almanack is a collaborative publication that takes the form of a calendar, reimagining time as a space of speculation, prediction, and collective projection.

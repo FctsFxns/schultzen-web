@@ -8,7 +8,7 @@ featured_video:
 home_show: true
 
 published: true
-date:  2025-06-23 00:00:00 +0100
+date:  2026-01-01 00:00:00 +0100
 ---
 
 Walls of Breath, from inside out is an ongoing transdisciplinary project (2023–2026) that develops through writing, exchange, and performative translation. It engages with women in prison and outside contexts to explore how intimacy and safety can be imagined, shared, and transformed across distance.

@@ -1,7 +1,7 @@
 ---
 title: Wasting time or how to levitate
 categories: Performatic Drawing
-intro: A collective performative experiment developed within **Doing Nothing Lab**, on wasting time, suspension, and collective levitation as speculative acts of resistance.
+intro: A collective experiment developed within **Doing Nothing Lab**, on wasting time and collective levitation as speculative acts of resistance.
 featured_image: /media/images/Levitardibujo3b.jpg
 featured_video:
 

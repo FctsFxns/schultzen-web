@@ -5,7 +5,7 @@ intro: A project on digital identity, value, and the translation of online life 
 featured_image: /media/images/PPPthink2.jpg
 
 
-published: true
+published: false
 home_show: false
 date:  2018-10-26 00:00:00 +0100
 ---

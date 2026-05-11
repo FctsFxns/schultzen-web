@@ -7,7 +7,7 @@ featured_image: /media/images/VoicesVecinas5.png
 
 published: true
 home_show: false
-date:  2019-04-05 00:00:00 +0100
+date:  2019-04-04 00:00:00 +0100
 ---
 Las voces de mis vecinas is a performative and audiovisual work structured around the act of preparing and serving tea, unfolding as a situation of shared attention in which voice, gesture, and hospitality intersect.
 

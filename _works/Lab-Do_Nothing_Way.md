@@ -6,11 +6,11 @@ featured_image: /media/images/1BoredomFeatured.jpg
 
 published: true
 
-date:  2016-06-29 00:00:00 +0100
+date:  2017-04-16 00:00:00 +0100
 ---
 
 
-The do nothing Way is a multidisciplinary project. A video, a performance, a lecture. In all a contemplation on the difference between work and labour, the productive and the consumable. So far I state that I never want to work again. For the performance, two performers were hired to read out semi loud the chapter  "The work of our hands and the labour of our body" by Hannah Arendt in a white hammock next to a series of nine fotografic prints representing gestures who do nothing. 
+The do nothing Way is a multidisciplinary project. A video, a performance, a lecture. In all a contemplation on the difference between work and labour, the productive and the consumable. So far I state that I never want to work again. For the performance, two performers were hired to read out semi loud the chapter  "The work of our hands and the labour of our body" by Hannah Arendt in a white hammock next to a series of nine fotografic prints representing gestures who do nothing.
 
 In the video things disappear as a.
 
@@ -23,13 +23,13 @@ Manos (Series of 9 prints)
 
 ![image](/media/images/5BoredomExpomans.jpg)
 
-The instalation with white hammock 
+The instalation with white hammock
 
 ![image](/media/images/4BoredomVideo.jpg)
 
 Make disappear a glass and a performer.
 
-[Here's the 1 minute video](https://vimeo.com/172396915) 
+[Here's the 1 minute video](https://vimeo.com/172396915)
 
 ![image](/media/images/2BoredomVanish.jpg)
 

@@ -7,7 +7,7 @@ featured_image: /media/images/metzineres3.jpg
 
 published: true
 home_show: true
-date:  2020-04-15 00:00:00 +0100
+date:  2022-03-03 00:00:00 +0100
 ---
 Spells and Potions (cast: Conjuros y Colocones) is an artistic research project developed in collaboration with [Metzineres](http://metzineres.net/),harm-reduction and support spaces for women and gender-diverse people who use drugs and survive violent situations in Barcelona.
 
