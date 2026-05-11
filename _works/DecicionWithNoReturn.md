@@ -1,5 +1,5 @@
 ---
-title: Decision with no Return or A Sense of Territory
+title: Decision with no Return
 categories: A project on territory, political rupture of Brexit, and the construction of identity through fiction and evidence.
 featured_image: /media/images/DistributionNoReturnII.jpg
 intro: A video and installation piece, an investigative detective story on the new relationship between England and Europe after Brexit.
@@ -9,7 +9,7 @@ home_show: true
 date:  2017-02-22 00:00:00 +0100
 ---
 
-Decision with No Return is an artistic research project that examines the reconfiguration of territory and identity in the context of the United Kingdom’s decision to leave the European Union.
+**Decision with No Return or A Sense of Territory** is an artistic research project that examines the reconfiguration of territory and identity in the context of the United Kingdom’s decision to leave the European Union.
 
 The work approaches Brexit not as a political event to be explained, but as a narrative condition—one that can be investigated through fiction, speculation, and symbolic representation. Drawing on the structure of a detective story, the project constructs a fictional investigation into the shifting relationship between Great Britain and Europe.
 
@@ -23,7 +23,7 @@ Fragments from television series and films featuring iconic detective characters
 
 In parallel, the artist collects and constructs physical “evidence” from the urban environment, creating a speculative field in which fiction and reality intersect.
 
-**Forms*
+**Forms**
 
 The research is translated into audiovisual, material, and visual forms:
 
@@ -41,7 +41,7 @@ The project was developed during a residency at [Islington Mill](http://www.isli
 
 It was later shown in contexts such as [Proyector Filmfestival](https://proyector.info/profile/christina-schultz/) in Madrid and Buenos Aires, Argentina and El Instante Fundación.
 
-Credits
+**Credits**
 
 Concept and direction: Christina Schultz
 Music: [Mirim Casal Madinabeita](https://www.facebook.com/Ea7_dmZ-290629557628051/)
@@ -79,7 +79,6 @@ Video frame from mashup video starring Sherlock Holmes.
 ![image](/media/images/DistributionNoReturnVIII.jpg)
 
 Instalation to purchase a question mark.
-
 
 
 [This is the project's opening](http://www.islingtonmill.com/events/gallery-opening-christina-schultz/)   
