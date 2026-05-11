@@ -12,7 +12,7 @@ home_show: false
 
 ---
 
-The Laboratory of Doing Nothing is an ongoing artistic investigation examining the social, emotional, and political structures surrounding work, productivity, rest, and non-productivity within contemporary life.
+Doing Nothing Lab is an ongoing artistic investigation examining the social, emotional, and political structures surrounding work, productivity, rest, and non-productivity within contemporary life.
 
 Developed across performances, workshops, publications, collective exercises, installations, sleep situations, conversations, and temporary communities, the project approaches “doing nothing” not as passivity, but as a space of resistance, imagination, suspension, and re-negotiation of value.
 
@@ -36,7 +36,7 @@ A research project developed through interviews with people connected to the art
 
 A daily performative exercise consisting of one hour of purposeless non-activity every day during 30 days, through a shared blog containing texts, images, and traces of each daily action.
 
-**Nothing Left But Deep Sleep**
+**[Nothing Left But Deep Sleep](https://www.christinaschultz.com/works/LabNothingLeftButDeepSleep/)**
 
 A local Spanish landline number and a classified advertisement published under “Services” in a local newspaper, giving public access to two lullabies written, performed, and recorded as a collective gesture of rest, exhaustion, and care.
 
@@ -64,7 +64,7 @@ Rather than producing stable artworks, the research develops through evolving si
 
 **Context**
 
-Developed over several years through collaborations with artists, curators, cultural spaces, and temporary communities, The Laboratory of Doing Nothing occupies a central position within the artist’s transition towards collective, performative, and socially engaged methodologies.
+Developed over several years through collaborations with artists, curators, cultural spaces, and temporary communities, Doing Nothing Lab occupies a central position within the artist’s transition towards collective, performative, and socially engaged methodologies.
 
 The research unfolded across workshops, self-organised contexts, artistic residencies, public interventions, pedagogical situations, and collaborative processes, progressively transforming “doing nothing” from an individual gesture into a collective and political field of experimentation.
 

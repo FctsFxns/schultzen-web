@@ -1,7 +1,7 @@
 ---
 title: Nothing Left But Deep Sleep
 categories: Instalation Performance 2017
-intro: A performative sound intervention on exhaustion, labour, and sleep developed within **The Laboratory of Doing Nothing**
+intro: A performative sound intervention on exhaustion, labour, and sleep developed within the **Doing Nothing Lab**
 featured_image: /media/images/SleepLikeArock1.jpg
 
 
@@ -48,7 +48,7 @@ Score: Anders Visti
 Voice and lullabies: Christina Schultz
 
 
-Back to main project[The Laboratory of Doing Nothing]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+Back to main project[Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 ![image](/media/images/SleepLikeArockCollage.jpg)

@@ -1,7 +1,7 @@
 ---
 title: EL FER i el no fer
 categories: Projects Performatic Video Sound 2015
-intro: A performative and documentary research project developed within **The Laboratory of Doing Nothing**
+intro: A performative and documentary research project developed within **Doing Nothing Lab**
 
 featured_image: /media/images/QRcube.jpg
 
@@ -56,7 +56,7 @@ With the support of: Clara Garí
 
 Developed in collaboration with participants, interview contributors, teenagers, and collaborators involved in the collective performances and audio research.
 
-Back to main project[The Laboratory of Doing Nothing]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+Back to main project[Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 ![image](/media/images/Fer7joves.jpg)

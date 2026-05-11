@@ -1,7 +1,7 @@
 ---
 title: Do Nothing Every Day
 categories: Projects Performatic Video Sound 2014
-intro: A daily performative exercise developed within **The Laboratory of Doing Nothing**
+intro: A daily performative exercise developed within the **Doing Nothing Lab**
 featured_image: /media/images/PsdOnPsd.jpg
 
 
@@ -14,7 +14,7 @@ Do Nothing Every Day is an early performative experiment consisting of one hour 
 
 Developed together with Clara Garí, the project explored “doing nothing” as a daily collective practice situated between refusal, discipline, humour, resistance, and survival strategy. Rather than approaching inactivity as passivity, the work proposed the deliberate interruption of productivity through repeated and shared non-action.
 
-The project marks one of the earliest manifestations of what later evolved into **The Laboratory of Doing Nothing**, introducing repetition, performative routines, online documentation, and collective inactivity as central artistic methodologies.
+The project marks one of the earliest manifestations of what later evolved into the **Doing Nothing Lab**, introducing repetition, performative routines, online documentation, and collective inactivity as central artistic methodologies.
 
 **Forms**
 
@@ -40,7 +40,7 @@ Concept and direction: Christina Schultz and Clara Garí
 
 [To the blog](http://donothingtwo.tumblr.com/)
 
-To the main project[The Laboratory of Doing Nothing]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+To the main project [Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 ![image](/media/images/DNspinning.gif)
