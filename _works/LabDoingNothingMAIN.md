@@ -40,7 +40,7 @@ A daily performative exercise consisting of one hour of purposeless non-activity
 
 A local Spanish landline number and a classified advertisement published under “Services” in a local newspaper, giving public access to two lullabies written, performed, and recorded as a collective gesture of rest, exhaustion, and care.
 
-**Manifesto**
+**[Manifesto](https://www.christinaschultz.com/works/Lab-Manifesto/)**
 
 A written manifesto proposing “doing nothing” as a collective and political gesture, distributed as a textual intervention and public statement within the broader research framework of the laboratory.
 

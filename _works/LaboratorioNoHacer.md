@@ -1,7 +1,7 @@
 ---
 title: Laboratorio del No Hacer
 categories: Projects Performatic since 2016
-intro: A collective workshop based think tank and performative research environment developed within **The Laboratory of Doing Nothing**
+intro: A collective workshop based think tank and performative research environment developed within the **Doing Nothing Lab**
 featured_image: /media/images/BlueLabTitol.jpg
 
 
@@ -12,7 +12,7 @@ home_show: false
 
 ---
 
-Laboratorio del No Hacer is one of the central manifestations of [The Laboratory of Doing Nothing]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), developed initially as a six-week workshop during the artist’s residency at [Hangar](https://hangar.org/es/christina-schultz/).
+Laboratorio del No Hacer is one of the central manifestations of the [Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), developed initially as a six-week workshop during the artist’s residency at [Hangar](https://hangar.org/es/christina-schultz/).
 
 Conceived as a collective research environment, the project brought together artists, cultural workers, and participants to reflect on labour, exhaustion, productivity, and inactivity within artistic and contemporary social contexts. Through interviews, discussions, non-activities, collective exercises, and performative situations, the laboratory investigated alternative relationships to time, usefulness, and social value.
 
@@ -50,7 +50,7 @@ Music: Nigra Sum
 
 Pedagogical collaboration: Pol Capdevila
 
-Back to main project[The Laboratory of Doing Nothing]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+Back to main project [Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 ![image](/media/images/BlueSala.jpg)
