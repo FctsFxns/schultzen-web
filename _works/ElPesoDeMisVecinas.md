@@ -7,7 +7,7 @@ featured_image: /media/images/3PesoVecinas.jpg
 
 published: true
 home_show: false
-date:  2019-04-05 00:00:00 +0100
+date:  2019-04-04 00:00:00 +0100
 ---
 El Peso de Mis Vecinas is an artistic research project that engages with women whose lives are shaped by cross-border movement and informal labour, particularly in relation to practices of carrying goods across borders.
 

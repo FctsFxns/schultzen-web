@@ -1,7 +1,7 @@
 ---
-title: Laboratory of Doing Nothing
+title: Laboratorio del No Hacer
 categories: Projects Performatic since 2016
-intro: The Laboratory of Doing Nothing is a longterm artistic investigation on our tired working society through collaborative thinktanks, interventions and instalations.
+intro: A collective workshop based think tank and performative research environment developed within **The Laboratory of Doing Nothing**
 featured_image: /media/images/BlueLabTitol.jpg
 
 
@@ -11,16 +11,53 @@ published: true
 home_show: false
 
 ---
+
+Laboratorio del No Hacer is one of the central manifestations of [The Laboratory of Doing Nothing]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), developed initially as a six-week workshop during the artist’s residency at [Hangar](https://hangar.org/es/christina-schultz/).
+
+Conceived as a collective research environment, the project brought together artists, cultural workers, and participants to reflect on labour, exhaustion, productivity, and inactivity within artistic and contemporary social contexts. Through interviews, discussions, non-activities, collective exercises, and performative situations, the laboratory investigated alternative relationships to time, usefulness, and social value.
+
+Rather than producing a single artwork, the project unfolded as a process generating multiple forms, including podcasts, written scores, public actions, performative talks, collective situations of doing nothing, and photographic documentation of suspended economic activity.
+
+The laboratory later expanded through workshops, presentations, and international invitations, transforming into an evolving pedagogical and performative research structure.
+
+**Forms**
+
+Six-week workshop laboratory — a collaborative research process developed with artists and participants during the residency at [Hangar](https://hangar.org/es/workshops-artist2artists/el-laboratorio-del-no-hacer-obre-les-seves-portes-al-public-durant-3-dies-a-la-blueproject-foundation/)
+
+Three-day public presentation — an exhibition and activation of the research process at [Blueproject Foundation](http://www.blueprojectfoundation.org/es/actividades/eventos/item/laboratorio-del-no-hacer).
+
+Three day master seminar - in collaboration with Pol Capdevila at EINA, school of arts
+
+International adaptations — presentations ESC Medienkunstcenter in Graz and at the Pergine Festival in Italy.
+
+**Context**
+
+The project was initiated during the artist’s long-term residency at Hangar between 2015 and 2017 and presented publicly at [Blueproject Foundation](http://www.blueprojectfoundation.org/es/actividades/eventos/item/laboratorio-del-no-hacer) in 2017.
+
+Parallel collaborations and pedagogical extensions were developed at EINA together with Pol Capdevila. The project later expanded internationally through invitations to Graz, Austria, and Italy, where the laboratory format continued evolving through workshops, public actions, and performative situations.
+
+Within the broader trajectory of The Laboratory of Doing Nothing, this project established many of the collective, pedagogical, and performative methodologies that later became central to the artist’s practice.
+
+**Credits**
+
+Concept and direction: Christina Schultz
+
+Institutional support: Hangar and [Blueproject Foundation](http://www.blueprojectfoundation.org/es/actividades/eventos/item/laboratorio-del-no-hacer)
+
+Collaborating artists and workshop participants: Kai Corvus, Maria Alcaide, David Macho, Patricia Fernandez Antón, Caro Selo, Antonio R. Montesinos, Maite Redondo, Mano Campos, Judit Murlans, Juliana Guerrero, Ada Kobusiewicz, Patricio Riviera, Daniel Armengol, Laura Benítez, colectivo LPL
+
+Music: Nigra Sum
+
+Pedagogical collaboration: Pol Capdevila
+
+Back to main project[The Laboratory of Doing Nothing]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+
+
 ![image](/media/images/BlueSala.jpg)
 Ready to open the doors to the public
 
 ![image](/media/images/Blue0.jpg)
 Learning and unlearning doing nothing from microorganisms, plants and silk worms
-
-The Laboratory of Doing Nothing is an artistic investigation on our tired working society, the hell of overproduction and our urgent need to slow down with the intention to put some light into a dark future. The laboratory is an everlasting field of experimentation, a never ending art project on continous learning in forms of workshops, seminars, actions, instalations, internet art, drawings and all kinds of possible material expressions.
-These outcomes are based on the collaborative thinking process of all participants with the artist. The results of a long term workshop were shared with open public during 72 hours at the exhibition hall Il Salotto at the [Blueproject Foundation](http://www.blueprojectfoundation.org/es/actividades/eventos/item/laboratorio-del-no-hacer).The express workshop during an intense afternoon was published in a publication. The seminar is to be continued in 2018 with Pol Capdevila at EINA and the Laboratory held at ESC medienkunstcenter in Graz was cancelled due to strong conflicts emerging during the workshop about doing nothing.
-
-At continuation the so far 4 experiences are explained in detail:
 
 ![image](/media/images/BlueLab5.jpg)
 Day1
@@ -78,14 +115,6 @@ Nigra Sum
 
 All pictures by Antonio R. Montesinos and Christina Schultz
 
-The most extensive and elaborated version of the workshop was made in colaboration with Hangar, artistic center in Barcelona, the Blueproject Foundation and The GoodGood with Mar Merino. During almost two months the 15 participants, who subscribed through an open call with limited reserves, met every week to reflect on the four mayor pilars of the project: The concept of Work, The concept of Time, The concept of Play and The Concept of Not Doing.
-
-While most of the sessions were held as reading and discussion sessions at Hangar in private, the session on Time hosted Pol Capdevila, professor of artistic research and humanities as a special guest and was held in the geological Museum of Barcelona.
-The concept of Play also had a special format, it was a fusion with a workshop held paralelly at Hangar “The Ideal Game” with Constanza Mendoza and the collective, we both form part of “LPL”, Laboratoy of Ludic Thinking and was a game in itself. Through the interactive Game of Kin  elaborated within the collective, we imagined speculative futures of eco-unproductivity based on an apocalyptic scenery (now) guided by the marvellous thinker and eco-feminist Donna Haraway.
-
-The workshop opened the doors to it’s thinktank to the public durin three sleep-over days and nights at the Blueproject Foundation and converted the space itself in an ongoing visitable experimentation space.
-
-You can download the complete program of the three days and it’s participants HERE.
 
 ![image](/media/images/BlueLab1.jpg)
 Day I of the workshop
@@ -105,8 +134,7 @@ Day IV of the workshop
 ![image](/media/images/BlueLab4bgame.jpg)
 Day IV of the workshop
 
-A three day master seminar at EINA postgraduate school of arts and design introduced the concept of doing nothing to a class of about ten alumni and was composed of theoretical and practical exercices and thinking processes.
-The pupils elaborated individual and collective proposals on doing nothing as a possible form of resistance, some of them taking material form at Barra del Ferro, artspace of EINA in Barcelona.
+Three day master seminar at EINA postgraduate school of arts and design.
 
 ![image](/media/images/EinaTitol.jpg)
 
@@ -119,7 +147,7 @@ The pupils elaborated individual and collective proposals on doing nothing as a 
 
 ![image](/media/images/Eina2.jpg)
 
-At Pergine, Italy at the festival of  “A Manual for Work and Happiness” the laboratory opened its doors in  an express workshop of an intense afternoon. In spite of it’s density the 10 participants came to extraordinary results and we made a a small internal presentation of improvised instalations.
+At Pergine, Italy at the festival of  “A Manual for Work and Happiness”
 
 ![image](/media/images/Pergine2.jpg)
 
@@ -139,8 +167,7 @@ At Pergine, Italy at the festival of  “A Manual for Work and Happiness” the 
 ![image](/media/images/Pergine8.jpg)
 
 
-At ESC_Kunstzentrum, Graz, Austria where I was invited to hold the workshop with six also invited persons by the organization. The workshop was structured in two intensive separate parts: Two weeks for sessions in June and  one in September for possible shares of the results.
-The workshop ended harshly. It was ended by the coordination due to serious problems with the issue of doing nothing and it was not possible to find a common ground on the idea. Anyway a lot of material was generated by many participants that still rests in form of archive and waits for its moment. Doing nothing pour excellence.
+At ESC_Kunstzentrum, Graz, Austria
 
 ![image](/media/images/ESC1.jpg)
 Tools
@@ -162,5 +189,3 @@ Contemplating the sun our timegiver at the Astronomie Zentrum
 
 ![image](/media/images/ESC7.jpg)
 Collecting NO places
-
-and more performatic exercices, interviews and videos

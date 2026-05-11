@@ -8,7 +8,7 @@ featured_video:
 home_show: true
 
 published: true
-date:  2018-08-17 00:00:00 +0100
+date:  2017-04-17 00:00:00 +0100
 ---
 
 In the frame of the exhibition "Perder el tiempo y encima procurarse de un reloj para este proposito" at Can Felipa, the two curators Cláudia Eliés and Marc Mela hosted a mural of the  [Manifiesto de no hacer](https://www.christinaschultz.com/works/Manifesto/) and a 2 hour experimental sesión to reflect on the concept of wasting time with the intention to levitate colectively. There is no proof left for the succes of this intention.
