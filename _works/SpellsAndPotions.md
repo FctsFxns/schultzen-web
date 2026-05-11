@@ -1,7 +1,7 @@
 ---
 title: Spells and Potions
 categories: Investigation Poetry Magic 2020
-intro: A project on embodied knowledge, care, and alternative forms of mystic knowledge developed in collaboration with Metzineres.
+intro: A project on embodied knowledge, care, and alternative forms of mystic knowledge developed in collaboration with Metzineres
 featured_image: /media/images/metzineres3.jpg
 
 

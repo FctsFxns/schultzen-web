@@ -1,7 +1,7 @@
 ---
 title: Resonancias
 categories: performance long-term-project exhibition 2019
-intro: A choral, collaborative project on sexual dissidence, pleasure, and collective voice.
+intro: A choral, collaborative project on sexual dissidence, pleasure, and collective voice
 featured_image: /media/images/Resonancias1.jpg
 
 

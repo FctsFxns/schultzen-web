@@ -1,7 +1,7 @@
 ---
 title: Perra Perdida
 categories: Project Performatic Cinematic Collage 2016
-intro: A performative guided tour on loss, disappearance, language and the activation of forgotten histories of communication, sexuality, and public life.
+intro: A performative guided tour on loss, disappearance, language and the activation of forgotten histories of communication, sexuality, and public life
 featured_image: /media/images/SalaXFeatured1.jpg
 
 

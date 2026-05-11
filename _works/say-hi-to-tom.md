@@ -1,7 +1,7 @@
 ---
 title: Say hi to Tom!
 categories: Projects Performatic Collage 2015
-intro: A participatory collage project on tourism, exchange, and the circulation of personal narratives through the postal system.
+intro: A participatory collage project on tourism, exchange, and the circulation of personal narratives through the postal system
 featured_image: /media/images/SayHi.jpg
 featured_video:
 

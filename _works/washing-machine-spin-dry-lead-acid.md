@@ -1,7 +1,7 @@
 ---
 title: Washing Machine Spin Dry Lead Acid Battery Kill Flywheel
 categories: Performatic Video 2015
-intro: A performative investigation into memory, belief, and the unstable construction of collective truth.
+intro: A performative investigation into memory, belief, and the unstable construction of collective truth
 
 featured_image: '/media/images/Waschmachine1a.jpg'
 

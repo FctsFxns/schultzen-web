@@ -1,7 +1,7 @@
 ---
 title: The Do Nothing Way
 categories: Projects Performatic Video Collage 2016
-intro: A performance, a video, and fotographic work developed within **Doing Nothing Lab**, on labour, work, productivity, and refusal.
+intro: A performance, a video, and fotographic work developed within **Doing Nothing Lab**, on labour, work, productivity, and refusal
 featured_image: /media/images/1BoredomFeatured.jpg
 
 published: true

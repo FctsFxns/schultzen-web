@@ -1,7 +1,7 @@
 ---
 title:          Utopian Almanack
 categories: Publication Video Collage 2025
-intro: A collective publication constructing speculative futures through situated knowledge and shared imagination.
+intro: A collective publication constructing speculative futures through situated knowledge and shared imagination
 featured_image: /media/images/UtopianAlmanack0.jpg
 featured_video:
 

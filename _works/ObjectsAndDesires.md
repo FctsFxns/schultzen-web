@@ -1,7 +1,7 @@
 ---
 title: Objects and Desires
 categories: Performance Drawing Sound 2017
-intro: A pre-research project for **El Peso de mis Vecinas**, on the circulation of objects, desire, and value between Spain and Morocco.
+intro: A pre-research project for **El Peso de mis Vecinas**, on the circulation of objects, desire, and value between Spain and Morocco
 featured_image: /media/images/ObjectsAndDesires2.jpg
 
 

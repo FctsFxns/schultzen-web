@@ -1,7 +1,7 @@
 ---
 title: Do Nothing Every Day
 categories: Projects Performatic Video Sound 2014
-intro: A daily performative exercise developed within **Doing Nothing Lab**, exploring non-action and alternative experiences of time.
+intro: A daily performative exercise developed within **Doing Nothing Lab**, exploring non-action and alternative experiences of time
 featured_image: /media/images/PsdOnPsd.jpg
 
 

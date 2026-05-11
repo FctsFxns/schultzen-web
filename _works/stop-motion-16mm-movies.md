@@ -3,7 +3,7 @@ title: Short fictions of Survival
 
 categories: Cinematic Collage before2000
 
-intro: A cycle of autobiographical stop-motion films exploring vulnerability, transformation, and emotional survival through handmade animation.
+intro: A cycle of autobiographical stop-motion films exploring vulnerability, transformation, and emotional survival through handmade animation
 
 featured_image: /media/images/16mm.jpg
 

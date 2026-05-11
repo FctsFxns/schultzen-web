@@ -1,7 +1,7 @@
 ---
 title: Fer Forats
 categories: Investigation Poetry Philosohy 2021/22
-intro: A transversal, collaborative writing project on La Rambla, Barcelona’s most emblematic yet increasingly gentrified public space.
+intro: A transversal, collaborative writing project on La Rambla, Barcelona’s most emblematic yet increasingly gentrified public space
 featured_image: /media/images/Rambla14_0Intro3.jpg
 
 
