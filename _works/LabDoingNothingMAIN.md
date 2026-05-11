@@ -12,7 +12,7 @@ home_show: false
 
 ---
 
-Doing Nothing Lab is an ongoing artistic investigation examining the social, emotional, and political structures surrounding work, productivity, rest, and non-productivity within contemporary life.
+**Doing Nothing Lab** is an ongoing artistic investigation examining the social, emotional, and political structures surrounding work, productivity, rest, and non-productivity within contemporary life.
 
 Developed across performances, workshops, publications, collective exercises, installations, sleep situations, conversations, and temporary communities, the project approaches “doing nothing” not as passivity, but as a space of resistance, imagination, suspension, and re-negotiation of value.
 
@@ -52,7 +52,7 @@ A performative action inspired by Herman Melville’s Bartleby, developed throug
 
 A public performative action exploring apparently useless activities, suspended time, and purposeless presence through simple gestures of waiting, drifting, and non-efficiency in urban space.
 
-**The Do Nothing Way**
+**[The Do Nothing Way](https://www.christinaschultz.com/works/Lab-Do_Nothing_Way/)**
 
 A performative disappearance piece developed through temporary withdrawals from social visibility and translated into a photographic series documenting absent bodies, emptied spaces, and traces of interrupted presence.
 
