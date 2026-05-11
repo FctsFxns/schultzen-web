@@ -1,5 +1,5 @@
 ---
-title: “Say hi to Tom!”
+title: Say hi to Tom!
 categories: Projects Performatic Collage 2015
 intro: A participatory collage project on tourism, exchange, and the circulation of personal narratives through the postal system.
 featured_image: /media/images/SayHi.jpg
@@ -14,7 +14,7 @@ home_url:  http://christinaschultz.com/postcards/
 
 date:  2015-02-00 00:00:00 +0100
 ---
-“Say Hi to Tom!” is a participatory art project developed through an international open call on early internet sharing platforms for analog postcards.
+**Say Hi to Tom!** is a participatory art project developed through an international open call on early internet sharing platforms for analog postcards. The title refers both to the iconic figure of **Tom** from the early social network Myspace and to a nostalgic moment in internet culture when digital communication still carried the promise of friendship, participation, and unexpected emotional intimacy between strangers.
 
 Participants were invited to send postcards from their cities together with personal responses to three intimate questions related to memory, movement, and attachment. In exchange, each postcard was transformed by the artist into a personalised collage work.
 
@@ -47,6 +47,7 @@ Auction: online and physical auctions in Barcelona and London, extending the cir
 Graffiti intervention: a public wall intervention in Barcelona extending the project into urban space and translating its visual language into a temporary collective mark within the city
 
 Catalog: a printed publication documenting the project and its circulation
+
 [You can consult the catalog here](/media/pdf/1423861538-CATALOGO-SUBARNA.pdf)
 
 Online platforms and archives: a distributed digital system documenting the postcards, exchanges, autobiographical fragments, and transformations generated through the project across different platforms and temporalities
