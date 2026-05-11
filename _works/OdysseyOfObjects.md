@@ -2,7 +2,7 @@
 title: Odyssey of objects
 categories: Installation Poetry Performance 2024
 intro: A project on movement, migration, and the circulation of objects as carriers of marginalised experience
-featured_image: /media/images/Nomads8.jpg
+featured_image: /media/images/Nomads8.png
 
 
 published: true
