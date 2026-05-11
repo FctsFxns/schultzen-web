@@ -5,7 +5,7 @@ intro: A performative and documentary research project developed within **The La
 
 featured_image: /media/images/QRcube.jpg
 
-date:   2015-10-18 15:31:21 +0100
+date:   2018-07-18 15:31:21 +0100
 
 published: true
 home_show: false

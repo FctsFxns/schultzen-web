@@ -1,5 +1,5 @@
 ---
-title: Laboratory of Doing Nothing
+title: Doing Nothing Lab
 categories: Projects Performatic since 2016
 intro: A long-term artistic research platform on labour, exhaustion, slowness, time and other ways of inhabiting resistance
 featured_image: /media/images/LabDoingNothingMAIN.png
@@ -24,15 +24,15 @@ Across the different manifestations of the project, hosting becomes a central ar
 
 **PROJECTS AND OUTCOMES**
 
-**[Laboratorio del No Hacer]((https://www.christinaschultz.com/works/LaboratorioNoHacer/)**
+**[Laboratorio del No Hacer](https://www.christinaschultz.com/works/LaboratorioNoHacer/)**
 
 A collective and performative research framework developed through workshops, public situations, conversations, and temporary communities exploring alternative relations to productivity, time, and social value.
 
-**El FER i el no fer**
+**[El FER i el no fer](http://www.christinaschultz.com/FERnofer/)**
 
 A research project developed through interviews with people connected to the art world, translated into a five-chapter audio podcast, a written score, weekly collective performances of doing nothing, and a photographic series documenting suspended economic activity.
 
-**Do Nothing Every Day**
+**[Do Nothing Every Day](https://www.christinaschultz.com/worksLab-do-nothing-everyDay/)**
 
 A daily performative exercise consisting of one hour of purposeless non-activity every day during 30 days, through a shared blog containing texts, images, and traces of each daily action.
 
