@@ -22,7 +22,7 @@ Manifesto text: a poetic and political declaration structured through short perf
 
 Public readings and performances: live activations of the manifesto within exhibition and performative contexts
 
-Printed and online circulation: textual distribution as part of the broader research environment of [Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/).
+Printed and online circulation: textual distribution as part of the broader research environment of [Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/).
 
 Performative speech act: the manifesto functioning simultaneously as text, declaration, instruction, and collective provocation
 

@@ -40,7 +40,7 @@ Concept and direction: Christina Schultz and Clara Garí
 
 [To the blog](http://donothingtwo.tumblr.com/)
 
-To the main project [Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+To the main project [Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 ![image](/media/images/DNspinning.gif)

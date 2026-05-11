@@ -48,7 +48,7 @@ Score: Anders Visti
 Voice and lullabies: Christina Schultz
 
 
-Back to main project[Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+Back to main project[Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 ![image](/media/images/SleepLikeArockCollage.jpg)

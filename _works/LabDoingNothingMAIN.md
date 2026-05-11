@@ -44,15 +44,15 @@ A local Spanish landline number and a classified advertisement published under �
 
 A written manifesto proposing “doing nothing” as a collective and political gesture, distributed as a textual intervention and public statement within the broader research framework of the laboratory.
 
-**[I Would Prefer Not To]((https://www.christinaschultz.com/works/Lab-IwouldPreferNotTo/)**
+**[I Would Prefer Not To](https://www.christinaschultz.com/works/Lab-IwouldPreferNotTo/)**
 
 A performative action inspired by Herman Melville’s Bartleby, developed through gestures of refusal, non-participation, and deliberate inactivity within everyday productive situations.
 
-**[Wasting time or how to levitate]((https://www.christinaschultz.com/works/LabWastingTime/)**
+**[Wasting time or how to levitate](https://www.christinaschultz.com/works/LabWastingTime/)**
 
 A public performative action exploring apparently useless activities, suspended time, and purposeless presence through simple gestures of waiting, drifting, and non-efficiency in urban space.
 
-**The do nothing Way**
+**The Do Nothing Way**
 
 A performative disappearance piece developed through temporary withdrawals from social visibility and translated into a photographic series documenting absent bodies, emptied spaces, and traces of interrupted presence.
 

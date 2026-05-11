@@ -14,7 +14,7 @@ Wasting Time or How to Levitate is a performative and visual experiment investig
 
 Developed around the impossible proposition of collective levitation, the project approaches wasting time not as failure or passivity, but as a temporary interruption of productive logic and rational expectation. Through collective presence, waiting, reflection, and absurd commitment, the work constructs a fragile situation oscillating between performative ritual, collective fiction, and social experiment.
 
-As with many manifestations of the [Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), the work deliberately leaves uncertain whether anything “happened” at all.
+As with many manifestations of the [Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), the work deliberately leaves uncertain whether anything “happened” at all.
 
 **Forms**
 
@@ -38,8 +38,7 @@ Concept and direction: Christina Schultz
 Curated by: Clàudia Eliés and Marc Mela
 
 
-
-
+Back to main project[Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 

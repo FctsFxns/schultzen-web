@@ -35,13 +35,13 @@ The work was presented on May 5th 2017 at Sala Usurpada during the event **Trece
 
 The invited artists were asked to occupy the exhibition space for thirty minutes. Participating artists included Lucía Egaña, Marc Vives, Isamit Morales, Ariadna Guiteras, Nenazas, José Begega, Alexander Arilla, and Sergi Botella.
 
-Within the [Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), the project expands the research into refusal and non-productivity through dispersed narration, interruption, and unstable forms of collective participation.
+Within the [Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), the project expands the research into refusal and non-productivity through dispersed narration, interruption, and unstable forms of collective participation.
 
 **Credits**
 
 Concept and performance: Christina Schultz
 
-Back to main project[Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+Back to main project[Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 

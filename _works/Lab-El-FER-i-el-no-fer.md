@@ -56,7 +56,7 @@ With the support of: Clara Garí
 
 Developed in collaboration with participants, interview contributors, teenagers, and collaborators involved in the collective performances and audio research.
 
-Back to main project[Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
+Back to main project[Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
 ![image](/media/images/Fer7joves.jpg)
