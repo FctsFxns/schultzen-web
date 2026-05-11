@@ -32,7 +32,7 @@ A collective and performative research framework developed through workshops, pu
 
 A research project developed through interviews with people connected to the art world, translated into a five-chapter audio podcast, a written score, weekly collective performances of doing nothing, and a photographic series documenting suspended economic activity.
 
-**[Do Nothing Every Day](https://www.christinaschultz.com/worksLab-do-nothing-everyDay/)**
+**[Do Nothing Every Day](https://www.christinaschultz.com/works/Lab-do-nothing-everyDay/)**
 
 A daily performative exercise consisting of one hour of purposeless non-activity every day during 30 days, through a shared blog containing texts, images, and traces of each daily action.
 

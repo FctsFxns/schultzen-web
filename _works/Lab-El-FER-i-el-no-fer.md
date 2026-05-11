@@ -59,7 +59,6 @@ Developed in collaboration with participants, interview contributors, teenagers,
 Back to main project[The Laboratory of Doing Nothing]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/)
 
 
-
 ![image](/media/images/Fer7joves.jpg)
 In this room every day people gathered with me to do participate at the performance of doing nothing. Here are 20 teenagers.
 
