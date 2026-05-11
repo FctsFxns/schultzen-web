@@ -1,5 +1,5 @@
 ---
-title: Rambla 14-wandering fragments
+title: Rambla 14 - wandering fragments
 categories: Performance Instalation Colaboration 2022
 intro: A performance within **Fer Forats**, emerging from its writing processes in relation to La Rambla and its inhabitants
 
@@ -11,7 +11,7 @@ home_show: true
 date:  2022-07-07 00:00:00 +0100
 ---
 
-Rambla 14, wandering fragments is a performance that translates the research of [Fer Forats or Making Holes](https://www.christinaschultz.com/works/HacerAgujeros/) into a narrative and performative form.
+Rambla 14 - wandering fragments is a performance that translates the research of [Fer Forats or Making Holes](https://www.christinaschultz.com/works/HacerAgujeros/) into a narrative and performative form.
 
 The piece draws on writings, conversations, and archival material developed throughout the project, including fictionalised dialogues and testimonies shaped by the lived experience of La Rambla. Professional actors were invited to interpret these collectively produced texts, bringing the voices of the writing process into a staged and embodied form.
 

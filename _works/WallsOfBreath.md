@@ -2,7 +2,7 @@
 title:          Walls of Breath - from inside out
 categories: Research Performance Installation Publication
 intro: A translocal artistic research on intimacy, voice, and the construction of safe spaces within and beyond prison environments
-featured_image: /media/images/WallsOfBreath0.jpg
+featured_image: /media/images/WallsOf Breath.png
 featured_video:
 
 home_show: true
