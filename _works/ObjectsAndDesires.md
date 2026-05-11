@@ -9,7 +9,7 @@ published: true
 home_show: false
 date:  2019-04-04 00:00:00 +0100
 ---
-Objects and Desires compares the meaning, emotional value, and symbolic transformation of objects moving between Spain and Morocco through migration, tourism, informal economies, and cross-border exchange.
+**Objects and Desires** compares the meaning, emotional value, and symbolic transformation of objects moving between Spain and Morocco through migration, tourism, informal economies, and cross-border exchange.
 
 Developed through encounters, observation, interviews, and material research in Marrakech and Southern Spain, the project reflects on how objects carry desires, projections, social aspirations, and survival strategies across different cultural and economic contexts.
 

@@ -1,5 +1,5 @@
 ---
-title: Rambla 14, wandering fragments
+title: Rambla 14-wandering fragments
 categories: Performance Instalation Colaboration 2022
 intro: A performance within **Fer Forats**, emerging from its writing processes in relation to La Rambla and its inhabitants
 

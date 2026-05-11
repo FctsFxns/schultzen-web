@@ -1,5 +1,5 @@
 ---
-title: El Manifiesto Del No Hacer
+title: Manifesto
 categories: Print 2017
 intro: A textual declaration developed within **Doing Nothing Lab**, reclaiming non-productivity as a collective and political gesture
 featured_image: /media/images/ManifiestoNoHacer1.jpg
@@ -10,7 +10,7 @@ home_show: true
 published: true
 date:  2017-06-14 00:00:00 +0100
 ---
-Manifesto del no hacer is a performative text questioning labour-centred societies and the increasing identification of human value with productivity, acceleration, and permanent activity.
+The **Manifesto** for doing nothing is a performative text questioning labour-centred societies and the increasing identification of human value with productivity, acceleration, and permanent activity.
 
 Written as a poetic and political declaration, the manifesto combines humour, contradiction, exhaustion, refusal, and performative language to advocate for alternative relationships to time, usefulness, leisure, and collective existence. Positioned between artistic statement, political provocation, and speculative exercise, the text proposes “not doing” as a serious and conscious practice capable of interrupting dominant structures of overproduction and self-optimization.
 
@@ -25,8 +25,6 @@ Public readings and performances: live activations of the manifesto within exhib
 Printed and online circulation: textual distribution as part of the broader research environment of [Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/).
 
 Performative speech act: the manifesto functioning simultaneously as text, declaration, instruction, and collective provocation
-
-Please contact the artist for the English version of the manifesto.
 
 **Context**
 
@@ -47,6 +45,9 @@ Back to main project[Doing Nothing Lab]((https://www.christinaschultz.com/works/
 ![image](/media/images/ManifiestoHyF2.jpg)
 
 ![image](/media/images/ManifiestoHyF3.jpg)
+
+Manifesto of Doing Nothing
+Please contact the artist for the English version
 
 ![image](/media/images/Manifesto1.png)
 ![image](/media/images/Manifesto2.png)
