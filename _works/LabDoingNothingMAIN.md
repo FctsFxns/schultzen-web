@@ -48,7 +48,7 @@ A written manifesto proposing “doing nothing” as a collective and political 
 
 A performative action inspired by Herman Melville’s Bartleby, developed through gestures of refusal, non-participation, and deliberate inactivity within everyday productive situations.
 
-**Wasting time or how to levitate**
+**[Wasting time or how to levitate]((https://www.christinaschultz.com/works/LabWastingTime/)**
 
 A public performative action exploring apparently useless activities, suspended time, and purposeless presence through simple gestures of waiting, drifting, and non-efficiency in urban space.
 
