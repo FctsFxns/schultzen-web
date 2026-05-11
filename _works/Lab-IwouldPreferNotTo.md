@@ -13,7 +13,7 @@ I Would Prefer Not To is a performative telephone piece in which the main protag
 
 While walking home through the city, the artist initiates a monologue by phone, unfolding fragments of a story that each listener receives only partially. Every participant encounters a different section of the narration, leaving the story permanently incomplete and dispersed between multiple listeners.
 
-Borrowing its title from Herman Melville’s Bartleby the Scrivener, the work approaches refusal, interruption, and incompleteness not only as narrative structures, but also as collective conditions of listening and participation.
+Borrowing its title from Herman Melvilles **Bartleby the Scrivener**, the work approaches refusal, interruption, and incompleteness not only as narrative structures, but also as collective conditions of listening and participation.
 
 Rather than presenting a fixed performance, the piece exists through temporary and accidental encounters generated between absence, distance, movement, and fragmented communication.
 
@@ -31,7 +31,7 @@ These forms operate together as a dispersed performative system investigating co
 
 **Context**
 
-The work was presented on May 5th 2017 at Sala Usurpada during the event **Trece ______ para una alteración**, conceived by Gerard Ballester and Helena Vinent.
+The work was presented on May 5th 2017 at Sala Usurpada during the event **Trece___para una alteración**, conceived by Gerard Ballester and Helena Vinent.
 
 The invited artists were asked to occupy the exhibition space for thirty minutes. Participating artists included Lucía Egaña, Marc Vives, Isamit Morales, Ariadna Guiteras, Nenazas, José Begega, Alexander Arilla, and Sergi Botella.
 
