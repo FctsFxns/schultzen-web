@@ -15,7 +15,7 @@ The project marks an important transition within the artist’s practice: a move
 
 At the same time, the film introduces a method that later reappears in works such as The Voices of my Neighbours: the translation of lived experience and oral narration into animated and performative visual forms.
 
-**Process**
+## Process
 
 The project emerged through conversations, memories, family archives, and autobiographical reflection surrounding the life and death of the artist’s grandmother.
 
@@ -25,14 +25,14 @@ The hybrid process allowed documentary narration to coexist with symbolic and su
 
 Through this methodology, animation shifts from pure cinematic experimentation towards a relational and narrative tool capable of carrying lived experience, memory, and voice.
 
-**Forms**
+## Forms
 Animated documentary film: a hybrid moving-image work combining analog and digital animation with autobiographical narration and documentary elements
 Hybrid animation techniques — a combination of handmade and digital processes translating memory, oral storytelling, and emotional states into moving images
 Sound and narration — autobiographical and documentary voice structures accompanying the visual reconstruction of memory and family history
 
 These forms operate together as a fragmented emotional portrait in which animation functions as a tool for narration, translation, and mourning.
 
-**Context**
+## Context
 
 Produced after the films later gathered under Fragile Narratives, OMA OMA OMA marks a decisive transition from analog stop-motion experimentation towards hybrid documentary and narrative methodologies.
 
@@ -40,7 +40,7 @@ The film was presented internationally in film festival contexts, including the 
 
 Within the artist’s trajectory, the project occupies an important position as an early work in which autobiographical voice, oral history, and lived experience begin to structure the moving image directly.
 
-**Credits**
+## Credits
 
 Concept, direction and animation: Christina Schultz
 Music: [Parasyte Woman](https://www.youtube.com/watch?v=ukMsPZ4-I6U)

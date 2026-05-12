@@ -16,7 +16,7 @@ Across the performances, images are manipulated live in front of the audience th
 
 The trilogy marks an important transition within the artist’s practice: the movement from fixed audiovisual and collage production towards live escenic forms in which image-making becomes embodied, relational, and exposed to real-time transformation.
 
-**Process**
+## Process
 
 The trilogy was developed through experiments in live animation, collage, projection, and audiovisual improvisation.
 
@@ -24,7 +24,7 @@ Using found imagery, internet references, advertising aesthetics, archival fragm
 
 The live condition became central to the research process, introducing instability, immediacy, and performative risk into practices previously rooted in audiovisual editing and post-production.  
 
-**Forms**
+## Forms
 
 Live audiovisual performances: real-time compositions combining animation, collage, projection, sound, and performative manipulation
 
@@ -40,7 +40,7 @@ Site-specific mural collage: Enlightning, a large-scale collage intervention dev
 
 These forms operate together as performative and affective image environments in which animation, narration, collage, and emotional projection circulate across live, editorial, and spatial contexts.
 
-**Context**
+## Context
 
 The trilogy forms part of an early phase in the artist’s practice investigating the intersection between collage, moving image, and live performance.
 
@@ -48,7 +48,7 @@ Developed before the artist’s later socially engaged and voice-based works, th
 
 The works circulated across self-organised cultural spaces, galleries, and performance contexts in Barcelona during the early 2010s, including presentations at Artkatraz — a large occupied building and independent cultural venue that hosted artistic and performative experimentation — as well as exhibitions and live events in gallery and festival contexts.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

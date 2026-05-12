@@ -16,7 +16,7 @@ Developed around the impossible proposition of collective levitation, the projec
 
 As with many manifestations of the [Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), the work deliberately leaves uncertain whether anything “happened” at all.
 
-**Forms**
+## Forms
 
 Two-hour collective performative session — a public experimental gathering reflecting on wasting time and attempting collective levitation
 Mural intervention — a wall version of the Manifesto del no hacer installed as part of the exhibition environment
@@ -25,13 +25,13 @@ Exhibition installation — a temporary spatial situation combining performance,
 
 A selection of the drawings is distributed through [Cientomásuna](https://cientomasuna.com/christina-schultz/).
 
-**Context**
+## Context
 
 The project, including a mural of the [Manifesto de no hacer](https://www.christinaschultz.com/works/Lab-Manifesto/) was developed within the exhibition Perder el tiempo y encima procurarse de un reloj para este propósito at Can Felipa, curated by Clàudia Eliés and Marc Mela.
 
 Within the [Doing Nothing Lab]((https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), the work extends the research into collective inactivity and alternative temporalities through absurd performative structures, public participation, and speculative gestures resisting measurable productivity and concrete outcomes.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

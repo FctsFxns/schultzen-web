@@ -21,7 +21,7 @@ Rather than presenting a singular narrative, the project unfolds as a fragmented
 
 Many participants contributed to the collaborative performances of doing nothing or shared statements and experiences for the audio collage, transforming the project into a collective reflection on labour, time, inactivity, and social expectation.
 
-**Forms**
+## Forms
 
 [Five-chapter audio collage book](https://www.christinaschultz.com/FERnofer/El-Fer-Nr1-ElConceptoDeTrabajo) — a sound work constructed from interviews and reflections on labour, productivity, and non-activity
 Daily performances of doing nothing — recurring collective situations inviting participants to share periods of intentional inactivity within the exhibition space
@@ -37,7 +37,7 @@ Online platforms and archives — a digital extension of the project documenting
 [The project's website](https://www.christinaschultz.com/FERnofer/El-Fer-Nr1-ElConceptoDeTrabajo)
 [The fer i no fer blog](https://elfernofer.tumblr.com/)
 
-**Context**
+## Context
 
 The project was presented in a solo exhibition at [Centre Cultural Casa Elizalde](https://naucoclea.com/2015/09/28/el-fer-i-el-no-fer-christina-schultz-casa-elizalde-barcelona-20-oct-13-nov/) in November 2015, bringing together the different performative, documentary, visual, and sound elements developed throughout the research process.
 
@@ -46,7 +46,7 @@ The exhibition space was structured through different spatial and atmospheric si
 As part of The Laboratory of Doing Nothing, the project expanded the research into collaborative and documentary methodologies, introducing interviews, online archives, collective performances, and pedagogical structures as central artistic forms.
 The project was developed with the support of [Nau Côclea](https://naucoclea.com/2015/09/28/el-fer-i-el-no-fer-christina-schultz-casa-elizalde-barcelona-20-oct-13-nov/) under the direction of Clara Garí.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

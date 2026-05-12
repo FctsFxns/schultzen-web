@@ -16,7 +16,7 @@ Fer Forats or Making holes is a collaborative artistic research project develope
 
 The project engages with the Rambla as a contested and transformed space—marked by tourism, displacement, and the gradual disappearance of its residents. Through writing, it seeks to reopen the Rambla as a lived environment and a shared space of imagination.
 
-**Process**
+## Process
 
 The project unfolds through a series of collective writing encounters, initially developed during a residency at the [Santa Monica Art Center](https://artssantamonica.gencat.cat/ca/detall/Rambla-14-fragments-itinerants-en-tres-temps) and later expanded through workshops and public sessions.
 
@@ -30,7 +30,7 @@ The process extends into exchanges with local residents and neighbourhood initia
 
 At a later stage, the project expands into a documentary investigation conceived as a detective narrative, tracing the possible authors of the letters. Following the theatrical score developed in the writing process, this work remains ongoing and unresolved.
 
-**Forms**
+## Forms
 
 The research is translated into performative, textual, and spatial forms:
 
@@ -47,7 +47,7 @@ Documentary (ongoing): a filmic investigation conceived as a detective narrative
 
 These works re-articulate the writing processes through distinct narrative and performative structures.
 
-**Context**
+## Context
 
 The project was developed in Barcelona in dialogue with local institutions and independent initiatives, and presented through workshops, performances, and public programmes.
 

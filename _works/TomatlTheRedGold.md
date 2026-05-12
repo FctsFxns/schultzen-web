@@ -15,7 +15,7 @@ The project questions the unstable notions of identity and nationality attached 
 
 The term “red gold” points to the tomato’s status as a commodity whose production involves invisible forms of labour and uneven global relations.
 
-**Process**
+## Process
 
 The project unfolds through research into the historical, economic, and social conditions surrounding tomato production and distribution.
 
@@ -25,7 +25,7 @@ Rather than presenting this information directly, the project was conceived thro
 
 This process connects everyday domestic actions with broader questions of labour, sustainability, and political responsibility, situating food preparation as both a practical and critical activity.
 
-**Forms**
+## Forms
 
 The research is translated into performative, visual, and material forms:
 
@@ -35,18 +35,18 @@ Conservas (12 tomato preserves) — produced during the process and activated wi
 
 These forms operate together as a narrative and material system, in which cultivation, representation, and preservation intersect.
 
-**Context**
+## Context
 
 The project was developed as part of a broader inquiry into value, material culture, and the political dimensions of everyday objects.
 
 It connects to other works exploring circulation and exchange, such as Objects and Desires, extending this investigation into the field of food and agriculture.
 
-**Context**
+## Context
 
 The performance was developed as part of the [Grand Tour 18](http://www.elgrandtour.net/), curated by Clara Garí, as the fourth stage of a trajectory towards [CeRRCa](https://cercca.com/).
 
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

@@ -16,7 +16,7 @@ The project engages with the instability of digital self-representation, approac
 
 Rather than treating the digital as immaterial, the work proposes a translation into physical and performative forms, exposing the economies, desires, and absurdities embedded in online life.
 
-**Process**
+## Process
 
 The project unfolds through a series of laboratory sessions combining practical experimentation and theoretical reflection.
 
@@ -24,7 +24,7 @@ Participants are invited to analyse, manipulate, and reconfigure their digital i
 
 Through collective experimentation, digital behaviours are translated into physical actions, objects, and performative gestures, creating a space where online and offline logics intersect.
 
-**Forms**
+## Forms
 
 The research is translated into performative, material, and editorial forms:
 
@@ -36,13 +36,13 @@ Publication (40 pages): [a fanzine](https://hangar.org/es/publicacions/ppp/) com
 
 These forms operate as a system of translation, in which digital life is materialised, performed, and circulated through alternative economies of exchange.
 
-**Context**
+## Context
 
 The project was developed at [Hangar](https://hangar.org/es/publicacions/ppp/) through a series of workshops and presented at Sala Ricson as a performative event inspired by [Yami-Ichi](http://yami-ichi.biz/).
 
 It forms part of a broader inquiry into identity, value, and the circulation of meaning across digital and physical environments.
 
-**Credits**
+## Credits
 
 Concept and direction: Daniel Canet and Christina Schultz
 

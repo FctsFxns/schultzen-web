@@ -11,7 +11,7 @@ date:  2022-03-03 00:00:00 +0100
 ---
 Spells and Potions (cast: Conjuros y Colocones) is an artistic research project developed in collaboration with [Metzineres](http://metzineres.net/),harm-reduction and support spaces for women and gender-diverse people who use drugs and survive violent situations in Barcelona.
 
-**Process**
+## Process
 
 The project unfolds through a series of hosted encounters within the space of Metzineres, developed in close dialogue with its community.
 
@@ -23,7 +23,7 @@ In this context, hosting operates as a method: a way of structuring encounters t
 
 Rather than extracting stories, the work develops through sustained presence and shared conditions, allowing narratives to unfold and be re-articulated through different forms.
 
-**Forms**
+## Forms
 
 The research is translated into performative, narrative, and material forms:
 
@@ -38,7 +38,7 @@ Masks and performative activation: a series of masks developed in collaboration 
 
 These forms do not document the process directly, but re-articulate it through symbolic, performative, and ritual structures, maintaining the multiplicity of voices from which they emerge.
 
-**Context**
+## Context
 
 The project was developed in Barcelona in close collaboration with Metzineres, within its ongoing work around harm reduction, care, and community support.
 
@@ -46,7 +46,7 @@ It forms part of a broader inquiry into embodied knowledge, alternative epistemo
 
 This investigation was supported by a research grant from the Catalan Government (OSIC, 2020), as well as by MACBA (Museum of Contemporary Art of Barcelona), and through artist residencies at Can Serrat and Escoles Velles (Palautordera), in addition to private funding.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

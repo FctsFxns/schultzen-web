@@ -17,7 +17,7 @@ Borrowing its title from Herman Melvilles **Bartleby the Scrivener**, the work a
 
 Rather than presenting a fixed performance, the piece exists through temporary and accidental encounters generated between absence, distance, movement, and fragmented communication.
 
-**Forms**
+## Forms
 
 Telephone performance: a ringing phone installed within the exhibition space connecting visitors to a live, rehearsed monologue unfolding from the artist’s walk towards her home.
 
@@ -29,7 +29,7 @@ Live performative walk: the artist’s physical movement through urban space fun
 
 These forms operate together as a dispersed performative system investigating communication, refusal, interruption, and incomplete collective narration.
 
-**Context**
+## Context
 
 The work was presented on May 5th 2017 at Sala Usurpada during the event **Trece___para una alteración**, conceived by Gerard Ballester and Helena Vinent.
 
@@ -37,7 +37,7 @@ The invited artists were asked to occupy the exhibition space for thirty minutes
 
 Within the [Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), the project expands the research into refusal and non-productivity through dispersed narration, interruption, and unstable forms of collective participation.
 
-**Credits**
+## Credits
 
 Concept and performance: Christina Schultz
 

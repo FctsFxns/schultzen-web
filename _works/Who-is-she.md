@@ -16,7 +16,7 @@ Rather than constructing a stable self-portrait, the performance approaches iden
 
 The work transforms live animation into a performative process of emotional exposure and reconstruction, marking a decisive moment in the artist’s movement from audiovisual experimentation towards embodied and relational performative practices.
 
-**Process**
+## Process
 
 The project emerged through experiments in live animation, collage, audiovisual improvisation, and performative narration.
 
@@ -28,7 +28,7 @@ Conceived as an autobiographical and cathartic work, the performance introduced 
 
 Rather than approaching animation as a fixed cinematic form, the project transformed it into a live and embodied process unfolding in direct relation to sound, rhythm, and audience presence.
 
-**Context**
+## Context
 
 The project was was developed during an artistic residency at [Nau Estruch](https://nauestruch.cat/) under the curation of Oscar Abril Ascaso, in collaboration with the artist [Carme Viñas](https://carmeperformer.weebly.com/performances.html).
 
@@ -36,7 +36,7 @@ The piece was presented at the ["react-feminism" at Fundació Tàpies](http://ww
 
 As one of the final works within the artist’s live animation period, Who is She? occupies a transitional position between audiovisual collage practices and later voice-based, autobiographical, and relational methodologies.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

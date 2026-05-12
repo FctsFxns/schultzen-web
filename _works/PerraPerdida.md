@@ -16,7 +16,7 @@ The tour begins at one of the last remaining public telephone booths in Plaça C
 
 The title Perra Perdida (lost bitch / lost dog) introduces a double meaning that connects abandonment, gendered language, and sexuality. It refers to the past use of the underground cinema for pornographic screenings, bringing into play suppressed histories of desire and marginal public cultures embedded in the city.
 
-**Process**
+## Process
 
 The project originates in a workshop led by Francesc Ruiz at Hangar, where participating artists developed works in relation to Plaça Catalunya in Barcelona.
 
@@ -28,7 +28,7 @@ Through narration, movement, and pauses, the tour creates a shared situation in 
 
 Rather than reconstructing a fixed narrative, the work activates fragments—spatial, linguistic, and historical—placing them in relation through the act of walking together.
 
-**Forms**
+## Forms
 
 Guided performative tour: a live, site-specific walk connecting a telephone booth, underground passages, and a former cinema, activated through narration and collective movement
 
@@ -38,11 +38,11 @@ Flyers: distributed in the format of lost-and-found animal posters, circulating 
 
 These forms extend the project beyond the walk, creating different modes of circulation and engagement.
 
-**Context**
+## Context
 
 The project was presented in the framework of Perturbating Distribution, curated by [Francesc Ruiz](http://francescruiz.com/).
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

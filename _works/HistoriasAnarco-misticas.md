@@ -28,7 +28,7 @@ https://vimeo.com/662552033
 You [can download the script of the piece here](/media/pdf/SCRIPTanaromistic.pdf)
 It is shared under a Creative Commons open-source license. If you use or reference it, we would appreciate hearing from you.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

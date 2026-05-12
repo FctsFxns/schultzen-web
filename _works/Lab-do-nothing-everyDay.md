@@ -16,7 +16,7 @@ Developed together with Clara Garí, the project explored “doing nothing” as
 
 The project marks one of the earliest manifestations of what later evolved into the **Doing Nothing Lab**, introducing repetition, performative routines, online documentation, and collective inactivity as central artistic methodologies.
 
-**Forms**
+## Forms
 
 Daily performances of doing nothing — one hour of intentional inactivity repeated every day during 30 consecutive days
 
@@ -26,7 +26,7 @@ Performative routine — repetition used as a method for collectively interrupti
 
 These forms operate together as a minimal and durational performative structure investigating inactivity as an embodied and collective practice.
 
-**Context**
+## Context
 
 The project was developed in collaboration with Clara Garí and constitutes one of the foundational experiments leading towards The Laboratory of Doing Nothing.
 
@@ -34,7 +34,7 @@ Through its simple and repetitive structure, the work introduced many of the con
 
 Do Nothing II was presented in November 2015 at POGON – Zagreb Center for Independent Culture and Youth during the group exhibition Long Live Labour curated by Leila Topić, alongside works by Željko Badurina, Siniša Labrović, Vlado Martek, Antonio Paucar, Julien Prévieux, Oliver Ressler, Mladen Stilinović, Péter Szabó, David Thorne, Marko Vojnić Gin, Damir Žižić, Kristian Kožul, and Fokus Grupa. Exhibition design by Rafaela Dražić.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz and Clara Garí
 

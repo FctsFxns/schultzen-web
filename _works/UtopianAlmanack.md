@@ -17,7 +17,7 @@ Drawing on the structure of traditional almanacs—combining practical knowledge
 
 Developed in collaboration with participants from Metzineres, the project proposes alternative temporalities grounded in lived experience, particularly from positions situated at the margins.
 
-**Process**
+## Process
 
 The project unfolds through a series of hosted encounters, in which participants engage in writing, reflection, and speculative exercises.
 
@@ -25,7 +25,7 @@ Together, they generate predictions, proverbs, recipes, and fictional future eve
 
 Through this process, hosting becomes a way of producing time collectively—allowing alternative futures to emerge from situated voices.
 
-**Forms**
+## Forms
 
 The research is translated into a publication that operates across visual and textual forms:
 
@@ -37,13 +37,13 @@ Collages: visual compositions developed from participants’ desires and project
 
 These elements operate together as a temporal device, combining narrative, visual, and speculative structures.
 
-**Context**
+## Context
 
 The project was developed in collaboration with Metzineres in Barcelona and forms part of a broader inquiry into marginalised knowledge, collective imagination, and alternative ways of constructing reality.
 
 It extends the artist’s practice into the field of publication as a space for hosting, narration, and the circulation of shared visions.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

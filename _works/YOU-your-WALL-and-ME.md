@@ -21,7 +21,7 @@ The project approaches hospitality as a central artistic method. Each interventi
 
 Rather than treating collage as an autonomous image practice, the project develops it as a situated and relational process shaped by proximity, conversation, and shared time.
 
-**Process**
+## Process
 
 The project unfolded through an online open call inviting participants to host an intervention within their spaces.
 
@@ -31,7 +31,7 @@ References to Feng Shui informed the project as an intuitive and relational meth
 
 The collages were developed directly within the spaces, transforming installation into a shared performative act and allowing each wall to emerge through a process of mutual translation.
 
-**Forms**
+## Forms
 
 Site-specific collages (4 large-scale works): interventions developed in direct relation to the architecture, emotional atmosphere, and symbolic conditions of each hosted space
 
@@ -43,13 +43,13 @@ Online platforms and process archives: a distributed digital environment documen
 [Visit the process blog](http://christina-schultz.tumblr.com/)
 and [the Facebook profile](https://www.facebook.com/youyourwallandme/)
 
-**Context**
+## Context
 
 The project was developed in Barcelona through collaborations with participants from domestic, artistic, and commercial spaces, including Editorial Gustavo Gili, Loring Art, La Xula Taperia, and private homes.
 
 The interventions were later activated through a collective bicycle route and an online exhibition platform, extending the project across both physical and digital forms of circulation.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

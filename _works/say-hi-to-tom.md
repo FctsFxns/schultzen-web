@@ -22,7 +22,7 @@ The project reflects on tourism, displacement, and systems of circulation, appro
 
 Rather than opposing tourism directly, the project constructs an alternative economy of exchange based on attention, storytelling, and reciprocity.
 
-**Process**
+## Process
 
 The project unfolded through an open international call distributed online and through social networks.
 
@@ -36,7 +36,7 @@ These fragments of autobiographical material became the basis for a series of pe
 
 Through this process, the artist adopts the role of host and translator, transforming personal memories and urban symbols into shared visual narratives.
 
-**Forms**
+## Forms
 
 Collage series (77 works): personalised digital collages developed from the received postcards and responses, reconfiguring touristic imagery through memory and subjective association
 
@@ -58,13 +58,13 @@ Online platforms and archives: a distributed digital system documenting the post
 Social media extensions: [Facebook](https://www.facebook.com/callforpostcards/)
 and former Twitter (SayHiToTom)
 
-**Context**
+## Context
 
 The project was conceived as a response to mass tourism and the increasing transformation of cities into spaces of symbolic consumption.
 
 It was presented through online circulation, physical auctions, and collaborative exchanges between participants from multiple cities worldwide.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

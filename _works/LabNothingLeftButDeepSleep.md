@@ -17,7 +17,7 @@ The project approaches the lullaby as both a gesture of care and a performative 
 
 Rather than functioning as autonomous musical works, the lullabies operate as intimate and accessible interventions addressing emotional fatigue, overwork, and the desire for withdrawal and rest.
 
-**Forms**
+## Forms
 
 Telephone intervention: a Spanish landline giving public access to the two recorded lullabies through a simple phone call
 
@@ -33,13 +33,13 @@ Digital collages: two visual works developed alongside the sound intervention
 
 Together, these forms construct a minimal and intimate infrastructure of rest, care, and emotional withdrawal.
 
-**Context**
+## Context
 
 The project was conceived within the online residency TRAVERSE, a collaboration between Hangar and Billede Kunst Center exploring artistic production, collaboration, and digital exchange.
 
 Within the broader framework of The Laboratory of Doing Nothing, the project extends the research into sleep, exhaustion, care, and non-productivity through sound, public accessibility, and performative service structures.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz and Anders Visti
 

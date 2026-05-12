@@ -18,7 +18,7 @@ Parallel to the live vocal performance, a mashup video composed of water scenes 
 
 Rather than producing a fixed statement, the work stages contamination itself as a method: voices, images, and references overlap and circulate, generating a fragmented space between popular culture, fiction, and political imagination.
 
-**Process**
+## Process
 
 The project was developed within Lightning Studies – Centre for the Translation of Constraints, Conflicts and Contaminations (CTCCC), a research framework curated by [Renan Laru-an](http://www.curators-network.eu/database/db_item/id/renan-laru-an) for the Encura Grant at Hangar and Curators’ Network.
 
@@ -27,7 +27,7 @@ Within this context, the work emerged through processes of appropriation, vocal 
 The project approaches translation not as fidelity, but as transformation: a process through which meaning shifts while carrying traces of its original context.
 
 
-**Forms**
+## Forms
 
 The research is translated into performative, audiovisual, and editorial forms:
 
@@ -42,13 +42,13 @@ These forms operate together as a system of translation and contamination, where
 
 The Hangar resident artists who were selected for this curatorial experience by Renan Laru-an, **Lightning Studies: CTCCCs** are Megan Michalak, the artists duo Giuliana Racco/Matteo Guidi,[Mario Santamaría](http://mariosantamaria.net/) and me.
 
-**Context**
+## Context
 
 The work was produced in 2016 for Lightning Studies – CTCCC, a research project on postcolonialism, institutions, and processes of institutionalisation.
 
 The project was developed alongside works by Megan Michalak, Giuliana Racco, Matteo Guidi, and Mario Santamaría within the Hangar residency framework.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

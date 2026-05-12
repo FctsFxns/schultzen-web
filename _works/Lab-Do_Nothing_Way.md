@@ -20,7 +20,7 @@ The project revolves around the recurring statement:
 
 positioned ambiguously between political declaration, exhaustion, irony, and speculative desire.
 
-**Forms**
+## Forms
 
 Performance: two hired performers reading aloud excerpts from Hannah Arendt’s The Human Condition while resting in a white hammock beside a series of photographic works
 
@@ -32,13 +32,13 @@ Lecture format: a performative reflection on labour, work, usefulness, and non-p
 
 Together, these forms construct a contemplative environment oscillating between philosophical reflection, performative refusal, and visual suspension.
 
-**Context**
+## Context
 
 Developed as one of the manifestations of [Doing Nothing Lab](https://www.christinaschultz.com/works/LaboratoryDoingNothingMAIN/), the project expands the research into labour, inactivity, and exhaustion through performative reading, delegated performance, and minimal bodily gestures.
 
 The incorporation of Hannah Arendt’s writings situates the work within broader philosophical reflections on labour, production, and the political organisation of human activity.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

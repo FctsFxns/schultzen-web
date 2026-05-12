@@ -17,7 +17,7 @@ Rather than presenting individual testimonies, the performance constructs a rela
 
 Alongside the live work, a short, animated, sung documentary translates this material into a musical form, in which the songs carry the narrative content and the animation the unspeakable, articulating the living conditions and migratory desires of the Moroccan women involved in the project.
 
-**Forms**
+## Forms
 
 Performance — a live work structured around the preparation and serving of tea, combining singing, narration, and performative action. The piece brings together the artist’s voice, songs developed during the research, and autobiographical material into a layered vocal composition
 
@@ -25,13 +25,13 @@ Sung animated documentary (12 min): an unpublished short film structured as a mu
 
 These forms operate as parallel articulations of the same material: while the performance constructs a relational and situated space of encounter, the film condenses the work into a musical and audiovisual form.
 
-**Context**
+## Context
 
 The performance was presented in different contexts, including exhibitions and performances at [Piramidón art center](http://www.piramidon.com/es/artistas/residentes/173-christina-schultz), MACBA, Festival Errant, the Museu de Sant Pol de Mar, and internationally at 365 Gallery in Viena.
 
 The project received support from the Generalitat de Catalunya and the PEI Program MACBA.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

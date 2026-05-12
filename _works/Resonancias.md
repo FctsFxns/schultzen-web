@@ -20,13 +20,13 @@ A complete documentation of the process, performances, and exhibition is availab
 
 Rather than producing a unified narrative, the process generated a choral structure: a multiplicity of voices that resonate, overlap, and contradict each other.
 
-**Process**
+## Process
 
 The work developed through collective practices of narration, vocal experimentation, and bodily expression, in which language extended beyond the verbal into gesture, movement, and sound.
 
 Grounded in lived experience, these encounters created a shared space where intimacy could be articulated collectively and transformed into performative material.
 
-**Forms**
+## Forms
 
 The research was translated into performative and spatial forms:
 
@@ -40,13 +40,13 @@ Documentary: a filmic record tracing the development of the project
 
 These forms extend the collective process into staged and spatial compositions, maintaining the multiplicity of voices rather than resolving them.
 
-**Context**
+## Context
 
 The performance was presented at Graner Centre de Creació de Dansa i Arts Vives and at MACBA, and the full project was later shown in an exhibition at Homesession.
 
 The project was developed with the support of [Homesession.org](https://homesession.org) and the [Art for Change](https://obrasociallacaixa.org/es/cultura/art-for-change/) of La Caixa Foundation.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

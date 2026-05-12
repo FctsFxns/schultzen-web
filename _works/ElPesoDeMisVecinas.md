@@ -21,7 +21,7 @@ Developed through close engagement with these contexts, the project also reflect
 
 The project builds on earlier research into the circulation and meaning of objects across borders, particularly [Objects and Desires](https://www.christinaschultz.com/works/ObjectsAndDesires/), which explores value and desire through objects moving between Spain and Morocco.
 
-**Process**
+## Process
 
 The project unfolds through periods of cohabitation developed in relation to these cross-border dynamics.
 
@@ -51,7 +51,7 @@ A publication: structured through the format of recipes, bringing together songs
 
 These forms do not document the encounters directly, but re-articulate them across different media: voice, image, and writing; allowing experiences to remain open, embodied, and in transformation.
 
-**Context**
+## Context
 
 The project was developed in dialogue with women engaged in cross-border practices of carrying goods, forming neighbourhood relations that extend beyond fixed geographic boundaries.
 
@@ -61,7 +61,7 @@ The work was presented in different contexts, including exhibitions and performa
 
 The project received support from the Generalitat de Catalunya and the PEI Program MACBA.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

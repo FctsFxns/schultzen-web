@@ -18,7 +18,7 @@ Drawing on the aesthetics of online tutorials, viral demonstrations, and figures
 
 Rather than attempting to resolve these contradictions, the performance creates a shared space of doubt, where truth remains shifting and relational.
 
-**Process**
+## Process
 
 The project was developed through autobiographical reflection, research into popular media culture, and the live re-enactment of situations of uncertainty and belief.
 
@@ -28,7 +28,7 @@ Parallel to this process, the artist collected online tutorials, viral demonstra
 
 Within the performance, these references are translated into live experiments and demonstrations, creating situations in which memory, authority, and perception are collectively negotiated. Through narration, suggestion, and performative testing, the work stages truth not as something fixed, but as something relational, unstable, and continuously reconstructed between people.
 
-**Forms**
+## Forms
 
 Performance: a performative talk, combining narration, online references, demonstrations, and audience interaction, structured around the testing of supposedly verifiable abilities and internet knowledge
 
@@ -36,13 +36,13 @@ Video documentation: audiovisual traces of the performance and its experiments, 
 
 The work operates through the tension between demonstration and uncertainty, producing a collective situation in which knowledge remains unstable and open to interpretation.
 
-**Context**
+## Context
 
 The project was presented in the framework of Liminal GR, curated by [Transit Projects](https://www.transit.es/portfolio/page/6/), Pilar Cruz and Marc Roig.
 
 It forms part of an early body of works investigating mediated perception, collective belief, and performative forms of knowledge production.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

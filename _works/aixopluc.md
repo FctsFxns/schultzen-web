@@ -19,7 +19,7 @@ Rather than approaching shelter as fixed architecture, Aixopluc constructs it as
 Alongside the live action, a twelve-part photographic series extends the performative gestures into still images, transforming temporary bodily situations into fragile visual compositions suspended between documentation, fiction, and performative trace.
 Rather than documenting the performance objectively, the photographs continue the project’s investigation into vulnerability, shelter, proximity, and emotional architecture.
 
-**Process**
+## Process
 
 The performance emerged in dialogue with the workshops and bodily exercises as a spatial experiment during the broader research process of [Walls of breath, from inside out](https://www.christinaschultz.com/works/WallsOfBreath/).
 
@@ -29,7 +29,7 @@ The photographic series was developed directly through the performative actions,
 
 Rather than documenting the performance objectively, the photographs continue the project’s investigation into vulnerability, shelter, proximity, and emotional architecture.
 
-**Forms**
+## Forms
 
 Live performance: a performative environment combining voice, water, bodily action, fabric structures, and spatial intervention
 
@@ -41,15 +41,15 @@ Collective readings: shared vocal situations exploring listening, intimacy, and 
 
 Together, these forms construct a performative and visual reflection on protection, fragility, and emotional survival.
 
-**Credits**
+## Credits
 
-Concept and direction: Christina Schultz
+**Concept and direction**: Christina Schultz
 
-Developed with: Centre Penitenciari Wad Ras, Barcelona, Kunstlabor Kösç, Dona i Presó
+**Developed with**: Centre Penitenciari Wad Ras, Barcelona, Kunstlabor Kösç, Dona i Presó
 
-Musicians: Manuela Rzytki, Jordi Rallo
+**Musicians**: Manuela Rzytki, Jordi Rallo
 
-Participants and collaborators: Petronilia, Montserrat, Elisabet, Esperanza, Mercedes, Stefania, Estela, Jennifer, Carmen, Silvia, Mirela, Tabata, Guadalupe and Cristina, Fatima, Saida, Yanira, Gisela, Andrea, Cynthia, Noemí, Marisa, Kamila, Belén, Natalya, Saliha, Montse, Nuria, Sonia, Olga, Eva, Maite, Annie, Julie, Maite, Rosa, Ana, Txus, Irina, Aisa, Jasmin
+**Participants and collaborators**: Petronilia, Montserrat, Elisabet, Esperanza, Mercedes, Stefania, Estela, Jennifer, Carmen, Silvia, Mirela, Tabata, Guadalupe and Cristina, Fatima, Saida, Yanira, Gisela, Andrea, Cynthia, Noemí, Marisa, Kamila, Belén, Natalya, Saliha, Montse, Nuria, Sonia, Olga, Eva, Maite, Annie, Julie, Maite, Rosa, Ana, Txus, Irina, Aisa, Jasmin
 
 
 Back to project [Walls of breath, from inside out](https://www.christinaschultz.com/works/WallsOfBreath/)

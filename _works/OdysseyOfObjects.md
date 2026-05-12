@@ -16,7 +16,7 @@ Developed in relation to contexts such as the Metzineres community, the work eng
 
 The project draws on the structure of the mythological odyssey, reinterpreting its stages—departure, wandering, trial, hospitality, and return—through contemporary experiences of movement and marginalisation.
 
-**Process**
+## Process
 
 The project unfolds through a series of encounters centred on objects and their trajectories.
 
@@ -24,7 +24,7 @@ Participants are invited to share, exchange, or reflect on objects that accompan
 
 In this process, hosting extends through objects: they become vehicles through which relationships are formed, and through which proximity is constructed across distance and difference.
 
-**Forms**
+## Forms
 
 The research is translated into visual, performative, and narrative forms:
 
@@ -37,7 +37,7 @@ Textual fragments — narratives emerging from the objects and their trajectorie
 
 These forms operate together as a mobile system, in which the suitcase functions as both container and narrative device, allowing experiences of movement and displacement to be carried, shared, and re-articulated.
 
-**Context**
+## Context
 
 The project was developed across different contexts, including collaborations with marginalised communities such as [Metzineres, shelter for women who use drugs and survive violences](http://metzineres.net/) in Barcelona.
 
@@ -49,7 +49,7 @@ The project was presented through the activation of a mobile suitcase archive, a
 
 It forms part of a broader inquiry into movement, proximity, and the ways in which experiences of migration and displacement can be articulated through indirect and material forms.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

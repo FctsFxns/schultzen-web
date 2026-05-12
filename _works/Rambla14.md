@@ -21,7 +21,7 @@ Through voice and performative narration, the work stages fragments of these mat
 
 The dramaturgy follows the theatrical score developed in the writing process, translating collective texts into an authored performative structure.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

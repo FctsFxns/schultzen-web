@@ -14,7 +14,7 @@ Oracles / Oráculos de los Márgenes is a series of works that emerges from the 
 
 Drawing on encounters developed within the Metzineres context, the work brings together experiences related to drug use, BDSM practices, trans identities, care, and pleasure. These lived experiences are translated into a system of images, texts, and performative structures that move between testimony, fiction, and ritual language.
 
-**Process**
+## Process
 
 The project develops through the transformation of narratives into symbolic forms.
 
@@ -24,7 +24,7 @@ This system expands into further oracles, including a BDSM Oracle and a Trans Or
 
 In this context, hosting extends into interpretation: participants, performers, and audiences engage with the material as an open system, where meaning is produced collectively through use.
 
-**Forms**
+## Forms
 
 The research is translated into a series of interconnected forms:
 
@@ -36,7 +36,7 @@ Installation / Oracle fair: a spatial structure composed of three kiosks built f
 
 These forms operate as interconnected modes of activation, in which the oracle functions as a central device while spatial and performative elements expand its field of meaning.
 
-**Context**
+## Context
 
 The work was developed within the framework of [Spells and Potions](https://www.christinaschultz.com/works/SpellsAndPotions/) in collaboration with Metzineres, and presented in performative and exhibition contexts, including MACBA (Museum of Contemporary Art of Barcelona).
 
@@ -45,7 +45,7 @@ It forms part of a broader inquiry into alternative epistemologies and the ways 
 The Drug Tarot is available in three languages.
 If you are interested in acquiring a deck, please [visit the shop](https://www.christinaschultz.com/shop-tarot/)
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

@@ -13,7 +13,7 @@ date:  2025-06-23 00:00:00 +0100
 
 **Sheets of Resistance** is a collaborative artistic research project developed in the framework of Murals of Transition, an investigation into the Spanish Transition between 1976 and 1985. The project engages with collective memory and neighbourhood belonging in Gràcia, focusing on histories of resistance and their resonance in the present. It centres particularly on the experiences of women during the Transition, connecting these narratives to contemporary lived realities.
 
-**Process**
+### Process
 
 The project unfolded over four months through a series of hosted encounters with a group of participants from the neighbourhood, brought together in collaboration with local social services and the neighbourhood association of Gràcia.
 
@@ -21,7 +21,7 @@ Through writing, conversation, modelling, and painting, participants developed a
 
 Grounded in lived experience, the sessions generated a relational body of texts and images that reimagined moments of resistance during the Spanish Transition, while situating them in relation to the present.
 
-**Forms**
+### Forms
 
 The research is translated into performative, spatial, and textual forms:
 
@@ -33,7 +33,7 @@ Architectural model: a speculative model of a shared public space in Gràcia, co
 
 These forms do not document the process directly, but re-articulate it through narrative, spatial, and symbolic constructions.
 
-**Context**
+## Context
 
 The project was developed in Gràcia, Barcelona, in collaboration with EART and the neighbourhood association, and in dialogue with local social and cultural networks. It forms part of a broader investigation into memory, resistance, and the transmission of collective histories across generations.
 

@@ -20,7 +20,7 @@ Rather than producing a single artwork, the project unfolded as a process genera
 
 The laboratory later expanded through workshops, presentations, and international invitations, transforming into an evolving pedagogical and performative research structure.
 
-**Forms**
+## Forms
 
 Six-week workshop laboratory — a collaborative research process developed with artists and participants during the residency at [Hangar](https://hangar.org/es/workshops-artist2artists/el-laboratorio-del-no-hacer-obre-les-seves-portes-al-public-durant-3-dies-a-la-blueproject-foundation/)
 
@@ -30,7 +30,7 @@ Three day master seminar - in collaboration with Pol Capdevila at EINA, school o
 
 International adaptations — presentations ESC Medienkunstcenter in Graz and at the Pergine Festival in Italy.
 
-**Context**
+## Context
 
 The project was initiated during the artist’s long-term residency at Hangar between 2015 and 2017 and presented publicly at [Blueproject Foundation](http://www.blueprojectfoundation.org/es/actividades/eventos/item/laboratorio-del-no-hacer) in 2017.
 
@@ -38,7 +38,7 @@ Parallel collaborations and pedagogical extensions were developed at EINA togeth
 
 Within the broader trajectory of The Laboratory of Doing Nothing, this project established many of the collective, pedagogical, and performative methodologies that later became central to the artist’s practice.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

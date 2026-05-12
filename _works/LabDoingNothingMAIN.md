@@ -57,19 +57,19 @@ A public performative action exploring apparently useless activities, suspended 
 A performative disappearance piece developed through temporary withdrawals from social visibility and translated into a photographic series documenting absent bodies, emptied spaces, and traces of interrupted presence.
 
 
-**Forms**
+## Forms
 
 The ongoing project unfolds through performances, collective exercises, interviews, podcasts, manifestos, phone interventions, photographic series, installations, public actions, scores, blogs, sleep situations, and temporary communities.
 
 Rather than producing stable artworks, the research develops through evolving situations and experimental formats that collectively investigate exhaustion, productivity, refusal, waiting, rest, and alternative experiences of time.
 
-**Context**
+## Context
 
 Developed over several years through collaborations with artists, curators, cultural spaces, and temporary communities, Doing Nothing Lab occupies a central position within the artist’s transition towards collective, performative, and socially engaged methodologies.
 
 The research unfolded across workshops, self-organised contexts, artistic residencies, public interventions, pedagogical situations, and collaborative processes, progressively transforming “doing nothing” from an individual gesture into a collective and political field of experimentation.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

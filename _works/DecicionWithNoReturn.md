@@ -15,7 +15,7 @@ The work approaches Brexit not as a political event to be explained, but as a na
 
 Through this framework, territory is understood not as a fixed geography, but as a contested and constructed space shaped by history, imagination, and political decision.
 
-**Process**
+## Process
 
 The project unfolds through the appropriation and recomposition of existing cultural material, particularly from British popular culture.
 
@@ -23,7 +23,7 @@ Fragments from television series and films featuring iconic detective characters
 
 In parallel, the artist collects and constructs physical “evidence” from the urban environment, creating a speculative field in which fiction and reality intersect.
 
-**Forms**
+## Forms
 
 The research is translated into audiovisual, material, and visual forms:
 
@@ -35,13 +35,13 @@ Paintings (series of 9):small acrylic canvases depicting question marks, functio
 
 These elements operate together as an investigative system, where narrative, material traces, and symbolic forms construct a fragmented understanding of territory and decision.
 
-**Context**
+## Context
 
 The project was developed during a residency at [Islington Mill](http://www.islingtonmill.com/events/gallery-opening-christina-schultz/) and presented there in 2017.
 
 It was later shown in contexts such as [Proyector Filmfestival](https://proyector.info/profile/christina-schultz/) in Madrid and Buenos Aires, Argentina and El Instante Fundación.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 Music: [Mirim Casal Madinabeita](https://www.facebook.com/Ea7_dmZ-290629557628051/)

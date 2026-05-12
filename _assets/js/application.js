@@ -1,7 +1,7 @@
 //= require_self
-$(document).ready(function() {
-    $('img.duotone').duotone();
-});
+// $(document).ready(function() {
+//     $('img.duotone').duotone();
+// });
 
 
 $(function() {
@@ -13,12 +13,12 @@ $(function() {
 
         $('#index-slideshow h1.super-title').on('appear', function(event, $all_appeared_elements) {
             // this element is now inside browser viewport
-            $('a.navbar-brand').removeClass('show');    
+            $('a.navbar-brand').removeClass('show');
         });
 
         $('#index-slideshow h1.super-title').on('disappear', function(event, $all_appeared_elements) {
             // this element is now outside browser viewport
-            $('a.navbar-brand').addClass('show');    
+            $('a.navbar-brand').addClass('show');
         });
 
         $('.navbar-toggle').click(function() {

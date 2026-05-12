@@ -17,7 +17,7 @@ Rather than approaching objects as neutral commodities, the project investigates
 
 The research later became one of the conceptual foundations for El Peso de mis Vecinas, where cross-border movement, informal labour, and migratory experience are further explored through voice, song, neighbourhood relations, and embodied collaboration.
 
-**Process**
+## Process
 
 The project was developed through field research, drawing, sound recording, observation, and informal conversations carried out between Catalunya, Melilla, and Marrakech.
 
@@ -29,7 +29,7 @@ As part of the process, the artist carried out a performative sell-buy experimen
 
 Rather than functioning as anthropological documentation, the process approaches the circulation of objects as an embodied and affective experience in which desire, exchange, intimacy, labour, and projection become entangled.
 
-**Forms**
+## Forms
 
 Radio performance: a live reading through the artist’s sketchbook accompanied by field recordings collected during the research process
 
@@ -43,13 +43,13 @@ Wrapped object installation: an installation element connected to the circulatio
 
 Together, these forms construct a fragmented documentary and performative archive investigating the emotional and political life of objects in movement.
 
-**Context**
+## Context
 
 Developed between Barcelona, Melilla, and Marrakech, the project forms an early research foundation for [El Peso de mis Vecinas](https://www.christinaschultz.com/works/ElPesoDeMisVecinas/), where cross-border labour, migratory experience, neighbourhood relations, and embodied collaboration are later expanded through voice and collective singing.
 
 The project was supported by Institut Ramon Llull and developed through residencies at Jiwar Creació i Societat and Le18.
 
-**Credits**
+## Credits
 
 Concept and direction: Christina Schultz
 

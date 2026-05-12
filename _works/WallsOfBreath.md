@@ -18,13 +18,13 @@ Rather than representing prison life directly, the project approaches the prison
 
 The project unfolds through different interconnected manifestations, including the performance [Aixopluc](https://www.christinaschultz.com/works/aixopluc/), collective readings, video works, [photography](https://www.christinaschultz.com/works/aixopluc/), and an eighteen-sheet visual series combining drawing, notation, and poetic reflection.
 
-**Process**
+## Process
 
 The project unfolds through a series of writing encounters developed in different locations, including the Penitentiary Centre Wad Ras in Barcelona, Kösç Kunstlabor and JVA Stadelheim in Munich, and Clean Break / HMP Askham Grange in London. At its core is a fictional letter-writing process: participants write from intimate perspectives shaped by their environments—such as the bed, the window, or the shower—and these letters circulate across contexts. Others respond from their own lived experiences, creating an ongoing exchange that connects and displaces notions of intimacy, safety, and space. Through this process, a shared yet fragmented body of texts emerges, forming a network of voices that are relational rather than unified.
 
 The project operates through acts of hosting, creating situations where encounters take place across separation and difference. Grounded in lived experience, these exchanges develop through shared conditions and are shaped by trust, distance, and translation.
 
-**Forms**
+## Forms
 
 The research gradually expanded into multiple visual, textual, and performative forms in which shelter is approached not as fixed architecture, but as an emotional, relational, and bodily condition continuously negotiated between bodies, voices, walls, and proximity.
 
@@ -41,7 +41,7 @@ Collective readings and workshops: shared performative situations developed thro
 
 These works do not document the process directly but re-articulate it through distinct formal languages.
 
-**Context**
+## Context
 
 The different forms have been presented across contexts including Barcelona, London, Munich, and Andorra, and developed in dialogue with institutional and independent partners. The project has also been part of a residency at Villa Waldberta in Munich.
 
