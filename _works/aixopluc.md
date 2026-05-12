@@ -71,11 +71,11 @@ Pics by CC Sagrada Familia
 
 Pic by @FedericoPedrotti
 
-![image](/media/images/AixoplucFotos1.png)
+![image](/media/images/AixoplucFotos1.jpg)
 
-![image](/media/images/AixoplucFotos2.png)
+![image](/media/images/AixoplucFotos2.jpg)
 
-![image](/media/images/AixoplucFotos3.png)
+![image](/media/images/AixoplucFotos3.jpg)
 
 pics by me
 
