@@ -1,8 +1,8 @@
 ---
 title:          Sheets of resistance
-categories: Script Performance Model building Mural
-intro: A project on memory, belonging, and resistance during the Spanish Transition in Gràcia, Barcelona
-featured_image: /media/images/Llencols1.jpg
+categories: Writing Mural Performance 2025
+intro: A project on female memory, belonging, and resistance during the Spanish Transition in Gràcia, Barcelona
+featured_image: /media/images/Llencols5.jpg
 featured_video:
 
 home_show: true
@@ -11,7 +11,7 @@ published: true
 date:  2025-06-23 00:00:00 +0100
 ---
 
-Sheets of Resistance is a collaborative artistic research project developed in the framework of Murals of Transition, an investigation into the Spanish Transition between 1976 and 1985. The project engages with collective memory and neighbourhood belonging in Gràcia, focusing on histories of resistance and their resonance in the present. It centres particularly on the experiences of women during the Transition, connecting these narratives to contemporary lived realities.
+**Sheets of Resistance** is a collaborative artistic research project developed in the framework of Murals of Transition, an investigation into the Spanish Transition between 1976 and 1985. The project engages with collective memory and neighbourhood belonging in Gràcia, focusing on histories of resistance and their resonance in the present. It centres particularly on the experiences of women during the Transition, connecting these narratives to contemporary lived realities.
 
 **Process**
 
@@ -43,4 +43,4 @@ The project was developed in Gràcia, Barcelona, in collaboration with EART and 
 
 ![image](/media/images/Llencols4.jpg)
 
-![image](/media/images/Llencols5.jpg)
+![image](/media/images/Llencols1.jpg)

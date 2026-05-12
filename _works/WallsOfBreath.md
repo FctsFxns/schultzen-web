@@ -1,7 +1,7 @@
 ---
 title:          Walls of Breath - from inside out
 categories: Research Performance Installation Publication
-intro: A translocal artistic research on intimacy, voice, and the construction of safe spaces within and beyond prison environments
+intro: A translocal, relational research on intimacy, voice, and fragile forms of safe spaces within and beyond female prison environments
 featured_image: /media/images/WallsOf Breath.png
 featured_video:
 
@@ -10,26 +10,34 @@ home_show: true
 published: true
 date:  2026-01-01 00:00:00 +0100
 ---
+Walls of Breath, from inside out is an ongoing transdisciplinary project (2023–2026) developed through workshops, collective readings, drawing processes, performative actions, video, photography, and writing in dialogue with incarcerated women and prison environments.
 
-Walls of Breath, from inside out is an ongoing transdisciplinary project (2023–2026) that develops through writing, exchange, and performative translation. It engages with women in prison and outside contexts to explore how intimacy and safety can be imagined, shared, and transformed across distance.
+Departing from the idea of the “aixopluc”, a Catalan word referring to shelter, refuge, or temporary protection, the project reflects on how intimacy, emotional survival, and forms of inner space can emerge within structures defined by confinement, control, and separation.
+
+Rather than representing prison life directly, the project approaches the prison as a space where breathing, listening, imagination, reading, voice, and collective presence acquire particular emotional and political intensity. Through fragile gestures and shared performative situations, the research investigates how temporary forms of protection and relational closeness can be constructed inside highly regulated environments.
+
+The project unfolds through different interconnected manifestations, including the performance [Aixopluc](https://www.christinaschultz.com/works/aixopluc/), collective readings, video works, [photography](https://www.christinaschultz.com/works/aixopluc/), and an eighteen-sheet visual series combining drawing, notation, and poetic reflection.
 
 **Process**
 
-The project unfolds through a series of writing encounters developed in different locations, including the Penitentiary Centre Wad Ras in Barcelona, JVA Stadelheim in Munich, and Clean Break / HMP Askham Grange in London. At its core is a fictional letter-writing process: participants write from intimate perspectives shaped by their environments—such as the bed, the window, or the shower—and these letters circulate across contexts. Others respond from their own lived experiences, creating an ongoing exchange that connects and displaces notions of intimacy, safety, and space. Through this process, a shared yet fragmented body of texts emerges, forming a network of voices that are relational rather than unified.
+The project unfolds through a series of writing encounters developed in different locations, including the Penitentiary Centre Wad Ras in Barcelona, Kösç Kunstlabor and JVA Stadelheim in Munich, and Clean Break / HMP Askham Grange in London. At its core is a fictional letter-writing process: participants write from intimate perspectives shaped by their environments—such as the bed, the window, or the shower—and these letters circulate across contexts. Others respond from their own lived experiences, creating an ongoing exchange that connects and displaces notions of intimacy, safety, and space. Through this process, a shared yet fragmented body of texts emerges, forming a network of voices that are relational rather than unified.
 
 The project operates through acts of hosting, creating situations where encounters take place across separation and difference. Grounded in lived experience, these exchanges develop through shared conditions and are shaped by trust, distance, and translation.
 
 **Forms**
 
-The research is translated into a series of artistic forms, including:
+The research gradually expanded into multiple visual, textual, and performative forms in which shelter is approached not as fixed architecture, but as an emotional, relational, and bodily condition continuously negotiated between bodies, voices, walls, and proximity.
 
-Performance: [Aixopluc](https://www.christinaschultz.com/works/aixopluc/).
+[Aixopluc](https://www.christinaschultz.com/works/aixopluc/): a performative manifestation of the project combining voice, bodily presence, collective reading, and spatial intervention
 
-Installation: a series of 18 portraits sewn onto transparent organza sheets
+Eighteen-sheet visual series: a sequence of drawings, writings, and visual notations developed throughout the research process as a fragmented reflection on breath, shelter, confinement, and intimacy
 
-Photography: a series of 12 images developed in relation to the performance
+Video work: moving image of a still body exploring spatial perception, bodily presence, and emotional atmosphere within architectures of enclosure
 
-Text: letters and readings emerging from the writing processes
+[Photographic series](https://www.christinaschultz.com/works/aixopluc/): performative photographs emerging from bodily actions connected to the performance Aixopluc
+
+Collective readings and workshops: shared performative situations developed through voice, listening, and collective reflection
+
 
 These works do not document the process directly but re-articulate it through distinct formal languages.
 
@@ -48,6 +56,8 @@ A complete exhibition / presentation of Walls of Breath, from inside out is plan
 ![image](/media/images/WallsOfBreath3a.jpg)
 ![image](/media/images/WallsOfBreath2.jpg)
 
+![image](/media/images/WallsOfBreath4.jpg)
+
 ![image](/media/images/WallsOfBreathVideo4.jpg)
 
 ![image](/media/images/WallsOfBreathVideo5.jpg)
@@ -59,8 +69,6 @@ A complete exhibition / presentation of Walls of Breath, from inside out is plan
 ![image](/media/images/WallsOfBreathTallerB.jpg)
 
 ![image](/media/images/WallsOfBreath3.jpg)
-
-![image](/media/images/WallsOfBreath4.jpg)
 
 ![image](/media/images/WallsOfBreath5.jpg)
 
