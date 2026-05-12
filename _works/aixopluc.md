@@ -76,3 +76,9 @@ Pic by @FedericoPedrotti
 ![image](/media/images/AixoplucFotos2.png)
 
 ![image](/media/images/AixoplucFotos3.png)
+
+pics by me
+
+![image](/media/images/AixoplucCollective.png)
+
+![image](/media/images/AixoplucCollective2.png)
