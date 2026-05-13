@@ -39,7 +39,11 @@ The different forms have been presented across contexts including Barcelona, Lon
 
 A complete exhibition / presentation of Walls of Breath, from inside out is planned for 2027 at the Felica Fuster Foundation in Barcelona.
 
+**Credits**
 
+Concept and direction: Christina Schultz
+
+Developed with: Centre Penitenciari Wad Ras and Dona i Presó, Barcelona, OSIC Generalitat de Catalunya, Clean Break Theater London, Justizvollzugsanstalt Stadelhiem, Kunstlabor Kösç and Villa Waldberta Landeshauptstadt München
 
 ![image](/media/images/WallsOfBreath1.jpg)
 
