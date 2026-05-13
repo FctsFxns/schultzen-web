@@ -23,13 +23,13 @@ The dramaturgy follows the theatrical score developed in the writing process, tr
 
 ## Credits
 
-Concept and direction: Christina Schultz
+**Concept and direction**: Christina Schultz
 
-Developed with: Carlos Clemente, Diego Ballestrini, Mar Merino, Ricardo Cardenas, Aida Gonzalez
+**Developed with**: Carlos Clemente, Diego Ballestrini, Mar Merino, Ricardo Cardenas, Aida Gonzalez
 
-Participants and collaborators: Eduard Elias, Ana Moreno, Pep (former and current neighbours of La Rambla), Angela, Fernando, Nadia
+**Participants and collaborators**: Eduard Elias, Ana Moreno, Cristina Cordero, Pep (former and current neighbours of La Rambla), Angela, Fernando, Nadia
 
-Performers: Carol Muakuku, Cinta Moreno, David Anguera, Gemma Charines, Lisa Reventós
+**Performers**: Carol Muakuku, Cinta Moreno, David Anguera, Gemma Charines, Lisa Reventós
 
 
 Go back to the project of [Fer Forats or Making Holes](https://www.christinaschultz.com/works/HacerAgujeros/)

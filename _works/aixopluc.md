@@ -10,7 +10,7 @@ home_show: true
 date:  2025-09-09 00:00:00 +0100
 ---
 
-Aixopluc is a text based performance and a series of staged images that translate the research of [Walls of breath, from inside out](https://www.christinaschultz.com/works/WallsOfBreath/) into an embodied and narrative form.
+**Aixopluc** is a text based performance and a series of staged images that translate the research of [Walls of breath, from inside out](https://www.christinaschultz.com/works/WallsOfBreath/) into an embodied and narrative form.
 
 The title refers to the Catalan word for shelter, refuge, or temporary protection, becoming the conceptual and emotional centre of the performance and the images. Through voice, bodily presence, and fragile spatial gestures, the work reflects on how temporary forms of emotional shelter can emerge within conditions of vulnerability, confinement, and instability.
 
@@ -31,13 +31,13 @@ Rather than documenting the performance objectively, the photographs continue th
 
 ## Forms
 
-Live performance: a performative environment combining voice, water, bodily action, fabric structures, and spatial intervention
+**Performance**: a performative environment combining voice, water, bodily action, fabric structures, and spatial intervention
 
-Twelve-part photographic series: performative photographs developed through the bodily actions and spatial constructions of the performance
+**Twelve-part photographic series**: performative photographs developed through the bodily actions and spatial constructions of the performance
 
-Spatial constructions: temporary fabric-based shelters and fragile architectures activated through bodily presence and collective interaction
+**Installation**: textile fabric-based shelters and fragile architectures activated through bodily presence and collective interaction
 
-Collective readings: shared vocal situations exploring listening, intimacy, and temporary collective presence
+**Collective readings**: shared vocal situations exploring listening, intimacy, and temporary collective presence
 
 Together, these forms construct a performative and visual reflection on protection, fragility, and emotional survival.
 

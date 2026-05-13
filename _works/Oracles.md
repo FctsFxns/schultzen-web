@@ -1,7 +1,7 @@
 ---
 title: Oráculos de los Márgenes
 categories: Instalation Performance Drawings 2023
-intro: Performative and material works within **Spells and Potions** on rituals and circulation of mystic knowledge across marginalised practices
+intro: Performative and material works within **Conjuros y Colocones** on rituals and circulation of mystic knowledge across marginalised practices
 featured_image: /media/images/Oracles1.jpg
 
 
@@ -10,7 +10,7 @@ home_show: true
 date:  2022-01-01 00:00:00 +0100
 ---
 
-Oracles / Oráculos de los Márgenes is a series of works that emerges from the research developed in [Spells and Potions](https://www.christinaschultz.com/works/SpellsAndPotions/), engaging with practices of interpretation, ritual, and symbolic language as ways of accessing and transmitting situated knowledge.
+**Oracles / Oráculos de los Márgenes** is a series of works that emerges from the research developed in [Conjuros y Colocones or Spells and Potions](https://www.christinaschultz.com/works/ConjurosColocones/), engaging with practices of interpretation, ritual, and symbolic language as ways of accessing and transmitting situated knowledge.
 
 Drawing on encounters developed within the Metzineres context, the work brings together experiences related to drug use, BDSM practices, trans identities, care, and pleasure. These lived experiences are translated into a system of images, texts, and performative structures that move between testimony, fiction, and ritual language.
 
@@ -28,17 +28,17 @@ In this context, hosting extends into interpretation: participants, performers, 
 
 The research is translated into a series of interconnected forms:
 
-[Drug Tarot](https://www.christinaschultz.com/shop-tarot/): a set of 40 illustrated cards developed from narratives related to drug use, forming a system of interpretation grounded in lived experiences of consumption, care, dependency, and pleasure
+**[Drug Tarot](https://www.christinaschultz.com/shop-tarot/)**: a set of 40 illustrated cards developed from narratives related to drug use, forming a system of interpretation grounded in lived experiences of consumption, care, dependency, and pleasure
 
-Performative readings: [live activations](https://www.macba.cat/es/exposiciones-actividades/actividades/invocaciones-acto-i) in which the deck is interpreted through voice, narration, and one-to-one or collective encounters, producing spaces of exchange and reflection
+**Performative readings**: [live activations](https://www.macba.cat/es/exposiciones-actividades/actividades/invocaciones-acto-i) in which the deck is interpreted through voice, narration, and one-to-one or collective encounters, producing spaces of exchange and reflection
 
-Installation / Oracle fair: a spatial structure composed of three kiosks built from a series of drawings by the artist, informed by medieval imagery related to drug use, BDSM practices, and transsexual rituals. Conceived as an oracle fair, the installation creates an environment for performative readings and encounters, in which the deck and other oracles are activated, intersect and circulate.
+**Installation / Oracle fair**: a spatial structure composed of three kiosks built from a series of drawings by the artist, informed by medieval imagery related to drug use, BDSM practices, and transsexual rituals. Conceived as an oracle fair, the installation creates an environment for performative readings and encounters, in which the deck and other oracles are activated, intersect and circulate.
 
 These forms operate as interconnected modes of activation, in which the oracle functions as a central device while spatial and performative elements expand its field of meaning.
 
 ## Context
 
-The work was developed within the framework of [Spells and Potions](https://www.christinaschultz.com/works/SpellsAndPotions/) in collaboration with Metzineres, and presented in performative and exhibition contexts, including MACBA (Museum of Contemporary Art of Barcelona).
+The work was developed within the framework of [Conjuros y Colocones or Spells and Potions](https://www.christinaschultz.com/works/ConjurosColocones/) in collaboration with Metzineres, and presented in performative and exhibition contexts, including MACBA (Museum of Contemporary Art of Barcelona).
 
 It forms part of a broader inquiry into alternative epistemologies and the ways in which marginalised experiences generate symbolic systems, collective rituals, and forms of knowledge that resist dominant narratives.
 
@@ -47,11 +47,15 @@ If you are interested in acquiring a deck, please [visit the shop](https://www.c
 
 ## Credits
 
-Concept and direction: Christina Schultz
+**Concept and direction**: Christina Schultz
 
-Developed in collaboration with: Metzineres
+**Developed in collaboration with**: Metzineres, shelter spaces for women who use drugs and survive multiple situations of violences
 
-Participants and collaborators: members of the Metzineres community
+**Participants and collaborators**: members of the Metzineres community
+
+Back to the research project [Conjuros y Colocones or Spells and Potions](https://www.christinaschultz.com/works/metzineres/)
+
+
 
 ![image](/media/images/DrugTarot1.jpg)]
 

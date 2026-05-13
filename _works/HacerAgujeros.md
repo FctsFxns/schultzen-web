@@ -12,7 +12,7 @@ date:  2023-06-06 00:00:00 +0100
 
 ![image](/media/images/hacerAgujeros1.jpg)
 
-Fer Forats or Making holes is a collaborative artistic research project developed through transversal writing processes in relation to La Rambla in Barcelona.
+**Fer Forats** or **Making holes** is a collaborative artistic research project developed through transversal writing processes in relation to La Rambla in Barcelona.
 
 The project engages with the Rambla as a contested and transformed space—marked by tourism, displacement, and the gradual disappearance of its residents. Through writing, it seeks to reopen the Rambla as a lived environment and a shared space of imagination.
 
@@ -32,24 +32,30 @@ At a later stage, the project expands into a documentary investigation conceived
 
 ## Forms
 
-The research is translated into performative, textual, and spatial forms:
-
-
 The research is translated into performative, textual, spatial, and filmic forms:
 
-Performance: [Rambla 14, wandering fragments](https://www.christinaschultz.com/works/Rambla14/)
+**Performance**: [Rambla 14, wandering fragments](https://www.christinaschultz.com/works/Rambla14/)
 
-Heterotopic publication: seven site-specific curtains composed of fictitious dialogues by participants and neighbours, presented at the Santa Mònica Arts Centre
+**Heterotopic publication**: seven site-specific curtains composed of fictitious dialogues by participants and neighbours, presented at the Santa Mònica Arts Centre
 
-Text: a body of fictionalised and collective writings developed through the sessions
+**Text**: a body of fictionalised and collective writings developed through the sessions
 
-Documentary (ongoing): a filmic investigation conceived as a detective narrative tracing the possible authors of the letters written in 1972, following the theatrical score developed in the writing process
+**Documentary** (ongoing): a filmic investigation conceived as a detective narrative tracing the possible authors of the letters written in 1972, following the theatrical score developed in the writing process
 
 These works re-articulate the writing processes through distinct narrative and performative structures.
 
 ## Context
 
 The project was developed in Barcelona in dialogue with local institutions and independent initiatives, and presented through workshops, performances, and public programmes.
+
+## Credits
+
+**Concept and direction**: Christina Schultz
+
+**Developed in collaboration with**: Arts Center Santa Mònica
+
+**Participants and collaborators**: Carlos Clemente, Diego Ballestrini, Mar Merino, Ricardo Cardenas, Aida Gonzalez
+
 
 ![image](/media/images/hacerAgujerosQalbi2.jpg)
 ![image](/media/images/hacerAgujerosQalbi1.jpg)

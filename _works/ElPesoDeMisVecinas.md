@@ -9,7 +9,7 @@ published: true
 home_show: false
 date:  2019-04-05 00:00:00 +0100
 ---
-El Peso de Mis Vecinas is an artistic research project that engages with women whose lives are shaped by cross-border movement and informal labour, particularly in relation to practices of carrying goods across borders.
+**El Peso de Mis Vecinas** is an artistic research project that engages with women whose lives are shaped by cross-border movement and informal labour, particularly in relation to practices of carrying goods across borders.
 
 The project explores how these forms of labour—often invisible, precarious, and physically demanding—produce specific conditions of proximity, where relationships are formed through shared routes, risks, and experiences.
 
@@ -35,19 +35,19 @@ These voices are not stabilised into fixed accounts, but remain multiple, embodi
 
 In this context, hosting is not imposed but learned: it emerges through the negotiation of presence, trust, and proximity within already existing forms of exchange, support, and interdependence.
 
-**Form**
+**Forms**
 
 The research is translated into performative, visual, and narrative forms:
 
-A performance: Las voces de mis vecinas stages fragments of the collected voices through singing, performative narration, and vocal composition
+**Performance**: Las voces de mis vecinas stages fragments of the collected voices through singing, performative narration, and vocal composition
 
-Drawings: series of 18 white-on-black ink drawings that translate the shared experiences into visual forms, condensing gestures, movements, and emotional states into symbolic compositions
+**Drawings**: series of 18 white-on-black ink drawings that translate the shared experiences into visual forms, condensing gestures, movements, and emotional states into symbolic compositions
 
-Animation documentary (12 min): an unpublished short film structured as a musical composition, in which the songs and drawings developed during the research become the primary narrative material.
+**Animation documentary** (12 min): an unpublished short film structured as a musical composition, in which the songs and drawings developed during the research become the primary narrative material.
 
-Notebook: a working and narrative space in which fragments of text, reflections, and observations are gathered, tracing the development of the project and its encounters
+**Notebook**: a working and narrative space in which fragments of text, reflections, and observations are gathered, tracing the development of the project and its encounters
 
-A publication: structured through the format of recipes, bringing together songs, writings, and narratives as scores for transmission. Developed through the encounters, it reconfigures lived experiences into instructional and poetic forms, articulating a multiplicity of voices and their resonance.
+**Publication**: structured through the format of recipes, bringing together songs, writings, and narratives as scores for transmission. Developed through the encounters, it reconfigures lived experiences into instructional and poetic forms, articulating a multiplicity of voices and their resonance.
 
 These forms do not document the encounters directly, but re-articulate them across different media: voice, image, and writing; allowing experiences to remain open, embodied, and in transformation.
 
@@ -63,13 +63,13 @@ The project received support from the Generalitat de Catalunya and the PEI Progr
 
 ## Credits
 
-Concept and direction: Christina Schultz
+**Concept and direction**: Christina Schultz
 
-Developed in collaboration with: Nadia, Aisha, Fatima, Zhor, Sahra, Mileda, Hafeda, Regina, Stti
+**Developed in collaboration with**: Nadia, Aisha, Fatima, Zhor, Sahra, Mileda, Hafeda, Regina, Stti
 
-In collaboration with: Fundació Comtal
+**In collaboration with**: Fundació Comtal, La Capella Barcelona Producció
 
-**Support**
+## Support
 
 The investigation of this project was made possible by the [Barcelona Producció 2017/2018 grant](http://lacapella.barcelona/en/el-peso-de-mis-vecinas-presentation-and-exhibition-drawings) and the [PEI study program by MACBA](https://www.macba.cat/).
 

@@ -10,7 +10,7 @@ home_show: true
 published: true
 date:  2026-01-01 00:00:00 +0100
 ---
-Walls of Breath, from inside out is an ongoing transdisciplinary project (2023–2026) developed through workshops, collective readings, drawing processes, performative actions, video, photography, and writing in dialogue with incarcerated women and prison environments.
+**Walls of Breath, from inside out** is an ongoing transdisciplinary project (2023–2026) developed through workshops, collective readings, drawing processes, performative actions, video, photography, and writing in dialogue with incarcerated women and prison environments.
 
 Departing from the idea of the “aixopluc”, a Catalan word referring to shelter, refuge, or temporary protection, the project reflects on how intimacy, emotional survival, and forms of inner space can emerge within structures defined by confinement, control, and separation.
 
@@ -28,15 +28,15 @@ The project operates through acts of hosting, creating situations where encounte
 
 The research gradually expanded into multiple visual, textual, and performative forms in which shelter is approached not as fixed architecture, but as an emotional, relational, and bodily condition continuously negotiated between bodies, voices, walls, and proximity.
 
-[Aixopluc](https://www.christinaschultz.com/works/aixopluc/): a performative manifestation of the project combining voice, bodily presence, collective reading, and spatial intervention
+**[Aixopluc](https://www.christinaschultz.com/works/aixopluc/)**: a performative manifestation of the project combining voice, bodily presence, collective reading, and spatial intervention
 
-Eighteen-sheet visual series: a sequence of drawings, writings, and visual notations developed throughout the research process as a fragmented reflection on breath, shelter, confinement, and intimacy
+**Eighteen-sheet visual series**: a sequence of drawings, writings, and visual notations sewed to transparent organza sheets as a fragmented portrait on women in prison submerged in intellectual intimacy
 
-Video work: moving image of a still body exploring spatial perception, bodily presence, and emotional atmosphere within architectures of enclosure
+**Video work**: moving image of a still body exploring spatial perception, bodily presence, and emotional atmosphere within architectures of enclosure
 
-[Photographic series](https://www.christinaschultz.com/works/aixopluc/): performative photographs emerging from bodily actions connected to the performance Aixopluc
+**[Photographic series](https://www.christinaschultz.com/works/aixopluc/)**: performative photographs emerging from bodily actions connected to the performance Aixopluc
 
-Collective readings and workshops: shared performative situations developed through voice, listening, and collective reflection
+**Collective readings and workshops**: shared performative situations developed through voice, listening, and collective reflection
 
 
 These works do not document the process directly but re-articulate it through distinct formal languages.
@@ -47,6 +47,11 @@ The different forms have been presented across contexts including Barcelona, Lon
 
 A complete exhibition / presentation of Walls of Breath, from inside out is planned for 2027 at the Felica Fuster Foundation in Barcelona.
 
+## Credits
+
+**Concept and direction**: Christina Schultz
+
+**Developed with**: Centre Penitenciari Wad Ras, Barcelona, JVA Stadelheim, München, Generalitat de Catalunya, Centre Civics de Barcelona, Dona i Presó,Clean Break Theatre, London, Kunstlabor Kösç and Villa Waldberta, München
 
 
 ![image](/media/images/WallsOfBreath1.jpg)
